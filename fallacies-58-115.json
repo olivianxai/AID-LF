@@ -2,10 +2,10 @@
     {
         "name": "Argument by Fast Talking",
         "steps": [
-            "Identify if a person is making a claim or argument. Output only yes or no.",
-            "Identify if the person making the argument is speaking rapidly, output only yes or no.",
-            "Identify if the argument is accepted primarily accepted because of fast reasoning, output only yes or no",
-            "You are an expert at identifying logical fallacies, identify if the argument has substancial supporting logical evidence. Output only yes or no."
+            "Identify if a person is making a claim or argument.",
+            "Identify if the person making the argument is speaking rapidly,",
+            "Identify if the argument is accepted primarily because of fast reasoning, output only yes or no",
+            "Identify if the argument has substantial supporting logical evidence."
         ],
         "ground_truth": [
             "yes",
@@ -22,41 +22,35 @@
     {
         "name": "Argument by Gibberish",
         "steps": [
-            "Identify if a person is making a claim or argument. Output only yes or no.",
-            "You are an expert at identifying logical fallacies, identify if the argument is reliant on incomprehensible jargon, or advanced language unrelated to the argument, or incomprehensible gibberish. Output only yes or no.",
-            "Identify if the argument relies on overly complicated details that don't support the claim. Output only yes or no.",
-            "Identify if the argument has substancial supporting logical evidence and output only yes or no."
+            "Identify if a person is making a claim or argument.",
+            "Identify if the argument is reliant on incomprehensible jargon OR overcomplicated details.",
+            "Identify if the argument has other supporting logical evidence."
         ],
         "ground_truth": [
-            "yes",
             "yes",
             "yes",
             "no"
         ],
         "operations": [
             "and",
-            "or",
             "and"
         ]
     },
     {
         "name": "Argument by Personal Charm",
         "steps": [
-            "Identify if a person is making a claim or argument. Output only yes or no.",
-            "Identify if the person making the argument has noticeable charm. Output only yes or no.",
-            "Identify if the argument's strenth is reliant on the person's charm. Output only yes or no.",
-            "Identify if the person's charm is unrelated to their argument. Output only yes or no.",
-            "Identify if the argument has substancial supporting logical evidence. Output only yes or no."
+            "Identify if a person is making a claim or argument.",
+            "Identify if the argument's strenth is reliant on the person's charm or personal characteristics.",
+            "Identify if the person's charm is unrelated to their argument.",
+            "Identify if the argument has other substantial supporting logical evidence."
         ],
         "ground_truth": [
-            "yes",
             "yes",
             "yes",
             "yes",
             "no"
         ],
         "operations": [
-            "and",
             "and",
             "and",
             "and"
@@ -65,10 +59,10 @@
     {
         "name": "Argument by Pigheadedness",
         "steps": [
-            "Identify if a person is making a claim or argument to another person. Output only yes or no.",
-            "Identify if a person is refusing to support an argument or beleif of their's with proper evidence. Output only yes or no.",
-            "Identify if all arguments or opinions presented are backed by substantial logical evidence. Output only yes or no.",
-            "Identify if the refusal to accept an argument or support one's own argument is due to stubbornness. Output only yes or no."
+            "Identify if a person is making a claim or argument to another person.",
+            "Identify if a person is refusing to accept or hear a different argument.",
+            "Identify if their arguments or opinions presented are backed by substantial logical evidence.",
+            "Identify if their refusal to accept or hear argument is due to stubbornness."
         ],
         "ground_truth": [
             "yes",
@@ -77,7 +71,7 @@
             "yes"
         ],
         "operations": [
-            "or",
+            "and",
             "and",
             "and"
         ]
@@ -85,10 +79,10 @@
     {
         "name": "Argument by Repetition",
         "steps": [
-            "Identify if the main claim or argument is being repeated multiple times. Output only yes or no.",
-            "Identify if new evidence or reasoning is presented with each repetition. Output only yes or no.",
-            "Identify if repeating the same argument multiple times is used as the primary means of supporting the argument. Output only yes or no.",
-            "Identify if the argument has substancial supporting logical evidence. Output only yes or no."
+            "Identify if the main claim or argument is being repeated multiple times.",
+            "Identify if new evidence or reasoning is presented with each repetition.",
+            "Identify if repeating the same argument multiple times is used as the primary means of supporting the argument.",
+            "Identify if the argument has substantial supporting logical evidence."
         ],
         "ground_truth": [
             "yes",
@@ -105,11 +99,11 @@
     {
         "name": "Argument by Selective Reasoning",
         "steps": [
-            "Identify if there are multiple arguments presented by one person to support a claim. Output only yes or no.",
-            "Identify if these arguments vary in strength. Output only yes or no.",
-            "Identify if there is a second person opposing the first person who has presented multiple arguments. Output only yes or no.",
-            "Identify if the second person is choosing to rebut only weaker arguments from the first person. Output only yes or no.",
-            "Identify if the second person treats the first person's weaker arguments as if they are their strongest ones. Output only yes or no."
+            "Identify if there are multiple arguments presented by one person to support a claim.",
+            "Identify if these arguments vary in strength.",
+            "Identify if a second person is opposing the first person",
+            "Identify if the second person is choosing to rebut only weaker arguments from the first person.",
+            "Identify if the second person treats the first person's weaker arguments as if they are their strongest ones."
         ],
         "ground_truth": [
             "yes",
@@ -128,38 +122,35 @@
     {
         "name": "Argument from Age",
         "steps": [
-            "Identify if a person is making a claim or argument to another person. Output only yes or no.",
-            "Identify if the argument appeals to the age or antiquity of the argument or arguer. Output only yes or no.",
-            "Identify if the conclusion is primarily reliant on the age/antiquity of the argument. Output only yes or no.",
-            "Identify if the argument has substancial supporting logical evidence. Output only yes or no."
+            "Identify if the conclusion is primarily reliant on the age/antiquity of the argument.",
+            "Identify if the argument has substantial supporting logical evidence."
         ],
         "ground_truth": [
-            "yes",
-            "yes",
             "yes",
             "no"
         ],
         "operations": [
-            "and",
-            "and",
             "and"
         ]
     },
     {
         "name": "Argument from Fallacy",
         "steps": [
-            "Identify if a person is making a claim or argument containing a logical fallacy. Output only yes or no.",
-            "Identify if a second person is concluding that the argument with a logical fallacy is wrong. Output only yes or no.",
-            "Identify if the second person concludes the argument is wrong only because of the presence of a logical fallcy. Output only yes or no.",
-            "Identify if the second person address the truth of the argument by providing independent refuting evidence. Output only yes or no."
+            "Identify if a person is making a claim or argument.",
+            "Identify if this claim or argument contains a logical fallacy."
+            "Identify if a second person is concluding that the argument is wrong.",
+            "Identify if the second person concludes the argument is wrong only because of the presence of a logical fallacy.",
+            "Identify if the second person responds to the argument by providing additional evidence."
         ],
         "ground_truth": [
+            "yes",
             "yes",
             "yes",
             "yes",
             "no"
         ],
         "operations": [
+            "and",
             "and",
             "and",
             "and"
@@ -168,9 +159,9 @@
     {
         "name": "Argument from False Authority",
         "steps": [
-            "Identify if a person making an argument is being presented as a figure of authority or experience. Output only yes or no.",
-            "Identify if the person's actual area of expertise is related to the argument they present. Output only yes or no.",
-            "Identify if the person's expertise is used primarily to influence other's opinions on an unrelated topic. Output only yes or no."
+            "Identify if the person making an argument is being presented as a figure of authority or experience.",
+            "Identify if the person's actual area of expertise is related to the argument they present.",
+            "Identify if the person's expertise is used primarily to influence other's opinions on an unrelated topic."
         ],
         "ground_truth": [
             "yes",
@@ -185,10 +176,10 @@
     {
         "name": "Argument from Hearsay",
         "steps": [
-            "Identify if a testimony is used to support an argument. Output only yes or no.",
-            "Identify if the source providing the testimony can be fact checked to have been eyewitness to the event. Output only yes or no.",
-            "Identify if the information has been passed through intermediary sources before getting to the person giving testimony. Output only yes or no.",
-            "Identify if the argument is primarily reliant on the testimony from someone who was not eyewitness. Output only yes or no."
+            "Identify if a testimony is used to support an argument.",
+            "Identify if the source providing the testimony can be fact checked to have been eyewitness to the event.",
+            "Identify if the information has been passed through intermediary sources before getting to the person giving testimony.",
+            "Identify if the argument is primarily reliant on the testimony from someone who was not eyewitness."
         ],
         "ground_truth": [
             "yes",
@@ -205,9 +196,9 @@
     {
         "name": "Argument from Ignorance",
         "steps": [
-            "Identify if a person is making a claim about something being true or false. Output only yes or no.",
-            "Identify if the claim being made is soley reliant on the fact that there is no evidence against the claim. Output only yes or no.",
-            "Determine if the claim is supported by substancial logical evidence. Output only yes or no."
+            "Identify if a person is making a claim about something being true or false.",
+            "Identify if the claim is soley reliant on the fact that there is no evidence against it.",
+            "Determine if the claim is supported by substantial logical evidence."
         ],
         "ground_truth": [
             "yes",
@@ -222,19 +213,16 @@
     {
         "name": "Argument from Incredulity",
         "steps": [
-            "Identify if a person is making a claim or presenting evidence. Output only yes or no.",
-            "Identify if a second person expresses disbeleif, inability to beleive, or refusal to beleive the first person's claim. Output only yes or no.",
-            "Identify if the second person concludes the claim is impossible or improbable. Output only yes or no.",
-            "Identify if there is substancial logical evidence supporting the second person's conclusion about the claim. Output only yes or no."
+            "Identify if a person is making a claim.",
+            "Identify if a second person expresses disbeleif or refusal to beleive the first person's claim.",
+            "Identify if the second person's conclusion is supported by additional evidence.",
         ],
         "ground_truth": [
-            "yes",
             "yes",
             "yes",
             "no"
         ],
         "operations": [
-            "and",
             "and",
             "and"
         ]
@@ -242,19 +230,16 @@
     {
         "name": "Argument from Silence",
         "steps": [
-            "Identify if a person is making a claim, argument, or coming to a conclusion. Output only yes or no.",
-            "Identify if someone remains slient or refuses to present additional evidence after a claim or argument. Output only yes or no.",
-            "Identify if someone draws a conclusion about the a claim's truth based only on that silence. Output only yes or no.",
-            "Identify if there is substancial logical evidence supporting all claims and conclusions made. Output only yes or no."
+            "Identify if a person (A) is drawing a conclusion.",
+            "Identify if another person (B) remains silent or refuses to present additional evidence.",
+            "Identify if person A draws the conclusion about the claim's truth based only on that silence.",
         ],
         "ground_truth": [
             "yes",
             "yes",
-            "yes",
-            "no"
+            "yes"
         ],
         "operations": [
-            "and",
             "and",
             "and"
         ]
@@ -262,14 +247,14 @@
     {
         "name": "Argument of the Beard",
         "steps": [
-            "Identify if an argument involves two contrasting extremes. Output only yes or no.",
-            "Identify if the argument draws the conclusion that there is a discernable difference between the two extremes",
-            "Identify if the argument comes to the conclusion that lack of a defineable boundary implies no meaningful difference exists. Output only yes or no."
+            "Identify if an argument involves two contrasting extremes.",
+            "Identify if the argument comes to the conclusion because of the lack of a defineable boundary.",
+            "Identify if there is additional evidence supplied to support the conclusion."
         ],
         "ground_truth": [
             "yes",
-            "no",
-            "yes"
+            "yes",
+            "no"
         ],
         "operations": [
             "and",
@@ -279,19 +264,16 @@
     {
         "name": "Argument to Moderation",
         "steps": [
-            "Identify if there are two opposing positions presented. Output only yes or no.",
-            "Identify if a third, middle position is presented that gives moderation between the first two positions. Output only yes or no.",
-            "Identify if the third, middle position is claimed to be correct only because it is a compromise between the other two positions. Output only yes or no.",
-            "Identify if substancial logical evidence is given in support of the middle position. Output only yes or no."
+            "Identify if there are two opposing positions presented.",
+            "Identify if a third position is presented that gives moderation between the first two positions.",
+            "Identify if the third position is claimed to be correct only because it is a compromise between the other two positions.",
         ],
         "ground_truth": [
             "yes",
             "yes",
-            "yes",
-            "no"
+            "yes"
         ],
         "operations": [
-            "and",
             "and",
             "and"
         ]
@@ -299,19 +281,16 @@
     {
         "name": "Argument to the Purse",
         "steps": [
-            "Identify if a person is making a claim or argument. Output only yes or no.",
-            "Identify if the financial status of the person making an argument is mentioned. Output only yes or no.",
-            "Identify if a conclusion reached about the truthness of the argument or claim is based primarily on the financial status of the person. Output only yes or no.",
-            "Identify if there is substancial logical evidence supporting all claims or arguments made. Output only yes or no."
+            "Identify if a person is making a claim or argument.",
+            "Identify if the financial status of the person making an argument is mentioned.",
+            "Is the judgment of the argument or claim based mainly on the person's financial status?",
         ],
         "ground_truth": [
             "yes",
             "yes",
-            "yes",
-            "no"
+            "yes"
         ],
         "operations": [
-            "and",
             "and",
             "and"
         ]
@@ -319,17 +298,16 @@
     {
         "name": "Avoiding the Issue",
         "steps": [
-            "Identify if a person is asking a question, making a claim, or arguing something. Output only yes or no.",
-            "Identify if a second person directly addresses the statements from the first person while mentioning only related topics. Output only yes or no.",
-            "Identify if person 2 makes an unrelated statement that sidesteps the original argument. Output only yes or no.",
-            "Identify if the original claim, statement, or question gets forgotten or remains unadressed. Output only yes or no."
+            "Identify if a person is asking a question, making a claim, or arguing something.",
+            "Identify if a second person directly addresses the statements from the first person.",
+            "Identify if person 2 creates an unrelated argument to divert attention.",
+            "Identify if the original claim, statement, or question remains unaddressed."
         ],
         "ground_truth": [
             "yes",
             "no",
-            "yes",
+            "no",
             "yes"
-        ],
         "operations": [
             "and",
             "and",
@@ -339,19 +317,16 @@
     {
         "name": "Base Rate Fallacy",
         "steps": [
-            "Identify if a statistical base rate related to a claim or statement is available. Output only yes or no.",
-            "Identify if the statistical base rate is ignored or dismissed by a person. Output only yes or no.",
-            "Identify if irrelevant information that is not the statistical base rate is used to make a judgement. Output only yes or no.",
-            "Identify if a person irrationally dismisses statistics that actually apply to their case. Output only yes or no."
+            "Identify if a statistical information related to a claim or statement is available.",
+            "Identify if the statistical information is ignored or dismissed.",
+            "Identify if, instead, some irrelevant information is used to make a judgement."
         ],
         "ground_truth": [
-            "yes",
             "yes",
             "yes",
             "yes"
         ],
         "operations": [
-            "and",
             "and",
             "and"
         ]
@@ -359,9 +334,9 @@
     {
         "name": "Begging the Question",
         "steps": [
-            "Identify if a person is making a claim or argument. Output only yes or no.",
-            "Identify if the argument's validity depends on already accepting what it's trying to prove. Output only yes or no.",
-            "Does the claim or argument use circular reasoning? Output only yes or no."
+            "Identify if a person is making a claim or argument.",
+            "Identify if the argument's validity depends on already accepting what it's trying to prove.",
+            "Does the claim or argument use circular reasoning?"
         ],
         "ground_truth": [
             "yes",
@@ -376,10 +351,10 @@
     {
         "name": "Biased Sample Fallacy",
         "steps": [
-            "Identify if a population is being sampled for statistical analysis. Output only yes or no.",
-            "Identify if the sampled population is being used to draw conclusions about a larger population or group than the sample population. Output only yes or no.",
-            "Identify if the sample population was carefully chosen to be representative of a larger population. Output only yes or no.",
-            "Identify if a possible bias in the sample misrepresents the larger population. Output only yes or no."
+            "Identify if a population is being sampled.",
+            "Identify if the sampled population is being used to draw conclusions about a larger population or group.",
+            "Identify if the sample population was carefully chosen to be representative of a larger population.",
+            "Identify if the conclusion contains a possible bias in the sample that does not exist in the larger population."
         ],
         "ground_truth": [
             "yes",
@@ -396,19 +371,16 @@
     {
         "name": "Blind Authority Fallacy",
         "steps": [
-            "Identify if an claim or argument being made is false. Output only yes or no.",
-            "Identify if there is significant logical evidence supporting the claim or argument. Output only yes or no.",
-            "Identify if the claim or argument is being accepted soley because a figure of authority or worship said so. Output only yes or no.",
-            "Identify if the arguer is treated as infallible or ultimate. Output only yes or no."
+            "Identify if an claim or argument being made.",
+            "Identify if there is significant logical evidence supporting the claim or argument.",
+            "Identify if the claim or argument is being accepted solely because a figure of authority said so.",
         ],
         "ground_truth": [
             "yes",
             "no",
-            "yes",
             "yes"
         ],
         "operations": [
-            "and",
             "and",
             "and"
         ]
@@ -416,10 +388,10 @@
     {
         "name": "Broken Window Fallacy",
         "steps": [
-            "Identify if a statement is made presenting a disaster or something harmful as beneficial. Output only yes or no.",
-            "Identify if the statement or argument focuses primarily on benefits during the recovery process. Output only yes or no.",
-            "Identify if the statement avoids mentioning the cost of recovery after a disaster or accident. Output only yes or no.",
-            "Identify if the argument assumes the disaster or accident was a net positive. Output only yes or no."
+            "Identify if a statement is made presenting a disaster or something harmful as beneficial.",
+            "Identify if the statement or argument focuses primarily on benefits during the recovery process.",
+            "Identify if the statement avoids mentioning the cost of recovery after a disaster or accident.",
+            "Identify if the argument assumes the disaster or accident was a net positive."
         ],
         "ground_truth": [
             "yes",
@@ -436,9 +408,9 @@
     {
         "name": "Bulverism",
         "steps": [
-            "Identify if there are two parties, one party making an argument and the other responding to it. Output only yes or no.",
-            "Identify if the responding party primarily assumes the argument is wrong based on solid, logical arguments. Output only yes or no.",
-            "Identify if the responding party dismisses the argument based on the arguer's suspected motives, social identity, or personal characteristics. Output only yes or no."
+            "Identify if there are two parties, one party making an argument and the other responding to it.",
+            "Identify if the responding party primarily assumes the argument is wrong based on solid, logical arguments.",
+            "Identify if the responding party dismisses the argument based on the arguer's suspected motives, social identity, or personal characteristics."
         ],
         "ground_truth": [
             "yes",
@@ -453,9 +425,9 @@
     {
         "name": "Casual Reductionism",
         "steps": [
-            "Identify if there is a statement or claim being made. Output only yes or no.",
-            "Identify if there are actually multiple causes related to the same outcome. Output only yes or no.",
-            "Identify if the statement attributes an outcome to a single cause without addressing other relevant causes. Output only yes or no."
+            "Identify if there is a statement or claim being made.",
+            "Identify if there are actually multiple causes related to the same outcome.",
+            "Identify if the statement attributes this outcome to a single cause without addressing other relevant causes."
         ],
         "ground_truth": [
             "yes",
@@ -470,21 +442,18 @@
     {
         "name": "Cherry Picking",
         "steps": [
-            "Identify if an argument presents selective evidence to support a position. Output only yes or no.",
-            "Identify if there is a valid piece of evidence, which goes against the argument, that has been withheld. Output only yes or no.",
-            "Identify if withheld evidence would weaken the argument. Output only yes or no.",
-            "Identify if the withheld information was ommitted on purpose. Output only yes or no.",
-            "Identify if the evidence presented creates a misleading or incomplete picture of the available evidence. Output only yes or no."
+            "Identify if an argument presents selective evidence to support a position.",
+            "Identify if there is a valid piece of evidence, which goes against the argument, that has been withheld.",
+            "Identify if the withheld information was ommitted on purpose.",
+            "Identify if the evidence presented creates a misleading or incomplete picture of the claim."
         ],
         "ground_truth": [
             "yes",
-            "yes",
-            "yes",
+            "yes"
             "yes",
             "yes"
         ],
         "operations": [
-            "and",
             "and",
             "and",
             "and"
@@ -493,27 +462,24 @@
     {
         "name": "Circular Definition",
         "steps": [
-            "Identify if a definition of a term is being presented. Output only yes or no.",
-            "Identify if the definition of a term contains the term, or a variant of the term, itself. Output only yes or no.",
-            "Identify if the definition provides a clear explanation of what the term means for those unfamiliar with it. Output only yes or no."
+            "Identify if a definition of a term is being presented.",
+            "Identify if the definition of the term contains the term, or a variant of the term, itself."
         ],
         "ground_truth": [
             "yes",
-            "yes",
-            "no"
+            "yes"
         ],
         "operations": [
-            "and",
             "and"
         ]
     },
     {
         "name": "Circular Reasoning",
         "steps": [
-            "Identify if there is a conclusion being argued. Output only yes or no.",
-            "Identify if the premise depends on or assumes the truth of the conclusion. Output only yes or no.",
-            "Identify if there is a circular dependency where X supports Y and Y supports X. Output only yes or no.",
-            "Identify if the reasoning is supported by strong external evidence. Output only yes or no."
+            "Identify if there is a conclusion being argued.",
+            "Identify if the premise depends on or assumes the truth of the conclusion.",
+            "Identify if there is a circular dependency where X supports Y and Y supports X.",
+            "Identify if the reasoning is supported by strong external evidence."
         ],
         "ground_truth": [
             "yes",
@@ -528,13 +494,13 @@
         ]
     },
     {
-        "name": "Communication of Conditionals",
+        "name": "Commutation of Conditionals",
         "steps": [
-            "Identify if a statement is being made. Output only yes or no.",
-            "Identify if the statement contains conditional relationships such as an if-then format. Output only yes or no.",
-            "Identify if the antecedent and consequent have been switched. Output only yes or no.",
-            "Identify if the switched antecedent-consequent is assumed to be true. Output only yes or no.",
-            "Identify if the switched antecedent-consequent pair is logically correct. Output only yes or no."
+            "Identify if a statement is being made.",
+            "Identify if the statement contains conditional relationships such as an (if P then Q) format.",
+            "Identify if the antecedent and consequent have been switched.",
+            "Identify if the switched antecedent-consequent is assumed to be true.",
+            "Identify if the switched antecedent-consequent (if Q then P) pair is logically correct."
         ],
         "ground_truth": [
             "yes",
@@ -553,11 +519,11 @@
     {
         "name": "Complex Question Fallacy",
         "steps": [
-            "Identify if there is a question being asked. Output only yes or no.",
-            "Identify if the question contains built-in assumptions. Output only yes or no.",
-            "Identify if the assumptions are unproven, controversial, or false. Output only yes or no.",
-            "Identify if the question protects the asker from direct accusations by hiding claims within the question structure. Output only yes or no.",
-            "Identify if answering the question would implicitly accept the embedded assumptions. Output only yes or no."
+            "Identify if there is a question being asked.",
+            "Identify if the question contains built-in assumptions.",
+            "Identify if the assumptions are misleading.",
+            "Does the question hide a claim to protect the asker from direct accusations?",
+            "Identify if answering the question would implicitly accept the embedded assumptions."
         ],
         "ground_truth": [
             "yes",
@@ -576,9 +542,9 @@
     {
         "name": "Conflicting Conditions",
         "steps": [
-            "Identify if a claim is being made. Output only yes or no.",
-            "Identify if one part of the claim contradicts with another part. Output only yes or no.",
-            "Identify if the contradiction within the claim makes the entire claim logically impossible. Output only yes or no."
+            "Identify if a claim is being made.",
+            "Identify if one part of the claim contradicts with another part.",
+            "Identify if the contradiction within the claim makes the entire claim logically impossible."
         ],
         "ground_truth": [
             "yes",
@@ -593,9 +559,9 @@
     {
         "name": "Confusing Currently Unexplained with Unexplainable",
         "steps": [
-            "Identify if a statement mentions something that is currently unexplained or unknown. Output only yes or no.",
-            "Identify if the statement concludes that, since there is no current explanation it is simply unexplainable. Output only yes or no.",
-            "Identify if a logical explanation is given for why it would be unexplainable. Output only yes or no."
+            "Identify if a statement mentions something that is currently unexplained or unknown.",
+            "Identify if the statement concludes or assumes that, since there is no current explanation, it is unexplainable.",
+            "Identify if a logical explanation is given for why it would be unexplainable."
         ],
         "ground_truth": [
             "yes",
@@ -610,10 +576,10 @@
     {
         "name": "Confusing an Explanation with an Excuse",
         "steps": [
-            "Identify if there is a claim or action made that requires justification. Output only yes or no.",
-            "Identify if someone provides further explanation about what the claim said. Output only yes or no.",
-            "Identify if this further explanation provides additional relevant evidence supporting the claim. Output only yes or no.",
-            "Identify if the further explanation is treated as justificaton for the claim. Output only yes or no."
+            "Identify if there is a claim or fact made.",
+            "Identify if someone provides an explanation about the claim or fact.",
+            "Identify if additional relevant evidence was presented to support the claim or fact.",
+            "Identify if the explanation is treated as justificaton for the claim or fact."
         ],
         "ground_truth": [
             "yes",
@@ -630,11 +596,11 @@
     {
         "name": "Conjunction Fallacy",
         "steps": [
-            "Identify if a statement is made that involves probability estimates or likelihood comparisons. Output only yes or no.",
-            "Identify if there are two or more conditions/events being combined with a conjunction to form a new condition. Output only yes or no.",
-            "Identify if this new condition is being claimed to be more probable than one of its individual components. Output only yes or no.",
-            "Identify if the specific condition is actually a subset of the more general condition. Output only yes or no.",
-            "Identify if specific conditions are being treated as more probable than general conditions. Output only yes or no."
+            "Identify if a statement is made that involves probability estimates or likelihood comparisons.",
+            "Identify if there are two or more conditions/events being combined with a conjunction to form a new condition.",
+            "Identify if this new condition is being claimed to be more probable than one of its individual components.",
+            "Identify if the specific condition is actually a subset of the more general condition.",
+            "Identify if specific conditions are being treated as more probable than general conditions."
         ],
         "ground_truth": [
             "yes",
@@ -653,13 +619,13 @@
     {
         "name": "Conspiracy Theory",
         "steps": [
-            "Identify if there is a argument being made that includes parts claiming evidence or proof in support of the argument is being tampered with. Output only yes or no.",
-            "Identify if sufficient, reasonable evidence is given to support the claim. Output only yes or no.",
-            "Identify if sufficient evidence is given to support the argument. Output only yes or no."
+            "Is the argument claiming that evidence or proof has been hidden, destroyed, or tampered with by a group",
+            "Did the group do this to prevent verification.",
+            "Identify if sufficient, reasonable evidence is given to support the claim."
         ],
         "ground_truth": [
             "yes",
-            "no",
+            "yes",
             "no"
         ],
         "operations": [
@@ -670,9 +636,9 @@
     {
         "name": "Contextomy",
         "steps": [
-            "Identify if an external source is mentioned or quoted as support for an argument. Output only yes or no.",
-            "Identify if the meaning of the external source out of context is the same as it is in the original context. Output only yes or no.",
-            "Identify if the argument relies on the out-of-context evidence as support. Output only yes or no."
+            "Identify if an external source is mentioned or quoted as support for an argument.",
+            "Identify if the meaning of the external source out of context is the same as it is in the original context.",
+            "Identify if the argument relies on the out-of-context evidence as support."
         ],
         "ground_truth": [
             "yes",
@@ -687,9 +653,9 @@
     {
         "name": "Deceptive Sharing",
         "steps": [
-            "Identify if content, such as an article or post, contains a specific and uncommon instance of an event. Output only yes or no.",
-            "Identify if the content is intended to misleadingly classify a less common event as a common one. Output only yes or no.",
-            "Identify that no explicit claim is made about the event's frequency. Output only yes or no."
+            "Identify if the content, such as an article or post, contains a specific and uncommon instance of an event.",
+            "Identify if the content is intended to misleadingly classify a less common event as a common one.",
+            "Identify that no explicit claim is made about the event's frequency."
         ],
         "ground_truth": [
             "yes",
@@ -704,10 +670,10 @@
     {
         "name": "Definist Fallacy",
         "steps": [
-            "Identify if a term is being defined or redefined in an argument. Output only yes or no.",
-            "Identify if the standard or colloquial definition of the term being defined would harm the argument. Output only yes or no.",
-            "Identify if the arguer proposes a new definition that is more favorable to their argument than the original definition. Output only yes or no.",
-            "Identify if the person uses a redefined or simplified version of a term to make their argument easier to defend. Output only yes or no."
+            "Identify if a term is being defined or redefined in an argument.",
+            "Identify if the standard or colloquial definition of the term being defined would harm the argument.",
+            "Identify if the arguer proposes a new definition that is more favorable to their argument than the original definition.",
+            "Identify if the person uses a redefined or simplified version of a term to make their argument easier to defend."
         ],
         "ground_truth": [
             "yes",
@@ -724,10 +690,10 @@
     {
         "name": "Denying a Conjunct",
         "steps": [
-            "Identify if there is a claim that at least one of Condition P or Condition Q does not hold. Output only yes or no.",
-            "Identify if there is a second premise claiming that one of Condition P or Condition Q does not hold. Output only yes or no.",
-            "Identify if a conclusion is reached that Condition P must be true if Condition Q is false or vice versa. Output only yes or no.",
-            "Identify if the conclusion that P must be true if Q is false has substancial logical support. Output only yes or no."
+            "Does the argument claim that both Condition P and Condition Q cannot be true at the same time?",
+            "Does the argument claim that one of Condition P or Condition Q does not hold.",
+            "Does the argument conclude that the other condition (Q or P) must be true?",
+            "Is the conclusion supported by additional evidence."
         ],
         "ground_truth": [
             "yes",
@@ -744,9 +710,9 @@
     {
         "name": "Denying the Antecedent",
         "steps": [
-            "Identify if there is a conditional statement. For example if P then Q. Output only yes or no.",
-            "Identify if the antecedent, P, is confirmed as being true. Output only yes or no.",
-            "Identify if a conclusion is made about the truth of Q using the truth value of P. Output only yes or no."
+            "Identify if there is a conditional statement. For example if P then Q.",
+            "Identify if the antecedent, P, is confirmed as being true.",
+            "Identify if a conclusion is made about the truth of Q using the truth value of P."
         ],
         "ground_truth": [
             "yes",
@@ -761,11 +727,11 @@
     {
         "name": "Denying the Correlative",
         "steps": [
-            "Identify if there are two mutually exclusive options presented, such as X or not X. Output only yes or no.",
-            "Identify if these options present a true dichotomy representing all possibilities. Output only yes or no.",
-            "Identify if a third option is presented that does not fall into the first two options. Output only yes or no.",
-            "Identify if this third option serves as a distraction from making the original, binary choice. Output only yes or no.",
-            "Identify if the third option actually addresses the original dichotomy. Output only yes or no."
+            "Identify if there are two mutually exclusive options presented, such as X or not X.",
+            "Identify if these options present a true dichotomy representing all possibilities.",
+            "Identify if a third option is presented that does not fall into the first two options.",
+            "Identify if this third option serves as a distraction from making the original, binary choice.",
+            "Identify if the third option actually addresses the original dichotomy."
         ],
         "ground_truth": [
             "yes",
@@ -784,9 +750,9 @@
     {
         "name": "Disjunction Fallacy",
         "steps": [
-            "Identify if the statement involves a disjunctive claim, such as A or B. Output only yes or no.",
-            "Identify if probability estimates are made for both the disjunctive statement and its individual components. Output only yes or no.",
-            "Identify if the disjunctive statement is incorrectly determined to be less probable than one of its individual components. Output only yes or no."
+            "Identify if the statement involves a disjunctive claim, such as A or B.",
+            "Are probability estimates given for both the combined disjunction and at least one individual part?",
+            "Identify if the disjunctive statement is incorrectly determined to be less probable than one of its individual components."
         ],
         "ground_truth": [
             "yes",
@@ -801,10 +767,10 @@
     {
         "name": "Distinction Without a Difference",
         "steps": [
-            "Identify if an argument or claim states that there is a meaningful distinction between to positions, concepts, or terms (A and B). Output only yes or no.",
-            "Identify whether the claimed difference between A and B is based primarily on different language or terminology rather than substance. Output only yes or no.",
-            "Identify if the two positions, A and B, are the same in practice or practical applications. Output only yes or no.",
-            "Identify if the argument's conclusion depends on this supposed distinction between A and B being valid. Output only yes or no."
+            "Identify if an argument or claim states that there is a meaningful distinction between two positions, concepts, or terms (A and B).",
+            "Identify whether the claimed difference between A and B is based primarily on different language.",
+            "Identify if the two positions, A and B, are the same in practice or practical applications.",
+            "Identify if the argument's conclusion depends on this supposed distinction between A and B being valid."
         ],
         "ground_truth": [
             "yes",
@@ -821,14 +787,12 @@
     {
         "name": "Double Standard",
         "steps": [
-            "Identify if there are two or more similar situations being compared. Output only yes or no.",
-            "Identify if the same person or group is making judgements about both situations. Output only yes or no.",
-            "Identify if both situations are similar enough to be judged by the same standard. Output only yes or no.",
-            "Identify if the person or group is applying the same standards to judge both situations. Output only yes or no.",
-            "Identify if the different standards used serve to support the person or group's preferred position. Output only yes or no."
+            "Identify if there are two or more similar situations being compared.",
+            "Identify if both situations are similar enough to be judged by the same standard.",
+            "Identify if the same standards are applied to judge both situations.",
+            "Identify if the different standards used serve to support the person or group's preferred position."
         ],
         "ground_truth": [
-            "yes",
             "yes",
             "yes",
             "no",
@@ -837,17 +801,16 @@
         "operations": [
             "and",
             "and",
-            "and",
             "and"
         ]
     },
     {
         "name": "Ecological Fallacy",
         "steps": [
-            "Identify if a statistical claim or characteristic is made about a group or population. Output only yes or no.",
-            "Identify if an individual from the group or population is being discussed. Output only yes or no.",
-            "Identify if a conclusion is being made about the individual with the reasoning that the individual must have the same characteristic as the group. Output only yes or no.",
-            "Identify if substancial evidence or facts are given to support the conclusion made about the individual. Output only yes or no."
+            "Identify if a statistical claim or characteristic is made about a group or population.",
+            "Identify if an individual from the group or population is being discussed.",
+            "Identify if the argument concludes that the individual has the same characteristic as the group based solely on the group's characteristic.",
+            "Identify if substantial evidence or facts are given to support the conclusion made about the individual."
         ],
         "ground_truth": [
             "yes",
@@ -864,9 +827,9 @@
     {
         "name": "Equivocation",
         "steps": [
-            "Identify if key terms appear multiple times in a statement. Output only yes or no.",
-            "Identify if multiple meanings of the same key term are used in the statement. Output only yes or no.",
-            "Identify if the statement relies on purposefully misinterpreting the ambiguous term to mislead others. Output only yes or no."
+            "Identify if key terms appear multiple times in a statement.",
+            "Identify if multiple meanings of the same key term are used in the statement.",
+            "Identify if the statement relies on purposefully misinterpreting the ambiguous term to mislead others."
         ],
         "ground_truth": [
             "yes",
@@ -881,9 +844,9 @@
     {
         "name": "Etymological Fallacy",
         "steps": [
-            "Identify if a word with different modern and historical meanings is mentioned. Output only yes or no.",
-            "Identify if both the modern and historic meanings of the word are referenced. Output only yes or no.",
-            "Identify if the historical meaning is seen as the true meaning of the word. Output only yes or no."
+            "Identify if a word with different modern and historical meanings is mentioned.",
+            "Identify if both the modern and historic meanings of the word are referenced.",
+            "Identify if the historical meaning is seen as the true meaning of the word."
         ],
         "ground_truth": [
             "yes",
@@ -898,11 +861,11 @@
     {
         "name": "Exclusive Premises",
         "steps": [
-            "Identify if an argument is made that contains a categorical syllogism. Output only yes or no.",
-            "Identify if there are exactly two premises that are negative statements. Output only yes or no.",
-            "Identify if the first premise uses the format 'No X are Y'. Output only yes or no.",
-            "Identify if the second premise uses either the format 'Some Y are not Z' or 'No Y are Z'. Output only yes or no.",
-            "Identify if a conclusion is reached about the relationship between X and Z. Output only yes or no."
+            "Identify if an argument is made that contains a categorical syllogism.",
+            "Identify if there are exactly two premises that are negative statements.",
+            "Identify if the first premise uses the format 'No X are Y' or 'Some X are not Y'.",
+            "Identify if the second premise uses either the format 'Some Y are not Z' or 'No Y are Z'.",
+            "Identify if a conclusion is reached about the relationship between X and Z."
         ],
         "ground_truth": [
             "yes",
@@ -921,10 +884,10 @@
     {
         "name": "Existential Fallacy",
         "steps": [
-            "Identify if an argument is made that contains a categorical syllogism with two premises and one conclusion. Output only yes or no.",
-            "Identify if both premises use universal qualifiers such as 'all', 'every', 'no', etc. Output only yes or no.",
-            "Identify if the conclusion uses a qualifier such as 'some', 'there are', 'there exist', etc. Output only yes or no.",
-            "Identify if the argument assumes that because 'all X are Y', some X must exist. Output only yes or no."
+            "Identify if an argument is made that contains a categorical syllogism with two premises and one conclusion.",
+            "Identify if both premises use universal qualifiers such as 'all', 'every', 'no', etc.",
+            "Identify if the conclusion uses a qualifier such as 'some', 'there are', 'there exist', etc.",
+            "Identify if the argument assumes that because 'all X are Y', some X must exist."
         ],
         "ground_truth": [
             "yes",
@@ -941,10 +904,10 @@
     {
         "name": "Extended Analogy",
         "steps": [
-            "Identify if 3 distinct entities\u2014A, B, and C\u2014are being compared. Output only yes or no.",
-            "Identify if A is being compared to C, and B is being compared to C. Output only yes or no.",
-            "Identify if A is compared to C in terms of the exact same characteristic that B is being compared to C with. Output only yes or no.",
-            "Identify if a conclusion is reached that A and B are similar. Output only yes or no."
+            "Identify if 3 distinct entities A, B, and C are being compared.",
+            "Identify if A is being compared to C, and B is being compared to C.",
+            "Identify if A is compared to C in terms of the exact same characteristic that B is being compared to C with.",
+            "Identify if a conclusion is reached that A and B are similar."
         ],
         "ground_truth": [
             "yes",
@@ -961,10 +924,10 @@
     {
         "name": "fact to fiction fallacy",
         "steps": [
-            "Identify if facts are presented and explicitly stated to be facts. Output only yes or no.",
-            "Identify if a conclusion is drawn from these facts. Output only yes or no.",
-            "Identify if the conclusion follows from or is actually supported by the facts. Output only yes or no.",
-            "Identify if there are any accusations stating that rejecting the conclusion means rejecting the facts themselves. Output only yes or no."
+            "Identify if facts are presented and explicitly stated to be facts.",
+            "Identify if a conclusion is drawn from these facts.",
+            "Identify if the conclusion follows from or is actually supported by the facts.",
+            "Identify if there are any accusations stating that rejecting the conclusion means rejecting the facts themselves."
         ],
         "ground_truth": [
             "yes",
@@ -981,9 +944,9 @@
     {
         "name": "Failure to Elucidate",
         "steps": [
-            "Identify if a person uses a term, and clarification is requested for that term. Output only yes or no.",
-            "Identify if the term is given an explanation after the explanation is requested. Output only yes or no.",
-            "Identify if the explanation makes it more confusing or difficult to understand the term. Output only yes or no."
+            "Identify if a person uses a term, and clarification is requested for that term.",
+            "Identify if the term is given an explanation after the explanation is requested.",
+            "Identify if the explanation makes it more confusing or difficult to understand the term."
         ],
         "ground_truth": [
             "yes",
@@ -998,14 +961,14 @@
     {
         "name": "Fake Precision",
         "steps": [
-            "Identify if the statement contains numerical data, statistical claims, or quantitative rankings. Output only yes or no.",
-            "Identify if the numerical values or statistics are presented with a level of precision that is implausible or unjustified by the context. Output only yes or no.",
-            "Identify if the statistics or figures are likely to mislead the audience due to their false sense of accuracy. Output only yes or no.",
-            "Identify if the misleading statistical presentation benefits the speaker or strengthens their argument. Output only yes or no."
+            "Identify if the statement contains statistical claims.",
+            "Identify if the numerical values or statistics are presented with a level of precision that is plausible by the context.",
+            "Identify if the statistics or figures are likely to mislead the audience due to their false sense of accuracy.",
+            "Identify if the misleading statistical presentation benefits the speaker or strengthens their argument."
         ],
         "ground_truth": [
             "yes",
-            "yes",
+            "no",
             "yes",
             "yes"
         ],
@@ -1018,9 +981,9 @@
     {
         "name": "Fallacy of the Undistributed Middle",
         "steps": [
-            "Identify if there is a categorical syllogism with two premises and one conclusion. Output only yes or no.",
-            "Identify if both premises link different categories (A and B) to the same middle term (C), and the conclusion links A and B directly. Output only yes or no.",
-            "Identify if there is any additional valid reasoning or evidence (outside the premises) that justifies the conclusion. Output only yes or no."
+            "Identify if there is a categorical syllogism with two premises and one conclusion.",
+            "Identify if both premises link different categories (A and B) to the same middle term (C), and the conclusion links A and B directly.",
+            "Identify if there is any additional valid reasoning or evidence (outside the premises) that justifies the conclusion."
         ],
         "ground_truth": [
             "yes",
@@ -1035,11 +998,11 @@
     {
         "name": "Fallacy of Composition",
         "steps": [
-            "Identify if a part-to-whole relationship is being discussed. Output only yes or no.",
-            "Identify if a property or characteristic is attributed to a part/component. Output only yes or no.",
-            "Identify if the conclusion claims the whole possesses the same property as the part/component. Output only yes or no.",
-            "Identify if the property of the part/component neccesarily transfers from the part to the whole. Output only yes or no.",
-            "Identify if there is any additional valid reasoning or evidence, outside the known characteristic/property of the part/component, that justifies the conclusion. Output only yes or no."
+            "Identify if a part-to-whole relationship is being discussed.",
+            "Identify if a property or characteristic is attributed to a part/component.",
+            "Identify if the conclusion claims the whole possesses the same property as the part/component.",
+            "Identify if the property of the part/component neccesarily transfers from the part to the whole.",
+            "Identify if there is any additional valid reasoning or evidence that justifies the conclusion."
         ],
         "ground_truth": [
             "yes",
@@ -1058,11 +1021,11 @@
     {
         "name": "Fallacy of Division",
         "steps": [
-            "Identify if the relationship between a whole entity and its parts/components is being discussed. Output only yes or no.",
-            "Identify if a property or characteristic is attributed to the whole. Output only yes or no.",
-            "Identify if the conclusion claims the parts/components posses the same property as the whole. Output only yes or no.",
-            "Identify if the property of the whole neccesarily transfers from the whole to the part. Output only yes or no.",
-            "Identify if there is any additional valid reasoning or evidence, outside the know characteristic/property of the whole, that justifies the conclusion. Output only yes or no."
+            "Identify if the relationship between a whole entity and its parts/components is being discussed.",
+            "Identify if a property or characteristic is attributed to the whole.",
+            "Identify if the conclusion claims the parts/components posses the same property as the whole.",
+            "Identify if the property of the whole neccesarily transfers from the whole to the part.",
+            "Identify if there is any additional valid reasoning or evidence that justifies the conclusion."
         ],
         "ground_truth": [
             "yes",
@@ -1081,11 +1044,11 @@
     {
         "name": "Fallacy of Every and All",
         "steps": [
-            "Identify if the statement contains universal quantifiers (all, every, none) and existential qualifiers (some, few, many). Output only yes or no.",
-            "Identify if a claim is made with quantifiers in a specific order (e.g., All X have some Y). Output only yes or no.",
-            "Identify if the conclusion reverses the order of the quantifiers. Output only yes or no.",
-            "Identify if the reversed order of the quantifiers changes the logical meaning of the original statement. Output only yes or no.",
-            "Identify if the statement treats these logically different statements as equivalent. Output only yes or no."
+            "Identify if the statement contains universal quantifiers (all, every, none) and existential qualifiers (some, few, many).",
+            "Identify if a claim is made with quantifiers in a specific order (e.g., All X have some Y).",
+            "Identify if the conclusion reverses the order of the quantifiers.",
+            "Identify if the reversed order of the quantifiers changes the logical meaning of the original statement.",
+            "Identify if a single quantifier term (e.g., 'someone') is used equivocally with different meanings between premise and conclusion."
         ],
         "ground_truth": [
             "yes",
@@ -1104,19 +1067,16 @@
     {
         "name": "Fallacy of Four Terms",
         "steps": [
-            "Identify if the argument is structured similarly to a categorical syllogism. Output only yes or no.",
-            "Identify if there are more than 3 terms present. Output only yes or no.",
-            "Identify if any term is used with different meanings in different parts of the argument. Output only yes or no.",
-            "Identify if the middle term correctly connects the other terms for the syllogism. Output only yes or no."
+            "Identify if the argument is structured similarly to a categorical syllogism.",
+            "Identify if there are more than 3 terms present.",
+            "Identify if the middle term correctly connects the other terms for the syllogism."
         ],
         "ground_truth": [
-            "yes",
             "yes",
             "yes",
             "no"
         ],
         "operations": [
-            "and",
             "and",
             "and"
         ]
@@ -1124,9 +1084,9 @@
     {
         "name": "Fallacy of Opposition",
         "steps": [
-            "Identify if there are two opposing parties in the statement. Output only yes or no.",
-            "Identify if one party is dismissing the other party's statement or claim. Output only yes or no.",
-            "Identify if the dismissal is primarily based on thought out reasons and backed by evidence. Output only yes or no."
+            "Identify if there are two opposing parties in the statement.",
+            "Identify if one party is dismissing the other party's statement or claim.",
+            "Identify if the dismissal is primarily based on thought out reasons and backed by evidence."
         ],
         "ground_truth": [
             "yes",
@@ -1141,10 +1101,10 @@
     {
         "name": "False Attribution",
         "steps": [
-            "Identify if a claim or argument is being made. Output only yes or no.",
-            "Identify if a source is cited to support the claim or argument. Output only yes or no.",
-            "Identify if the source is relevant to the topic, credible, able to be verified, and unbiased. Output only yes or no.",
-            "Identify if the claim or argument's credibility is reliant upon the invalid source. Output only yes or no."
+            "Identify if a claim or argument is being made.",
+            "Identify if a source is cited to support the claim or argument.",
+            "Identify if the source is relevant to the topic, credible, able to be verified, and unbiased.",
+            "Identify if the claim or argument's credibility is reliant upon the invalid source."
         ],
         "ground_truth": [
             "yes",
