@@ -1,0 +1,675 @@
+
+[
+{
+  "name": "False Attribution",
+  "steps": [
+    "Is a claim or argument being made?",
+    "Is a source cited to support the claim or argument?",
+    "Does the source have at least one of these issues: irrelevant to the topic, lacks expertise, is unidentified, is biased, is fabricated, or is unverifiable?",
+    "Does the argument’s validity depend on the cited source?"
+  ],
+  "ground_truth": ["yes", "yes", "yes", "yes"],
+  "operations": ["and", "and", "and"]
+},
+{
+  "name": "False Conversion",
+  "steps": [
+    "Does the argument contain a categorical proposition that uses 'all' (A-form) or 'some … not' (O-form)?",
+    "Does the conclusion switch the subject and predicate terms of the proposition?",
+    "Does the conclusion logically follow from the premise after the swap?",
+    "Does the argument provide additional valid reasoning that justifies the swap?"
+  ],
+  "ground_truth": ["yes", "yes", "no", "no"],
+  "operations": ["and", "and", "and"]
+},
+{
+  "name": "False Dilemma",
+  "steps": [
+    "Does the statement present a limited number of possible choices (typically two to three choices)?",
+    "Does the statement use 'either/or' language or similar phrasing that suggests only specific choices exist?",
+    "Does the statement exclude other possibilities?",
+    "Do additional reasonable options or alternatives actually exist beyond those presented?",
+    "Does the statement force a choice between the limited options while ignoring other legitimate possibilities?"
+  ],
+  "ground_truth": ["yes","yes","yes","yes","yes"],
+  "operations": ["and","or","and","and"]
+},
+{
+  "name": "False Effect",
+  "steps": [
+    "Is a causal relationship being claimed (X apparently causes Y)?",
+    "Is the causal claim merely assumed or implied without proper establishment?",
+    "Is the conclusion about X drawn solely from the perceived rightness of Y?",
+    "Does the reasoning flow backward from effect (Y) to cause (X) rather than relying on independent evidence for the cause?"
+  ],
+  "ground_truth": ["yes","yes","yes","yes"],
+  "operations": ["and","and","and"]
+},
+{
+  "name": "False Equivalence",
+  "steps": [
+    "Does the argument compare two completely opposing things or arguments?",
+    "Does the comparison claim the things are equivalent?",
+    "Do the things share only one or very few characteristics?",
+    "Are the shared characteristic(s) minor compared to significant differences?",
+    "Have important distinguishing factors been ignored or oversimplified?",
+    "Is the equivalence drawn logically invalid due to the magnitude of differences?"
+  ],
+  "ground_truth": ["yes","yes","yes","yes","yes","yes"],
+  "operations": ["and","and","and","and","and"]
+},
+{
+  "name": "Fantasy Projection",
+  "steps": [
+    "Is the person describing a subjective, emotionally charged experience?",
+    "Is the person treating this subjective experience as objective reality?",
+    "Is the person suggesting or demanding that others accept their subjective experience as objective reality?"
+  ],
+  "ground_truth": ["yes", "yes", "yes"],
+  "operations": ["and", "and"]
+},
+{
+  "name": "Far Fetched Hypothesis",
+  "steps": [
+    "Is a hypothesis or explanation being proposed?",
+    "Is the proposed hypothesis bizarre or far-fetched?",
+    "Do more ordinary or probable explanations exist for the same phenomenon?",
+    "Were these simpler explanations ignored or dismissed without proper justification?"
+  ],
+  "ground_truth": ["yes","yes","yes","yes"],
+  "operations": ["and","and","and"]
+},
+{
+  "name": "Faulty Comparison",
+  "steps": [
+    "Does the statement compare two things (X and Y)?",
+    "Does the comparison specify a particular aspect or way (Z) they are being compared?",
+    "Are X and Y actually related or comparable in way Z?",
+    "Is the comparison used to make one thing appear more or less favorable than it actually is?",
+    "Does the conclusion about favorability rely on this faulty comparison?"
+  ],
+  "ground_truth": ["yes", "yes", "no", "yes", "yes"],
+  "operations": ["and","and","and","and"]
+},
+{
+  "name": "Gadarene Swine Fallacy",
+  "steps": [
+    "Is there a group or majority holding a position or belief?",
+    "Is there an individual who stands apart from or disagrees with the group?",
+    "Does the argument conclude that the individual is wrong solely because they differ from the group?",
+    "Does the argument assume the group must be correct and the individual must be incorrect based only on numerical difference?"
+  ],
+  "ground_truth": ["yes","yes","yes","yes"],
+  "operations": ["and","and","and"]
+},
+{
+  "name": "Galileo Fallacy",
+  "steps": [
+    "Is there a claim or idea being presented?",
+    "Is this claim being opposed, mocked, forbidden, or persecuted by authorities or the majority?",
+    "Does the argument conclude that because the current claim faces opposition like the historical example it must be true or deserves more credibility?",
+    "Does the reasoning rely primarily on the persecution or opposition itself rather than evidence supporting the claim’s merits?"
+  ],
+  "ground_truth": ["yes","yes","yes","yes"],
+  "operations": ["and","and","and"]
+},
+{
+  "name": "Gamblers Fallacy",
+  "steps": [
+    "Does the situation involve pure random chance or independent events?",
+    "Are previous outcomes being referenced?",
+    "Does the argument claim that past results influence future probabilities?",
+    "Does the logic incorrectly assume dependence between independent random events?"
+  ],
+  "ground_truth": ["yes","yes","yes","yes"],
+  "operations": ["and","and","and"]
+},
+{
+  "name": "Genetic Fallacy",
+  "steps": [
+    "Is the argument evaluating a claim’s truth value?",
+    "Does the argument focus on the origin, source, or history of the claim?",
+    "Is the conclusion about truth or falsity based solely on the claim’s origin?",
+    "Is the origin information relevant to the claim’s actual truth value?",
+    "Does the argument follow the pattern: 'This claim comes from [origin], therefore it is true or false'?"
+  ],
+  "ground_truth": ["yes","yes","yes","no","yes"],
+  "operations": ["and","and","and","and"]
+},
+{
+  "name": "Gish Gallop",
+  "steps": [
+    "Are many distinct arguments or claims being presented?",
+    "Are the arguments presented rapidly or in overwhelming quantity?",
+    "Do the arguments contain proper support, evidence, or logical strength?",
+    "Does the opposing party have sufficient time or opportunity to address each argument individually?",
+    "Does the presentation format prevent interruption or immediate rebuttal?",
+    "Is the sheer volume of arguments being used as a substitute for quality reasoning?"
+  ],
+  "ground_truth": ["yes","yes","no","no","yes","yes"],
+  "operations": ["and","and","and","or","and"]
+},
+{
+  "name": "Hasty Generalization",
+  "steps": [
+    "Is there a sample being used as evidence?",
+    "Is the sample size unreasonably small relative to the total population?",
+    "Is the sample unrepresentative of the broader population?",
+    "Is a broad conclusion being drawn from this sample?",
+    "Is the conclusion being applied to a much larger population or group?",
+    "Does the generalization ignore relevant statistical data or larger patterns?"
+  ],
+  "ground_truth": ["yes","yes","yes","yes","yes","yes"],
+  "operations": ["and","and","and","and","and"]
+},
+{
+  "name": "Having Your Cake",
+  "steps": [
+    "Does the speaker present multiple contradictory or conflicting positions simultaneously?",
+    "Does the statement contain a clear, definitive stance on the issue?",
+    "Does the argument structure allow the speaker to retreat from any position without acknowledging inconsistency?",
+    "Could the speaker be seen as 'right' regardless of which way the argument resolves?",
+    "Does the ambiguity appear intentional to avoid commitment to a specific viewpoint?"
+  ],
+  "ground_truth": ["yes","no","yes","yes","yes"],
+  "operations": ["and","and","and","and"]
+},
+{
+  "name": "Hedging",
+  "steps": [
+    "Was an original claim (X) made?",
+    "Is a revised claim (Y) presented as a response to the challenge?",
+    "Is the claim (Y) revised to avoid counter evidence",
+    "Is the revised claim (Y) substantively different from the original claim (X)?",
+    "Is the revised claim (Y) presented as if it is equivalent to the original claim (X)?"
+  ],
+  "ground_truth": ["yes","yes","yes","yes","yes"],
+  "operations": ["and","and","and","and"]
+},
+{
+  "name": "Historians Fallacy",
+  "steps": [
+    "Does the statement involve judging a past decision or claim?",
+    "Does the judgment use information that was not available at the time the original decision or claim was made?",
+    "Does the statement conclude that the past decision was foolish, wrong, or unreasonable based on this unavailable information?",
+    "Does the criticism fail to acknowledge the limitations of knowledge available during the original time period?"
+  ],
+  "ground_truth": ["yes","yes","yes","yes"],
+  "operations": ["and","and","and"]
+},
+{
+  "name": "Homunculus Fallacy",
+  "steps": [
+    "Does the statement identify a phenomenon or concept that needs explanation (X)?",
+    "Is a reason or explanation (Y) being offered for that phenomenon?",
+    "Does the offered explanation (Y) depend on the same phenomenon (X) it is supposed to explain?",
+    "Does this create a circular explanation requiring the same phenomenon to explain itself?",
+    "Does the explanation lead to an infinite regress, endlessly invoking itself?"
+  ],
+  "ground_truth": ["yes","yes","yes","yes","yes"],
+  "operations": ["and","and","and","and"]
+},
+{
+  "name": "Hot Hand Fallacy",
+  "steps": [
+    "Does the statement involve a sequence of wins or losses in chance-based games or events?",
+    "Does the statement attribute the streak to the person being 'hot' or 'cold' rather than random probability?",
+    "Does the statement predict future outcomes based on the current streak?",
+    "Are the underlying events based on chance rather than on skill?",
+    "Does the reasoning ignore the independence of each individual probability event?"
+  ],
+  "ground_truth": ["yes","yes","yes","yes","yes"],
+  "operations": ["and","and","and","and"]
+},
+{
+  "name": "Hypnotic Bait and Switch",
+  "steps": [
+    "Are multiple statements presented in succession?",
+    "Are the initial statements uncontroversially true and followed by a final controversial claim the arguer wants accepted as true?",
+    "Are the initial statements uncontroversially false and followed by a final controversial claim the arguer wants accepted as false?",
+    "Does the final controversial claim logically follow from the preceding statements?",
+    "Is the sequence designed to make the audience more likely to accept the final claim because they agreed with the preceding statements?",
+    "Is credibility being transferred from the initial statements to the final claim without a logical connection?"
+  ],
+  "ground_truth": ["yes", "yes", "yes", "no", "yes", "yes"],
+  "operations": ["and", "or", "and", "and", "and"]
+},
+{
+  "name": "Hypothesis Contrary to Fact",
+  "steps": [
+    "Does the statement describe a hypothetical scenario about past or future events?",
+    "Does the statement use 'if…then' conditional reasoning about alternative circumstances?",
+    "Is the claim about what 'would have happened' based on speculation rather than solid evidence?",
+    "Is the hypothetical outcome treated as certain or factual rather than uncertain?",
+    "Does the argument contain proper support for the connection between the hypothetical condition and the predicted outcome?",
+    "Does the statement make definitive claims about counterfactual situations with adequate justification?"
+  ],
+  "ground_truth": ["yes","yes","yes","yes","no","no"],
+  "operations": ["and","and","and","and","and"]
+},
+{
+  "name": "Identity Fallacy",
+  "steps": [
+    "Does the scenario involve two parties: one making an argument and another responding to it?",
+    "Does Person 1 present a substantive argument?",
+    "Does Person 2 dismiss or reject the argument?",
+    "Does Person 2 base their dismissal on Person 1’s physical or social identity (class, generation, ethnicity, gender, sexual orientation, profession, occupation, or subgroup)?",
+    "Does Person 2’s dismissal ignore the actual content, logic, or merits of the argument itself?",
+    "Is the argument’s validity independent of the arguer’s identity characteristics?"
+  ],
+  "ground_truth": ["yes","yes","yes","yes","yes","yes"],
+  "operations": ["and","and","and","and","and"]
+},
+{
+  "name": "If By Whiskey",
+  "steps": [
+    "Does the response address a question with two possible interpretations?",
+    "Does the response use a conditional structure of 'If you mean X … / If you mean Y …' (or wording with the same structure)?",
+    "Does the speaker support one side with strongly loaded or emotional language?",
+    "Does the speaker support the opposite side with equally loaded or emotional language?",
+    "Does the response present both branches so that it seems to endorse both sides of the issue at once?",
+    "Does the response avoid taking a single, clear stance on the original question?"
+  ],
+  "ground_truth": ["yes", "yes", "yes", "yes", "yes", "yes"],
+  "operations": ["and", "and", "and", "and", "and"]
+},
+{
+  "name": "Illicit Contraposition",
+  "steps": [
+    "Does the statement contain categorical propositions using 'no'?",
+    "Does the statement contain categorical propositions using 'some'?",
+    "Are there two related statements presented where the second statement claims to be derived from the first?",
+    "Does the second statement switch the subject and predicate terms from the first?",
+    "Are both the subject and predicate terms negated in the second statement?",
+    "Does the argument treat this transformation as logically valid?"
+  ],
+  "ground_truth": ["yes","yes","yes","yes","yes","yes"],
+  "operations": ["or","and","and","and","and"]
+},
+{
+  "name": "Illicit Major",
+  "steps": [
+    "Is the argument a categorical syllogism with a major premise, minor premise, and conclusion?",
+    "Is the major term distributed in the conclusion?",
+    "Is the major term distributed in the major premise?"
+  ],
+  "ground_truth": ["yes","yes","no"],
+  "operations": ["and","and"]
+},
+{
+  "name": "Illicit Minor",
+  "steps": [
+    "Is the argument a categorical syllogism with a major premise, minor premise, and conclusion?",
+    "Is the minor term distributed in the conclusion?",
+    "Is the minor term distributed in the minor premise?"
+  ],
+  "ground_truth": ["yes","yes","no"],
+  "operations": ["and","and"]
+},
+{
+  "name": "Illicit Substitution of Identicals",
+  "steps": [
+    "Does the argument state that two names or descriptions refer to the same entity (X is Y)?",
+    "Does someone express a belief, thought, or knowledge claim about one of those names (X or Y) having property Z or performing action Z?",
+    "Does the argument substitute the other name inside that belief context?",
+    "Does the argument conclude that the believer now attributes Z to the substituted name as well?",
+    "Does the believer recognize that the two names refer to the same entity?"
+  ],
+  "ground_truth": ["yes", "yes", "yes", "yes", "no"],
+  "operations": ["and", "and", "and", "and"]
+},
+{
+  "name": "Imposter Fallacy",
+  "steps": [
+    "Does the statement describe members of a group (Group A) whose actions damage the group’s reputation?",
+    "Does someone claim these damaging members are infiltrators from another group (Group B)?",
+    "Is the infiltration claim supported by sufficient evidence?",
+    "Does the argument assume that true members of Group A would behave in that damaging way?",
+    "Does the claim state that the alleged infiltrators are trying to make Group A look bad?"
+  ],
+  "ground_truth": ["yes", "yes", "no", "no", "yes"],
+  "operations": ["and", "and", "and", "and"]
+},
+{
+  "name": "Incomplete Comparison",
+  "steps": [
+    "Does the statement make a comparative claim using words like 'better', 'superior', 'less', 'more', or 'faster'?",
+    "Does the statement specify what it is being compared to (the reference point)?",
+    "Can the comparative claim be verified or refuted using only the information provided?",
+    "Does the statement present a vague or absolute superiority claim without context?"
+  ],
+  "ground_truth": ["yes", "no", "no", "yes"],
+  "operations": ["and", "and", "and"]
+},
+{
+  "name": "Inconsistency",
+  "steps": [
+    "Does the statement assert two or more distinct propositions?",
+    "Are any of those propositions logically incompatible (cannot all be true together)?",
+    "Are the incompatible propositions each presented as true, valid, or to be accepted?",
+    "Is the inconsistency intentional (such as for rhetorical effect or acknowledged contradiction)",
+  ],
+  "ground_truth": ["yes", "yes", "yes", "no"],
+  "operations": ["and", "and", "and"]
+},
+{
+  "name": "Inflation of Conflict",
+  "steps": [
+    "Does the statement cite two or more authorities or experts who disagree on an issue?",
+    "Does the statement claim that meaningful conclusions can be reached about the issue?",
+    "Does the statement dismiss or minimize the credibility of the authorities because they disagree?",
+    "Does the reasoning treat the disagreement as proof that there is possibility of partial knowledge OR evidence of any reliable knowledge (all-or-nothing thinking)?"
+  ],
+  "ground_truth": ["yes", "no", "yes", "no"],
+  "operations": ["and", "and", "and"]
+},
+{
+  "name": "Insignificant Cause",
+  "steps": [
+    "Does the situation involve an outcome that plausibly has multiple contributing factors?",
+    "Does the argument present only one factor as the sole cause of that outcome?",
+    "Is the singled-out factor relatively minor compared with other plausible contributing factors?",
+    "Does the argument treat this minor factor as a complete and sufficient explanation?",
+    "Can the minor factor alone adequately explain the entire incident or outcome"
+  ],
+  "ground_truth": ["yes", "yes", "yes", "yes", "no"],
+  "operations": ["and", "and", "and", "and"]
+},
+{
+  "name": "Jumping to Conclusions",
+  "steps": [
+    "Does the statement present a conclusion?",
+    "Is little or no supporting evidence provided or evaluated before that conclusion is reached?",
+    "Does the argument proceed directly from the limited evidence to the conclusion without a thorough reasoning process?"
+  ],
+  "ground_truth": ["yes", "yes", "yes"],
+  "operations": ["and", "and"]
+},
+{
+  "name": "Just Because Fallacy",
+  "steps": [
+    "Is a claim or assertion being made?",
+    "Is the claimant asked for reasons, evidence, or justification (or is such justification reasonably expected)?",
+    "Does the response refuse to provide any actual reasons or evidence?",
+    "Does the claimant present them-self as the ultimate authority on the matter?",
+    "Is no substantive reasoning or evidence offered to support the original claim?"
+  ],
+  "ground_truth": ["yes", "yes", "yes", "yes", "yes"],
+  "operations": ["and", "and", "and", "and"]
+},
+{
+  "name": "Just In Case Fallacy",
+  "steps": [
+    "Is the argument recommending acceptance of a claim or course of action?",
+    "Is the recommendation justified by a possible worst-case outcome, without regard to how likely it is?",
+    "Is that worst-case outcome presented as the primary reason for accepting the claim or action?",
+    "Are more probable scenarios or evidence-based considerations ignored in favor of the worst-case possibility?"
+  ],
+  "ground_truth": ["yes", "yes", "yes", "yes"],
+  "operations": ["and", "and", "and"]
+},
+{
+  "name": "Kettle Logic",
+  "steps": [
+    "Is there a main point or conclusion being argued?",
+    "Are multiple supporting statements or arguments presented for that same main point?",
+    "Do multiple of the statements contradict one another?",
+    "Are these contradictory statements presented simultaneously?"
+  ],
+  "ground_truth": ["yes", "yes", "yes", "yes"],
+  "operations": ["and", "and", "and"]
+},
+{
+  "name": "Least Plausible Hypothesis",
+  "steps": [
+    "Are multiple hypotheses or explanations proposed for the same phenomenon?",
+    "Is one particular hypothesis chosen as the preferred explanation?",
+    "Do simpler, more defensible explanations exist?",
+    "Does the chosen hypothesis require more assumptions than the simpler alternatives?"
+  ],
+  "ground_truth": ["yes", "yes", "yes", "yes"],
+  "operations": ["and", "and", "and"]
+},
+{
+  "name": "Limited Depth",
+  "steps": [
+    "Is a claim being made about something (Claim X about Y)?",
+    "Does the reasoning state the claim is true because the subject belongs to a certain category (Y is a member of category Z)?",
+    "Is category membership used as the sole explanation without addressing underlying causes?",
+    "Does the statement restate 'what' is being explained rather than explaining 'why'?"
+  ],
+  "ground_truth": ["yes", "yes", "yes", "yes"],
+  "operations": ["and", "and", "and"]
+},
+{
+  "name": "Limited Scope",
+  "steps": [
+    "Is a theory or explanation being proposed for a phenomenon?",
+    "Does the explanation provide details beyond simply restating that phenomenon?",
+    "Does the explanation offer genuine reasoning instead of redefining terms?",
+    "Does the explanation have broader explanatory power beyond the single phenomenon?"
+  ],
+  "ground_truth": ["yes", "no", "no", "no"],
+  "operations": ["and", "and", "and"]
+},
+{
+  "name": "Logic Chopping",
+  "steps": [
+    "Is a claim or argument presented?",
+    "Is an objection or counter-argument made in response?",
+    "Does the objection focus on a trivial detail rather than the main point?",
+    "Does the objection use overly technical or pedantic reasoning?",
+    "Does the objection distract from or avoid addressing the central issue?",
+    "Does the response prioritize technical correctness over substantive engagement?"
+  ],
+  "ground_truth": ["yes", "yes", "yes", "yes", "yes", "yes"],
+  "operations": ["and", "and", "and", "and", "and"]
+},
+{
+  "name": "Ludic Fallacy",
+  "steps": [
+    "Is a statistical model or probability theory used to support or reject a claim?",
+    "Does the situation involve chaotic elements, external influences, or unpredictable variables?",
+    "Does the statistical model assume perfect conditions or controlled variables that conflict with real-world complexity?",
+    "Does the person using the statistical model display overconfidence in the statistical results?",
+    "Are non-statistical factors such as context, human behavior, or external forces ignored or dismissed?"
+  ],
+  "ground_truth": ["yes", "yes", "yes", "yes", "yes"],
+  "operations": ["and", "and", "and", "and"]
+},
+{
+  "name": "Lying with Statistics",
+  "steps": [
+    "Does the statement present statistical data or numerical claims?",
+    "Is the statistical data used to support or reject a particular claim?",
+    "Are there signs of statistical manipulation, such as selective data, misleading visuals, or questionable methodology?",
+    "Does the presentation focus solely on numerical results without including context or questioning data collection methods?",
+    "Do the statistics appear interpreted in a way that overstates support for the claim when method limitations are considered?",
+    "Does the argument rely on these manipulated or misinterpreted statistics to support the claim?"
+  ],
+  "ground_truth": ["yes", "yes", "yes", "yes", "yes", "yes"],
+  "operations": ["and", "and", "and", "and", "and"]
+},
+{
+  "name": "Magical Thinking",
+  "steps": [
+    "Does the statement claim a causal connection or correlation between two events?",
+    "Is the connection based on logic or evidence",
+    "Is the connection based on superstition or magic?",
+    "Is the claimed relationship supported by factual or logical foundation?"
+  ],
+  "ground_truth": ["yes", "no", "yes", "no"],
+  "operations": ["and", "and", "and"]
+},
+{
+  "name": "McNamara Fallacy",
+  "steps": [
+    "Is the argument relying exclusively on quantitative data (numbers, statistics, metrics)?",
+    "Are qualitative factors (experiences, subjective elements, unmeasurable aspects) ignored or dismissed?",
+    "Is the decision based solely on hard data while excluding important qualitative considerations?"
+  ],
+  "ground_truth": ["yes", "yes", "yes"],
+  "operations": ["and", "and"]
+},
+{
+  "name": "Meaningless Question",
+  "steps": [
+    "Is a question being asked?",
+    "Does the question have rational, coherent meaning?",
+    "Can the question be logically answered or addressed?",
+    "Is the question equivalent to an impossible operation?"
+  ],
+  "ground_truth": ["yes", "no", "no", "yes"],
+  "operations": ["and", "and", "and"]
+},
+{
+  "name": "Misleading Vividness",
+  "steps": [
+    "Is the argument presenting dramatic or vivid examples?",
+    "Do those examples represent a small number of cases or anecdotes?",
+    "Is there significant statistical evidence indicating an overall trend that differs from the vivid events?",
+    "Do the vivid events outweigh the statistical evidence?",
+    "Does the argument conclude that events like the vivid examples are more likely to occur?"
+  ],
+  "ground_truth": ["yes", "yes", "yes", "yes", "yes"],
+  "operations": ["and", "and", "and", "and"]
+},
+{
+  "name": "Missing Data Fallacy",
+  "steps": [
+    "Is a hypothesis or conclusion being presented?",
+    "Is a fatal flaw or significant problem with the hypothesis pointed out?",
+    "Does the person refuse to acknowledge ignorance about their hypothesis or conclusion?",
+    "Does the person claim that there exists missing data?",
+    "Does the person assume missing data will validate their original claim instead of revising the hypothesis?"
+  ],
+  "ground_truth": ["yes","yes","yes","yes","yes"],
+  "operations": ["and","and","and","and"]
+},
+{
+  "name": "Modal Scope Fallacy",
+  "steps": [
+    "Does the argument involve model concepts (necessity, possibility, must, could, might, necessarily, possibly)?",
+    "Does the argument include a conditional statement that uses a necessary truth as its premise?",
+    "Does the conclusion remove or ignore the conditional nature of the original statement?",
+    "Does the conclusion incorrectly expand the scope of necessity from a conditional premise to an unconditional statement?"
+  ],
+  "ground_truth": ["yes","yes","yes","yes"],
+  "operations": ["and","and","and"]
+},
+{
+  "name": "Moralistic Fallacy",
+  "steps": [
+    "Does the argument make a conclusion about what 'is' or 'is not'?",
+    "Does the argument follow the form 'X ought to be, therefore X is' or 'X ought not to be. Therefore, X is not.'?",
+    "Does the argument have empirical evidence or factual reasoning for the 'is' claim?",
+    "Are the moral norms the sole justification for the factual conclusion?"
+  ],
+  "ground_truth": ["yes", "yes", "no", "yes"],
+  "operations": ["and", "and", "and"]
+},
+{
+  "name": "Moving the Goalposts",
+  "steps": [
+    "Is there an ongoing argument or debate between two parties?",
+    "Did one party initially raise a specific issue or objection (Issue A)?",
+    "Did the opposing party adequately address or answer that initial issue?",
+    "Did the first party then raise a new, different issue (Issue B) instead of acknowledging the answer?",
+    "Was the new issue also adequately answered by the opposing party?",
+    "Does this pattern continue with additional issues being raised and adequately answered?",
+    "Does the first party refuse to concede or accept the opponent's overall argument despite all issues being addressed?",
+    "Is the first party changing the criteria for what constitutes a satisfactory response?"
+  ],
+  "ground_truth": ["yes","yes","yes","yes","yes","yes","yes","yes"],
+  "operations": ["and","and","and","and","and","and","and"]
+}
+
+{
+  "name": "Multiple Comparisons Fallacy",
+  "steps": [
+    "Is there an analysis of data or results within the statement?",
+    "Does the analysis involve multiple comparisons or multiple variables?",
+    "Are unexpected or significant trends being claimed from the data?",
+    "Is the confidence level or significance threshold less than 100%?",
+    "Were proper statistical correction methods for multiple comparisons applied?",
+    "Does the conclusion treat a statistically probable insignificant finding as probable?"
+  ],
+  "ground_truth": ["yes","yes", "yes", "yes", "no", "yes"],
+  "operations": ["and", "and", "and", "and"]
+},
+{
+  "name": "Naturalistic Fallacy",
+  "steps": [
+    "Does the conclusion make a claim about what ought or ought not to be?",
+    "Is that normative claim based solely on what is or what is not?",
+    "Does the argument follow the form “X is, therefore X ought to be” or “X is not, therefore X ought not to be”?"
+  ],
+  "ground_truth": ["yes","yes","yes"],
+  "operations": ["and","and"]
+},
+{
+  "name": "Negating Antecedent and Consequent",
+  "steps": [
+    "Does the argument contain a conditional statement of the form 'If P then Q'?",
+    "Does the conclusion derive directly from that conditional premise?",
+    "Does the conclusion negate both the antecedent (P) and the consequent (Q)?",
+    "Are the negated terms left in their original positions (not-P as antecedent, not-Q as consequent)?"
+  ],
+  "ground_truth": ["yes","yes","yes","yes"],
+  "operations": ["and","and","and"]
+},
+{
+  "name": "Negative Conclusion from Affirmative Premises",
+  "steps": [
+    "Is the argument a categorical syllogism with two premises and one conclusion?",
+    "Are both premises positive statements?",
+    "Is the conclusion a negative statement?"
+  ],
+  "ground_truth": ["yes","yes","yes"],
+  "operations": ["and","and"]
+},
+{
+  "name": "Nirvana Fallacy",
+  "steps": [
+    "Is a realistic solution or current situation (X) being presented or implied?",
+    "Is an idealized or perfect scenario (Y) presented for comparison?",
+    "Is the realistic solution dismissed based solely on its comparison to the perfect scenario?",
+    "Does the argument focus on the potential benefits or improvements of the realistic solution?"
+  ],
+  "ground_truth": ["yes", "yes", "yes", "no"],
+  "operations": ["and", "and", "and"]
+},
+{
+  "name": "No True Scotsman",
+  "steps": [
+    "Is there an initial universal claim using absolute terms similar to 'all', 'every', 'always', etc. ?",
+    "Is that universal claim refuted by a counterexample?",
+    "Does the claimant respond by narrowing the claim to exclude the counterexample?",
+    "Does the narrowed claim introduce a qualifier (like 'true', 'real') without objective criteria?"
+  ],
+  "ground_truth": ["yes", "yes", "yes", "yes"],
+  "operations": ["and", "and", "and"]
+},
+{
+  "name": "Non Sequitur",
+  "steps": [
+    "Does the argument contain a conclusion?",
+    "Does the argument present specific premises, evidence, or reasoning?",
+    "Is the evidence or reason relevant to the conclusion?"
+  ],
+  "ground_truth": ["yes","yes","no"],
+  "operations": ["and","and"]
+},
+{
+  "name": "Notable Effort",
+  "steps": [
+    "Is someone’s effort or hard work mentioned in the argument?",
+    "Does the argument present that effort as the reason or evidence for the conclusion's truth?",
+    "Does the argument rely on factual or logical evidence to support the conclusion?",
+    "Does the structure match: “Person made effort to prove Y; therefore, Y is true”?",
+    "Are all supporting reasons based solely on the effort expended?"
+  ],
+  "ground_truth": ["yes","yes","no","yes","yes"],
+  "operations": ["and","and","and","and"]
+}
+]
