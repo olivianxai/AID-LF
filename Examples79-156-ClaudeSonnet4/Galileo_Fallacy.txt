@@ -1,0 +1,9 @@
+#classification: Galileo Fallacy#
+#
+For Galileo Fallacy:
+Step 1 evaluation: Yes - Lindi and Jonah are presenting a claim that Elvis is still alive and living on planet Hounddogian
+Step 2 evaluation: Yes - Their claim is being questioned/opposed by others who find their beliefs odd
+Step 3 evaluation: Yes - They conclude that their claim deserves credibility because it faces opposition like Galileo's ideas did historically
+Step 4 evaluation: Yes - Their reasoning relies on the comparison to Galileo's persecution rather than providing evidence for Elvis being alive on another planet
+Pattern comparison: My answers [Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y]
+#

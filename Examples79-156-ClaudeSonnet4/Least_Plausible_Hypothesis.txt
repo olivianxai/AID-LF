@@ -1,0 +1,9 @@
+#classification: Just In Case Fallacy#
+#
+For Just In Case Fallacy:
+Step 1 evaluation: Yes - The argument is recommending acceptance of a claim (that the date didn't show up due to a family emergency)
+Step 2 evaluation: Yes - The recommendation is justified by a possible worst-case outcome (father's heart attack) without regard to how likely this scenario actually is
+Step 3 evaluation: Yes - The worst-case outcome (medical emergency) is presented as the primary reason for accepting the claim about why the date was missed
+Step 4 evaluation: Yes - More probable scenarios (simply forgot, changed mind, etc.) are ignored in favor of the dramatic worst-case possibility
+Pattern comparison: My answers [Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y]
+#

@@ -1,0 +1,10 @@
+#classification: Fallacy of Composition#
+#
+For Fallacy of Composition:
+Step 1 evaluation: Yes - The statement discusses chess playing (part) and the person Maury (whole)
+Step 2 evaluation: Yes - The statement attributes the property of "getting excited and falling off chair" to the activity of chess playing
+Step 3 evaluation: Yes - The conclusion claims that Maury (the whole person) will possess this same property when playing chess
+Step 4 evaluation: No - The property of getting excited during chess does not necessarily transfer from the activity to the person in all contexts
+Step 5 evaluation: No - No additional valid reasoning or evidence is provided to justify why Maury specifically would fall off his chair while playing chess
+Pattern comparison: My answers [Y/Y/Y/N/N] exactly match ground truth [Y/Y/Y/N/N]
+#

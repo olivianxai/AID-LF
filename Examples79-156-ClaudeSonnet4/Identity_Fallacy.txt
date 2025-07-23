@@ -1,0 +1,11 @@
+#classification: Identity Fallacy#
+#
+For Identity Fallacy:
+Step 1 evaluation: Yes - There are two parties: S.J. Sam making an argument and Cindy responding to it
+Step 2 evaluation: Yes - S.J. Sam presents a substantive argument about systematic discrimination against Asian people in tech
+Step 3 evaluation: Yes - Cindy dismisses/rejects the argument by presenting counter-evidence
+Step 4 evaluation: Yes - S.J. Sam bases their dismissal on Cindy's ethnic identity (telling her to keep quiet unless she is Asian)
+Step 5 evaluation: Yes - S.J. Sam's dismissal ignores the actual content and merits of Cindy's counter-argument
+Step 6 evaluation: Yes - The validity of the research Cindy cited is independent of her ethnic identity
+Pattern comparison: My answers [Y/Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y/Y]
+#

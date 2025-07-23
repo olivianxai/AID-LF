@@ -1,0 +1,10 @@
+#classification: Just Because Fallacy#
+#
+For Just Because Fallacy:
+Step 1 evaluation: Yes - A claim is being made (that facts were obtained from a TV program)
+Step 2 evaluation: Yes - The professor is reasonably expected to ask for justification of sources
+Step 3 evaluation: Yes - The response refuses to provide actual reasons or evidence (can't remember the program name)
+Step 4 evaluation: Yes - The claimant presents themselves as having authority based on having seen "a program"
+Step 5 evaluation: Yes - No substantive reasoning or evidence is offered to support the original claim
+Pattern comparison: My answers [Yes, Yes, Yes, Yes, Yes] exactly match ground truth [yes, yes, yes, yes, yes]
+#

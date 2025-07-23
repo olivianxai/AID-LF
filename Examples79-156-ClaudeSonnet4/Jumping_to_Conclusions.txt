@@ -1,0 +1,10 @@
+#classification: Just Because Fallacy#
+#
+For Just Because Fallacy:
+Step 1 evaluation: Yes - The husband is making a claim that the house is fine and they should buy it
+Step 2 evaluation: Yes - When making a major purchase decision like buying a house, providing reasons and evidence for the decision is reasonably expected
+Step 3 evaluation: Yes - The husband refuses to provide actual reasons or evidence, instead relying on the absence of information (realtor didn't mention problems) as sufficient justification
+Step 4 evaluation: Yes - The husband presents his conclusion as authoritative without substantive backing
+Step 5 evaluation: Yes - No substantive reasoning or evidence is offered to support the claim that the house is fine
+Pattern comparison: My answers [Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y]
+#

@@ -1,0 +1,10 @@
+#classification: Just Because Fallacy#
+#
+For Just Because Fallacy:
+Step 1 evaluation: Yes - Mom makes a claim that watching TV close will make you go blind
+Step 2 evaluation: Yes - When Jonny challenges the claim by calling it "B.S.", this constitutes asking for justification or expressing doubt about the assertion
+Step 3 evaluation: Yes - Jonny refuses to provide any actual reasons or evidence, simply dismissing it as "B.S." without substantive counter-argument
+Step 4 evaluation: Yes - Mom presents herself as the authority by making the definitive statement without offering supporting evidence
+Step 5 evaluation: Yes - No substantive reasoning or evidence is offered by either party to support their positions
+Pattern comparison: My answers [Y,Y,Y,Y,Y] exactly match ground truth [Y,Y,Y,Y,Y]
+#

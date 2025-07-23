@@ -1,0 +1,10 @@
+#classification: Just Because Fallacy#
+#
+For Just Because Fallacy:
+Step 1 evaluation: Yes - A claim is being made that panicking about the virus is "crazy"
+Step 2 evaluation: Yes - The claimant is expected to provide justification for why the comparison is valid
+Step 3 evaluation: Yes - No actual reasons or evidence are provided for why the statistical comparison is meaningful
+Step 4 evaluation: Yes - The claimant presents themselves as the authority by calling the other person a "moron who rejects facts"
+Step 5 evaluation: Yes - No substantive reasoning is offered beyond raw statistics without context
+Pattern comparison: My answers [Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y]
+#

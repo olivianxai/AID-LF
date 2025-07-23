@@ -1,0 +1,8 @@
+#classification: Jumping to Conclusions#
+#
+For Jumping to Conclusions:
+Step 1 evaluation: Yes - The dialogue presents conclusions about what electrolytes are and why they're used in Brawndo
+Step 2 evaluation: Yes - Little to no supporting evidence is provided - the Secretary of State simply says electrolytes are "what they use to make Brawndo" without explaining what they actually are, and the Secretary of Defense offers no real evidence for why they use them
+Step 3 evaluation: Yes - The argument proceeds directly from the limited circular reasoning to the conclusion without any thorough reasoning process about what electrolytes actually are or their function
+Pattern comparison: My answers [Yes, Yes, Yes] exactly match ground truth [Yes, Yes, Yes]
+#

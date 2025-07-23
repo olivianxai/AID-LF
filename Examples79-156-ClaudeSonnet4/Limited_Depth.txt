@@ -1,0 +1,10 @@
+#classification: Just Because Fallacy#
+#
+For Just Because Fallacy:
+Step 1 evaluation: Yes - A claim is being made that the dog goes through garbage because he is a dog
+Step 2 evaluation: Yes - When asked why the dog exhibits this behavior, justification would reasonably be expected
+Step 3 evaluation: Yes - The response provides no actual reasons or evidence, just restates that it's because he's a dog
+Step 4 evaluation: Yes - The claimant presents the fact that the animal is a dog as the ultimate authority/explanation
+Step 5 evaluation: Yes - No substantive reasoning or evidence is offered beyond the circular statement
+Pattern comparison: My answers [Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y]
+#

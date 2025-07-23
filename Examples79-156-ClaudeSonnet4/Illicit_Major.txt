@@ -1,0 +1,9 @@
+#classification: Existential Fallacy#
+#
+For Existential Fallacy:
+Step 1 evaluation: Yes - The argument contains a categorical syllogism with two premises ("All hotdogs are fast food" and "No hamburgers are hotdogs") and one conclusion ("Therefore, no hamburgers are fast food")
+Step 2 evaluation: Yes - Both premises use universal qualifiers ("All" and "No")
+Step 3 evaluation: Yes - The conclusion uses a qualifier ("no") that implies existence claims about the relationship between categories
+Step 4 evaluation: Yes - The argument assumes that because categories have certain universal relationships, conclusions about existence can be drawn without establishing that the categories actually contain members
+Pattern comparison: My answers [Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y]
+#

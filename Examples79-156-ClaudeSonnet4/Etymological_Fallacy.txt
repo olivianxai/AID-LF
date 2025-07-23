@@ -1,0 +1,8 @@
+#classification: Equivocation#
+#
+For Equivocation:
+Step 1 evaluation: Yes - The key term "awful" appears multiple times in the statement
+Step 2 evaluation: Yes - The word "awful" is used with two different meanings - first as "terrible/bad" and then as "inspiring awe"
+Step 3 evaluation: Yes - The statement relies on purposefully reinterpreting the ambiguous term "awful" to mislead and change the meaning from negative to positive
+Pattern comparison: My answers [Yes, Yes, Yes] exactly match ground truth [Yes, Yes, Yes]
+#

@@ -1,0 +1,11 @@
+#classification: If By Whiskey#
+#
+For If By Whiskey:
+Step 1 evaluation: Yes - The response addresses the question "how I feel about whiskey" which has two possible interpretations
+Step 2 evaluation: Yes - The response uses the conditional structure "If when you say whiskey you mean..." followed by "But, if when you say whiskey you mean..." 
+Step 3 evaluation: Yes - The speaker supports one side (against whiskey) with strongly loaded negative language like "devil's brew," "poison scourge," "bloody monster," "evil drink"
+Step 4 evaluation: Yes - The speaker supports the opposite side (for whiskey) with equally loaded positive language like "oil of conversation," "philosophic wine," "Christmas cheer," "stimulating drink"
+Step 5 evaluation: Yes - The response presents both branches so that it endorses being against whiskey in one interpretation and for whiskey in the other interpretation
+Step 6 evaluation: Yes - The response avoids taking a single, clear stance by supporting both sides depending on the interpretation of "whiskey"
+Pattern comparison: My answers [Y/Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y/Y]
+#

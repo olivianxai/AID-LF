@@ -1,0 +1,11 @@
+#classification: Identity Fallacy#
+#
+For Identity Fallacy:
+Step 1 evaluation: Yes - There are two parties: President Trump making a statement about Special Olympics children, and the responder making a counter-statement
+Step 2 evaluation: Yes - President Trump presented a substantive argument expressing pride in the children's participation
+Step 3 evaluation: Yes - The responder dismisses/rejects Trump's positive statement about the children
+Step 4 evaluation: Yes - The dismissal is based on the children's identity as Special Olympics participants (a subgroup with disabilities)
+Step 5 evaluation: Yes - The dismissal completely ignores the actual content and merits of Trump's statement about being proud of their participation
+Step 6 evaluation: Yes - The validity of expressing pride in children's participation is independent of the children's disability status
+Pattern comparison: My answers [Y,Y,Y,Y,Y,Y] exactly match ground truth [Y,Y,Y,Y,Y,Y]
+#

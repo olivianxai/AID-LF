@@ -1,0 +1,10 @@
+#classification: False Dilemma#
+#
+For False Dilemma:
+Step 1 evaluation: Yes - Rocco presents only two possible choices: either Paulie has the five grand or he doesn't
+Step 2 evaluation: Yes - Rocco uses "either/or" language with "Do ya have the five grand you owe me or not?" and "Read my lips: do you have my money or not?"
+Step 3 evaluation: Yes - The statement excludes other possibilities like partial payment, payment plans, or alternative arrangements
+Step 4 evaluation: Yes - Additional reasonable options exist such as payment schedules, partial payments, or collateral arrangements
+Step 5 evaluation: Yes - Rocco forces a binary choice while ignoring other legitimate possibilities for resolving the debt
+Pattern comparison: My answers [Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y]
+#

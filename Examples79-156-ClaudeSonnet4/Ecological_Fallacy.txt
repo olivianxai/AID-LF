@@ -1,0 +1,10 @@
+#classification: Fallacy of Every and All#
+#
+For Fallacy of Every and All:
+Step 1 evaluation: Yes - The statement contains the universal quantifier "Men" (implying all men) and makes a general claim about a group
+Step 2 evaluation: Yes - A claim is made with quantifiers in a specific order (All men have better math scores than women)
+Step 3 evaluation: Yes - The conclusion reverses the logical structure by applying the group generalization to specific individuals
+Step 4 evaluation: Yes - The reversed application changes the logical meaning from a statistical group comparison to an individual certainty claim
+Step 5 evaluation: Yes - The term "better" is used equivocally between the statistical premise and the individual conclusion
+Pattern comparison: My answers [Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y]
+#

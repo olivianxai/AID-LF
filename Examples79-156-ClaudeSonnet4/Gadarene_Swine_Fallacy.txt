@@ -1,0 +1,11 @@
+#classification: Identity Fallacy#
+#
+For Identity Fallacy:
+Step 1 evaluation: Yes - There are two parties implied: the speaker making an argument about conformity and the daughter/parent being addressed
+Step 2 evaluation: Yes - The speaker presents a substantive argument that the daughter should conform to others' behavior
+Step 3 evaluation: Yes - The argument is being dismissed or rejected (implied through the questioning format)
+Step 4 evaluation: Yes - The dismissal is based on the daughter's identity as part of a gender group ("like the other girls")
+Step 5 evaluation: Yes - The dismissal ignores the actual merits of the daughter's individual choices or behavior
+Step 6 evaluation: Yes - Whether the daughter should conform is independent of her gender identity
+Pattern comparison: My answers [Y,Y,Y,Y,Y,Y] exactly match ground truth [Y,Y,Y,Y,Y,Y]
+#

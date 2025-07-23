@@ -1,0 +1,8 @@
+#classification: Jumping to Conclusions#
+#
+For Jumping to Conclusions:
+Step 1 evaluation: Yes - The tour guide presents a conclusion that the fossil is 120,000,003 years old
+Step 2 evaluation: Yes - The supporting evidence is minimal - only that experts said it was 120,000,000 years old three years ago, with no consideration of how the additional 3 years was calculated
+Step 3 evaluation: Yes - The argument proceeds directly from the limited evidence (expert dating from 3 years ago) to the specific conclusion (adding exactly 3 years) without thorough reasoning about how those additional years were determined
+Pattern comparison: My answers [Yes, Yes, Yes] exactly match ground truth [Yes, Yes, Yes]
+#

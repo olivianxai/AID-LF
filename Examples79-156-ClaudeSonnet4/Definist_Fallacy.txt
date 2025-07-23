@@ -1,0 +1,9 @@
+#classification: Definist Fallacy#
+#
+For Definist Fallacy:
+Step 1 evaluation: Yes - A term "creationism" is being defined in the argument
+Step 2 evaluation: Yes - The standard definition of creationism would not harm the argument being made against it
+Step 3 evaluation: Yes - The arguer proposes a new definition ("acceptance of beliefs more ridiculous than flat-earthers") that is more favorable to their argument than the original definition
+Step 4 evaluation: Yes - The person uses a redefined version of creationism to make their argument easier to defend by characterizing it as inherently ridiculous
+Pattern comparison: My answers [Yes, Yes, Yes, Yes] exactly match ground truth [Yes, Yes, Yes, Yes]
+#

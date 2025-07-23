@@ -1,0 +1,10 @@
+#classification: Conjunction Fallacy#
+#
+For Conjunction Fallacy:
+Step 1 evaluation: Yes - The statement involves a probability comparison between getting bitten by a pet dog versus any member of the canine species
+Step 2 evaluation: Yes - Two conditions are combined: "pet dog" and "canine species member" where pet dogs are a subset of canine species
+Step 3 evaluation: Yes - The statement claims it's more likely to be bitten by a pet dog (specific subset) than by any canine species member (general category)
+Step 4 evaluation: Yes - Pet dogs are actually a subset of the canine species, making this logically impossible
+Step 5 evaluation: Yes - A specific condition (pet dog bite) is being treated as more probable than the general condition (canine species bite) that contains it
+Pattern comparison: My answers [Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y]
+#

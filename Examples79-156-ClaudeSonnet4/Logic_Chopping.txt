@@ -1,0 +1,10 @@
+#classification: Just Because Fallacy#
+#
+For Just Because Fallacy:
+Step 1 evaluation: Yes - John makes claims about needing to move his car and that it's his fault
+Step 2 evaluation: Yes - Paul asks for reasons and justification for John's assertions
+Step 3 evaluation: Yes - John refuses to provide actual reasons when challenged about whether he was really the direct cause
+Step 4 evaluation: Yes - John presents himself as the authority by dismissing Paul's questions and demanding compliance
+Step 5 evaluation: Yes - No substantive reasoning is offered to support the original claims when pressed
+Pattern comparison: My answers [Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y]
+#

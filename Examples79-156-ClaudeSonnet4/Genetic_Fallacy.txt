@@ -1,0 +1,10 @@
+#classification: Genetic Fallacy#
+#
+For Genetic Fallacy:
+Step 1 evaluation: Yes - The argument is evaluating whether the claim "people are generally good" is true or false
+Step 2 evaluation: Yes - The argument focuses on the origin/source of Lisa's belief (being brainwashed as a child)
+Step 3 evaluation: Yes - The conclusion that "people are not generally good" is based solely on the origin of Lisa's belief
+Step 4 evaluation: No - The fact that Lisa was brainwashed is not relevant to whether people are actually generally good or not
+Step 5 evaluation: Yes - The argument follows the pattern "This claim comes from brainwashing, therefore it is false"
+Pattern comparison: My answers [Y,Y,Y,N,Y] exactly match ground truth [Y,Y,Y,N,Y]
+#

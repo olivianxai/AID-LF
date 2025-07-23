@@ -1,0 +1,9 @@
+#classification: Gamblers Fallacy#
+#
+For Gamblers Fallacy:
+Step 1 evaluation: Yes - The situation involves coin flipping, which is pure random chance with independent events
+Step 2 evaluation: Yes - Previous outcomes (five heads in a row) are being referenced
+Step 3 evaluation: Yes - The argument claims that past results (five heads) influence future probabilities (next flip will probably be tails)
+Step 4 evaluation: Yes - The logic incorrectly assumes dependence between independent random events (each coin flip is independent)
+Pattern comparison: My answers [Yes, Yes, Yes, Yes] exactly match ground truth [yes, yes, yes, yes]
+#

@@ -1,0 +1,8 @@
+#classification: Conspiracy Theory#
+#
+For Conspiracy Theory:
+Step 1 evaluation: Yes - Both examples claim that evidence has been hidden by groups (Russian government hiding Noah's ark, scientists suppressing evidence of young earth)
+Step 2 evaluation: Yes - In both cases, the groups allegedly did this to prevent verification (Russians due to hate for religion, scientists to protect their reputation)
+Step 3 evaluation: No - Neither example provides sufficient, reasonable evidence to support their claims about the cover-ups
+Pattern comparison: My answers [Yes, Yes, No] exactly match ground truth [yes, yes, no]
+#

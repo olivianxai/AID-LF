@@ -1,0 +1,8 @@
+#classification: Equivocation#
+#
+For Equivocation:
+Step 1 evaluation: Yes - The key term "aura" appears multiple times in Tracy's statements
+Step 2 evaluation: Yes - Tracy uses "aura" first in a vague, colloquial sense, then provides a specific definition involving "subtle, luminous radiation" - these are different meanings of the same term
+Step 3 evaluation: Yes - Tracy relies on the ambiguous nature of "aura" to make her argument seem more substantive by shifting from a casual usage to a more technical-sounding definition
+Pattern comparison: My answers [Yes, Yes, Yes] exactly match ground truth [yes, yes, yes]
+#

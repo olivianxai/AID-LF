@@ -1,0 +1,10 @@
+#classification: Just Because Fallacy#
+#
+For Just Because Fallacy:
+Step 1 evaluation: Yes - Trebor's mom makes a claim that David cannot sleepover
+Step 2 evaluation: Yes - Trebor asks for reasons/justification ("Why not?")
+Step 3 evaluation: Yes - Mom refuses to provide actual reasons, just says "Because" and "Because I said so!"
+Step 4 evaluation: Yes - Mom presents herself as the ultimate authority ("Because I said so! End of discussion!")
+Step 5 evaluation: Yes - No substantive reasoning or evidence is offered to support why David cannot sleepover
+Pattern comparison: My answers [Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y]
+#

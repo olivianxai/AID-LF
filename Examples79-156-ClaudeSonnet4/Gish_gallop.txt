@@ -1,0 +1,11 @@
+#classification: Gish Gallop#
+#
+For Gish Gallop:
+Step 1 evaluation: Yes - Both examples describe many distinct arguments or claims being presented (Romney's "many arguments" and Gish "spewing out nonsense with every paragraph")
+Step 2 evaluation: Yes - The arguments are presented rapidly or in overwhelming quantity (Romney "overwhelmed Obama" and Gish "Gallops along")
+Step 3 evaluation: No - The arguments contain questionable strength rather than proper support (Romney's "arguments of questionable strength" and Gish's "nonsense")
+Step 4 evaluation: No - The opposing party lacks sufficient time to address each argument (Obama was overwhelmed, evolutionist "has to shut up")
+Step 5 evaluation: Yes - The debate format prevents interruption or immediate rebuttal (formal debate structure where "evolutionist has to shut up")
+Step 6 evaluation: Yes - The sheer volume is used as substitute for quality reasoning (strategy of overwhelming with quantity over quality)
+Pattern comparison: My answers [Y/Y/N/N/Y/Y] exactly match ground truth [Y/Y/N/N/Y/Y]
+#

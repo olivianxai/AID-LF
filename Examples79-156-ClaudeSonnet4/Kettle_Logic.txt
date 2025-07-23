@@ -1,0 +1,9 @@
+#classification: Kettle Logic#
+#
+For Kettle Logic:
+Step 1 evaluation: Yes - There is a main point being argued (that the man is not responsible for damaging the kettle)
+Step 2 evaluation: Yes - Multiple supporting statements are presented for that same main point (three different arguments about the kettle's condition and borrowing)
+Step 3 evaluation: Yes - The statements contradict one another (he can't have returned it undamaged AND it was already damaged when borrowed AND he never borrowed it at all)
+Step 4 evaluation: Yes - These contradictory statements are presented simultaneously as part of the same defense
+Pattern comparison: My answers [Yes, Yes, Yes, Yes] exactly match ground truth [yes, yes, yes, yes]
+#

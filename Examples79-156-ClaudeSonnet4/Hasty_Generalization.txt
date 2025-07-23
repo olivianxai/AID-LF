@@ -1,0 +1,8 @@
+#classification: Jumping to Conclusions#
+#
+For Jumping to Conclusions:
+Step 1 evaluation: Yes - The statement presents the conclusion that "smoking really can't be that bad for you"
+Step 2 evaluation: Yes - Only one anecdotal example (father's experience) is provided as evidence, with no evaluation of broader medical evidence or statistical data
+Step 3 evaluation: Yes - The argument jumps directly from the single example of the father's longevity to the broad conclusion about smoking's harmfulness without thorough reasoning or consideration of other factors
+Pattern comparison: My answers [Yes, Yes, Yes] exactly match ground truth [Yes, Yes, Yes]
+#

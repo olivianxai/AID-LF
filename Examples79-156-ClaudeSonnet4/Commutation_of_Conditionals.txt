@@ -1,0 +1,10 @@
+#classification: Fallacy of Every and All#
+#
+For Fallacy of Every and All:
+Step 1 evaluation: Yes - The statement contains universal quantifiers ("If I have a PhD, then I am smart") and the conclusion involves reversing the logical relationship
+Step 2 evaluation: Yes - A claim is made with a specific logical order (If PhD then smart)
+Step 3 evaluation: Yes - The conclusion reverses the order by claiming (If smart then PhD)
+Step 4 evaluation: Yes - The reversed order changes the logical meaning from the original conditional statement
+Step 5 evaluation: Yes - The terms are used with different logical meanings between premise and conclusion
+Pattern comparison: My answers [Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y]
+#

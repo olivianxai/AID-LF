@@ -1,0 +1,10 @@
+#classification: Fallacy of Every and All#
+#
+For Fallacy of Every and All:
+Step 1 evaluation: Yes - The statement contains universal quantifiers "All cats are felines" and "All dogs are canines"
+Step 2 evaluation: Yes - Claims are made with quantifiers in specific order (All X are Y format)
+Step 3 evaluation: Yes - The conclusion "all cats are canines" reverses/changes the logical relationship from the premises
+Step 4 evaluation: Yes - The reversed logic changes the meaning - the conclusion doesn't follow from the premises about cats being felines and dogs being canines
+Step 5 evaluation: Yes - The term "all" is used equivocally, treating different categorical relationships as if they were the same
+Pattern comparison: My answers [Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y]
+#

@@ -1,0 +1,10 @@
+#classification: Fallacy of Every and All#
+#
+For Fallacy of Every and All:
+Step 1 evaluation: Yes - The statement contains universal quantifiers ("All women are") and existential qualifiers ("the ones I know")
+Step 2 evaluation: Yes - A claim is made with quantifiers in a specific order ("All women are evil" followed by "the ones I know")
+Step 3 evaluation: Yes - The conclusion reverses the order by limiting the universal claim to only specific women he knows
+Step 4 evaluation: Yes - The reversed order changes the logical meaning from a universal statement about all women to a limited statement about known women
+Step 5 evaluation: Yes - The term "all women" is used equivocally, first meaning literally all women, then meaning only the women he knows
+Pattern comparison: My answers [Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y]
+#

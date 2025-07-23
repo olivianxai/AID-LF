@@ -1,0 +1,10 @@
+#classification: Fallacy of Every and All#
+#
+For Fallacy of Every and All:
+Step 1 evaluation: Yes - The statement contains universal quantifiers "all" in both the premise and conclusion
+Step 2 evaluation: Yes - The premise makes a claim "All Hollywood Squares contestants are bad actors" with quantifiers in a specific order
+Step 3 evaluation: Yes - The conclusion "all bad actors are Hollywood Squares contestants" reverses the order of the quantifiers from the premise
+Step 4 evaluation: Yes - The reversed order changes the logical meaning - the premise establishes a subset relationship while the conclusion incorrectly assumes equivalence
+Step 5 evaluation: Yes - The terms are used with different logical meanings between premise and conclusion
+Pattern comparison: My answers [Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y]
+#

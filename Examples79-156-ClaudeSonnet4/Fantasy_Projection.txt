@@ -1,0 +1,10 @@
+#classification: Complex Question Fallacy#
+#
+For Complex Question Fallacy:
+Step 1 evaluation: Yes - There is an implicit question being posed ("Don't you see that we live in a cruel world?")
+Step 2 evaluation: Yes - The question contains built-in assumptions (that the world is cruel and people are mostly nasty)
+Step 3 evaluation: Yes - These assumptions are misleading as they generalize from limited personal experience
+Step 4 evaluation: Yes - The question hides a claim about the world's cruelty to protect the speaker from direct challenge of their worldview
+Step 5 evaluation: Yes - Answering the question would implicitly accept that the world is indeed cruel and people are nasty
+Pattern comparison: My answers [Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y]
+#

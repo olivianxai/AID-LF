@@ -1,0 +1,10 @@
+#classification: Fallacy of Every and All#
+#
+For Fallacy of Every and All:
+Step 1 evaluation: Yes - The statement contains universal quantifiers ("everyone") and existential qualifiers ("someone")
+Step 2 evaluation: Yes - A claim is made with quantifiers in a specific order ("Everyone should do something nice for someone")
+Step 3 evaluation: Yes - The conclusion reverses the order by making "someone" (the speaker) the object that "everyone" should act upon
+Step 4 evaluation: Yes - The reversed order changes the logical meaning from a general obligation to help others to a specific obligation for everyone to help the speaker
+Step 5 evaluation: Yes - The term "someone" is used equivocally - first as an indefinite person to be helped, then as the specific speaker
+Pattern comparison: My answers [Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y]
+#

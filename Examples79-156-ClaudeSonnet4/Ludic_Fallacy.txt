@@ -1,0 +1,9 @@
+#classification: Gamblers Fallacy#
+#
+For Gamblers Fallacy:
+Step 1 evaluation: Yes - The situation involves coin flips which are pure random chance events that are independent of each other
+Step 2 evaluation: Yes - Dr. John references the previous 99 outcomes of heads when making his assessment
+Step 3 evaluation: Yes - Dr. John claims that past results (the 99 heads) do not influence future probabilities, maintaining the 50/50 odds for the 100th flip
+Step 4 evaluation: Yes - Dr. John's logic correctly assumes independence between the random coin flip events, while Fat Tony incorrectly suggests dependence by questioning the fairness assumption based on the streak
+Pattern comparison: My answers [Yes, Yes, Yes, Yes] exactly match ground truth [Yes, Yes, Yes, Yes]
+#

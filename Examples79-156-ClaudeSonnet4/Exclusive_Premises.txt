@@ -1,0 +1,9 @@
+#classification: Existential Fallacy#
+#
+For Existential Fallacy:
+Step 1 evaluation: Yes - The argument contains a categorical syllogism with two premises ("No kangaroos are MMA fighters" and "Some MMA fighters are not Mormons") and one conclusion ("Therefore, some Mormons are not kangaroos")
+Step 2 evaluation: Yes - The first premise uses the universal qualifier "no" and the second premise uses "some", but the structure involves universal statements about categories
+Step 3 evaluation: Yes - The conclusion uses the qualifier "some" indicating existence of particular instances
+Step 4 evaluation: Yes - The argument assumes that because of the universal relationships stated in the premises, some particular instances must exist in the conclusion
+Pattern comparison: My answers [Y, Y, Y, Y] exactly match ground truth [Y, Y, Y, Y]
+#

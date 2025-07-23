@@ -1,0 +1,10 @@
+#classification: False Dilemma#
+#
+For False Dilemma:
+Step 1 evaluation: Yes - The statement presents only two choices: being a good person or not being a good person based on church attendance
+Step 2 evaluation: Yes - The statement uses implicit either/or logic suggesting you're either good (if you attend church) or not good (if you don't attend church)
+Step 3 evaluation: Yes - The statement excludes other possibilities for being a good person beyond church attendance
+Step 4 evaluation: Yes - There are many other ways to be a good person that don't involve church attendance
+Step 5 evaluation: Yes - The statement forces a binary choice about moral character based solely on church attendance while ignoring other legitimate ways to demonstrate goodness
+Pattern comparison: My answers [Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y]
+#

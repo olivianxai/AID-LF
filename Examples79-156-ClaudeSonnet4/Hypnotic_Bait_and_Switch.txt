@@ -1,0 +1,8 @@
+#classification: Equivocation#
+#
+For Equivocation:
+Step 1 evaluation: Yes - Key terms like "love," "right," and "care" appear multiple times across both examples
+Step 2 evaluation: Yes - These terms are used with different meanings - "love" shifts from emotional attachment to product preference, "right" shifts from moral justice to political endorsement
+Step 3 evaluation: Yes - Both examples rely on the ambiguous shifting meanings of these terms to mislead the audience into making connections that don't logically follow
+Pattern comparison: My answers [Yes, Yes, Yes] exactly match ground truth [Yes, Yes, Yes]
+#

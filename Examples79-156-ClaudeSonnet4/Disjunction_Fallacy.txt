@@ -1,0 +1,10 @@
+#classification: Fallacy of Every and All#
+#
+For Fallacy of Every and All:
+Step 1 evaluation: Yes - The statement contains universal quantifiers ("every Sunday") and existential qualifiers ("most of his information")
+Step 2 evaluation: Yes - A claim is made with quantifiers in a specific order ("Mr. Pius is more likely to be Catholic than a Catholic or a Muslim")
+Step 3 evaluation: Yes - The conclusion reverses the logical order by comparing being Catholic to being "a Catholic or a Muslim"
+Step 4 evaluation: Yes - The reversed order changes the logical meaning, creating an impossible comparison where someone cannot be more likely to be Catholic than Catholic
+Step 5 evaluation: Yes - The term "Catholic" is used equivocally with different meanings between the premise and conclusion
+Pattern comparison: My answers [Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y]
+#

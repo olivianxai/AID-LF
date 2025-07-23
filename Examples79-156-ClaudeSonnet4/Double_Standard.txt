@@ -1,0 +1,11 @@
+#classification: Identity Fallacy#
+#
+For Identity Fallacy:
+Step 1 evaluation: Yes - There are two parties: the husband making an argument (forbidding his wife) and the wife responding to it
+Step 2 evaluation: Yes - The husband presents a substantive argument that going to a male strip club is inappropriate for a wife
+Step 3 evaluation: Yes - The wife dismisses/challenges the argument by pointing out his hypocrisy
+Step 4 evaluation: Yes - The husband's dismissal ("that's different") is based on gender identity (male vs female behavior expectations)
+Step 5 evaluation: Yes - The husband ignores the actual content and logic of the comparison, simply asserting it's different without substantive reasoning
+Step 6 evaluation: Yes - The validity of whether strip clubs are appropriate is independent of the gender of the person attending
+Pattern comparison: My answers [Y,Y,Y,Y,Y,Y] exactly match ground truth [Y,Y,Y,Y,Y,Y]
+#

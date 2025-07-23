@@ -1,0 +1,8 @@
+#classification: Equivocation#
+#
+For Equivocation:
+Step 1 evaluation: Yes - Key terms like "hard worker," "pay attention to detail," and "don't mind working long hours" appear multiple times in the conversation
+Step 2 evaluation: Yes - The same terms are used with different meanings - Andy interprets "hard worker" as someone who makes changes, "attention to detail" as invading privacy, and "working long hours" in a negative customer service context, while the employer initially interprets them positively
+Step 3 evaluation: Yes - The statement relies on the purposeful misinterpretation of these ambiguous terms, with Andy deliberately redefining the positive job qualities in negative ways to mislead the employer
+Pattern comparison: My answers [Yes, Yes, Yes] exactly match ground truth [Yes, Yes, Yes]
+#

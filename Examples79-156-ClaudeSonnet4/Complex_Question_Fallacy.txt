@@ -1,0 +1,9 @@
+#classification: Definist Fallacy#
+#
+For Definist Fallacy:
+Step 1 evaluation: Yes - The question implicitly defines "beating your wife" as something that occurs with measurable frequency
+Step 2 evaluation: Yes - The standard definition would recognize this as an inappropriate loaded question, which would harm the implicit argument
+Step 3 evaluation: Yes - The question reframes wife-beating as a quantifiable routine activity rather than addressing whether it occurs at all
+Step 4 evaluation: Yes - By using this redefined framing, the question becomes easier to "defend" as a legitimate inquiry about frequency rather than existence
+Pattern comparison: My answers [Yes, Yes, Yes, Yes] exactly match ground truth [yes, yes, yes, yes]
+#
