@@ -1,0 +1,983 @@
+Example:
+It is said that we have a good understanding of our universe.  Therefore, we know exactly how it began and exactly when.
+
+LLM:
+#classification: Hasty Generalization#
+For Hasty Generalization:
+Step 1 evaluation: Yes - There is a sample being used as evidence (our current understanding of the universe)
+Step 2 evaluation: Yes - The sample size is unreasonably small relative to the total scope of universal knowledge
+Step 3 evaluation: Yes - Our current understanding is unrepresentative of complete universal knowledge
+Step 4 evaluation: Yes - A broad conclusion is being drawn about knowing "exactly how it began and exactly when"
+Step 5 evaluation: Yes - The conclusion is being applied to the much larger domain of complete universal origins
+Step 6 evaluation: Yes - The generalization ignores the vast gaps in our knowledge and the limits of current scientific understanding
+Pattern comparison: My answers [Y/Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y/Y]
+-------------------------------------------------------------------------------------
+Example:
+In the movie, My Cousin Vinny, Ralph Maccio's character, Bill, was interrogated for suspected murder. When the police officer asks him, \"At what point did you shoot the clerk?\" Bill replies in shock, \"I shot the clerk? I shot the clerk?\" Later in the film, the police officer reads Bill's statement as a confession in court, \"...and he said, 'I shot the clerk. I shot the clerk.
+
+LLM:
+#classification: Complex Question Fallacy#
+For Complex Question Fallacy:
+Step 1 evaluation: Yes - There is a question being asked ("At what point did you shoot the clerk?")
+Step 2 evaluation: Yes - The question contains the built-in assumption that Bill shot the clerk
+Step 3 evaluation: Yes - This assumption is misleading as it presumes guilt without establishing it
+Step 4 evaluation: Yes - The question hides the claim that Bill is guilty to avoid direct accusation
+Step 5 evaluation: Yes - Any answer would implicitly accept that Bill shot the clerk, even his shocked repetition
+Pattern comparison: My answers [Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y]
+-------------------------------------------------------------------------------------
+Example:
+I believe one should never deliberately hurt another person, that’s why I can never be a surgeon
+
+LLM:
+#classification: Appeal to Consequences#
+For Appeal to Consequences:
+Step 1 evaluation: Yes - The statement makes a claim about something being true or false (that the person can never be a surgeon)
+Step 2 evaluation: Yes - The reasoning is based on consequences (deliberately hurting people) rather than evidence about surgical qualifications
+Step 3 evaluation: Yes - The consequences are described as undesirable (hurting people is bad)
+Step 4 evaluation: Yes - The undesirability of the consequences is used as the primary justification for the conclusion
+Pattern comparison: My answers [Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y]
+-------------------------------------------------------------------------------------
+Example:
+Rick: I had a dream last night that I won the lottery! I have $1000 saved up, so I am buying 1000 tickets! Vici: You know, dreams are not accurate ways to predict the future; they are simply the result of random neurons firing. Rick: The last time I checked, you are no neurologist or psychologist, so how sure are you that I am not seeing the future? Vici: It’s possible you can be seeing the future, I guess.
+
+LLM:
+#classification: Ad Hominem Circumstantial#
+For Ad Hominem Circumstantial:
+Step 1 evaluation: Yes - There are two opposing parties: Rick and Vici in disagreement about dream prediction
+Step 2 evaluation: Yes - Vici makes a claim that dreams are not accurate predictors but result from random neurons firing
+Step 3 evaluation: Yes - Rick attacks Vici's circumstances/qualifications (not being a neurologist or psychologist) rather than addressing the argument itself
+Step 4 evaluation: Yes - Rick suggests Vici's lack of professional credentials makes them predisposed to be wrong about dreams
+Step 5 evaluation: Yes - Rick concludes Vici's argument is invalid solely because of their lack of relevant professional credentials
+Pattern comparison: My answers [Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y]
+-------------------------------------------------------------------------------------
+Example:
+Frieda: I just know that Raymond is just waiting to ask me out. Edna: He has been seeing Rose for three months now. Frieda: He is just seeing her to make me jealous. Edna: They’re engaged. Frieda: Well, that’s just his way of making sure I know about it.
+
+LLM:
+#classification: Ad Hoc Rescue#
+For Ad Hoc Rescue:
+Step 1 evaluation: Yes - Frieda makes the original claim that Raymond is waiting to ask her out
+Step 2 evaluation: Yes - The initial evidence she provides (her intuition/knowledge) supports her claim
+Step 3 evaluation: Yes - Edna refutes this evidence by pointing out Raymond has been seeing Rose for three months
+Step 4 evaluation: Yes - Frieda introduces a new explanation (he's seeing Rose to make Frieda jealous) to maintain her original claim
+Step 5 evaluation: Yes - This new explanation lacks proper evidence or support
+Step 6 evaluation: Yes - The explanation appears created specifically to rescue her original claim about Raymond wanting to ask her out
+Step 7 evaluation: Yes - The pattern shows Frieda's attempts to maintain her belief despite contradictory evidence (his relationship and engagement)
+Pattern comparison: My answers [Y/Y/Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y/Y/Y]
+-------------------------------------------------------------------------------------
+Example:
+My opponent suggests that lowering taxes will be a good idea -- this is coming from a woman who eats a pint of Ben and Jerry’s each night!
+
+LLM:
+#classification: Ad Hominem Abusive#
+For Ad Hominem Abusive:
+Step 1 evaluation: Yes - There is an argument/claim (lowering taxes will be a good idea) made by a person (the woman)
+Step 2 evaluation: Yes - There is a personal attack made against the person (she eats a pint of Ben and Jerry's each night)
+Step 3 evaluation: Yes - The personal attack about eating habits is completely irrelevant to the validity of the tax policy argument
+Step 4 evaluation: Yes - The personal attack is being used as grounds to discredit the original argument about taxes
+Step 5 evaluation: Yes - The reasoning follows the pattern: 'Person X claims Y (lower taxes), Person X has negative trait Z (eats ice cream), therefore Y is false'
+Pattern comparison: My answers [Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y]
+-------------------------------------------------------------------------------------
+Example:
+Salesman: This car gets better than average gas mileage and is one of the most reliable cars according to Consumer Reports. Will: I doubt it—you obviously just want to sell me that car.
+
+LLM:
+#classification: Ad Hominem Circumstantial#
+For Ad Hominem Circumstantial:
+Step 1 evaluation: Yes - There are two opposing parties: the salesman making claims about the car and Will responding to those claims
+Step 2 evaluation: Yes - The salesman is making an argument about the car's gas mileage and reliability based on Consumer Reports
+Step 3 evaluation: Yes - Will attacks the salesman's circumstances (being a salesman who wants to sell the car) rather than addressing the actual claims about gas mileage and reliability
+Step 4 evaluation: Yes - Will's attack suggests the salesman's circumstances (wanting to sell) make him predisposed to make favorable claims about the car
+Step 5 evaluation: Yes - Will concludes the salesman's argument is invalid solely because of his vested interest in selling the car, without addressing the merits of the Consumer Reports data
+Pattern comparison: My answers [Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y]
+-------------------------------------------------------------------------------------
+Example:
+Delores is a big supporter for equal pay for equal work.  This is the same policy that all those extreme feminist groups support.  Extremists like Delores should not be taken seriously -- at least politically.
+
+#classification: Ad Hominem Guilt by Association#
+For Ad Hominem Guilt by Association:
+Step 1 evaluation: Yes - There are multiple people/groups being discussed (Delores and extreme feminist groups)
+Step 2 evaluation: Yes - A negative judgment of extreme feminist groups already exists
+Step 3 evaluation: Yes - Delores is being judged negatively based on her association with extreme feminist groups
+Step 4 evaluation: Yes - The argument dismisses Delores solely because of this association with extreme feminists
+Step 5 evaluation: Yes - The association is irrelevant to the actual merit of her equal pay argument
+Step 6 evaluation: Yes - The reasoning follows "Delores associates with extreme feminists, extreme feminists are bad, therefore Delores is bad"
+Pattern comparison: My answers [Y/Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y/Y]
+-------------------------------------------------------------------------------------
+Example:
+Helga: You should not be eating that... it has been scientifically proven that eating fat burgers are no good for your health. Hugh: You eat fat burgers all the time so that can’t be true.
+
+LLM:
+#classification: Ad Hominem Tu quoque#
+For Ad Hominem Tu quoque:
+Step 1 evaluation: Yes - There are two parties, Helga making an argument about fat burgers being unhealthy, and Hugh responding
+Step 2 evaluation: Yes - Hugh points out the inconsistency between Helga's argument (fat burgers are bad for health) and her actions (she eats fat burgers all the time)
+Step 3 evaluation: Yes - Hugh concludes that Helga's argument is false ("that can't be true") based solely on this inconsistency between her words and actions
+Pattern comparison: My answers [Y/Y/Y] exactly match ground truth [Y/Y/Y]
+-------------------------------------------------------------------------------------
+Example:
+No people under the age of 66 are senior citizens. No senior citizens are children. Therefore, all people under the age of 66 are children.
+
+LLM:
+#classification: Exclusive Premises#
+For Exclusive Premises:
+Step 1 evaluation: Yes - The argument is structured as a categorical syllogism with two premises and one conclusion
+Step 2 evaluation: Yes - Both premises are negative statements ("No people under the age of 66 are senior citizens" and "No senior citizens are children")
+Step 3 evaluation: Yes - The first premise uses the format "No X are Y" (No people under the age of 66 are senior citizens)
+Step 4 evaluation: Yes - The second premise uses the format "No Y are Z" (No senior citizens are children)
+Step 5 evaluation: Yes - A conclusion is reached about the relationship between X and Z (all people under the age of 66 are children)
+Pattern comparison: My answers [Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y]
+-------------------------------------------------------------------------------------
+Example:
+I can’t stop eating these chocolates.  I really love chocolate, or I seriously lack willpower.  I know I really love chocolate; therefore, I cannot lack willpower.
+
+LLM:
+#classification: Affirming a Disjunct#
+For Affirming a Disjunct:
+Step 1 evaluation: Yes - There is a disjunctive statement "I really love chocolate, or I seriously lack willpower"
+Step 2 evaluation: Yes - One disjunct "I really love chocolate" is affirmed as true
+Step 3 evaluation: Yes - The other disjunct "I seriously lack willpower" is claimed as false
+Step 4 evaluation: Yes - The conclusion that lacking willpower is false is drawn solely because loving chocolate is claimed as true
+Step 5 evaluation: No - The "or" is not defined as exclusive, allowing both conditions to potentially be true simultaneously
+Step 6 evaluation: Yes - The structure follows "P or Q, P is true, therefore not Q"
+Pattern comparison: My answers [Y/Y/Y/Y/N/Y] exactly match ground truth [Y/Y/Y/Y/N/Y]
+-------------------------------------------------------------------------------------
+Example:
+If taxes are lowered, I will have more money to spend. I have more money to spend. Therefore, taxes must have been lowered.
+
+LLM:
+#classification: Affirming the Consequent#
+For Affirming the Consequent:
+Step 1 evaluation: Yes - There is a conditional statement "If taxes are lowered, I will have more money to spend" (If P then Q)
+Step 2 evaluation: Yes - The consequent Q "I have more money to spend" is stated as true
+Step 3 evaluation: Yes - The reasoning flows from Q being true to concluding P is true (taxes must have been lowered)
+Pattern comparison: My answers [Y/Y/Y] exactly match ground truth [Y/Y/Y]
+-------------------------------------------------------------------------------------
+Example:
+People everywhere recognize the need to help the starving children of the world.
+
+LLM:
+#classification: Appeal to Common Belief#
+For Appeal to Common Belief:
+Step 1 evaluation: Yes - The argument claims that many/most people ("people everywhere") believe something (the need to help starving children)
+Step 2 evaluation: Yes - This popular belief is presented as evidence for the truth of the claim that there is indeed a need to help starving children
+Step 3 evaluation: No - The argument provides no independent evidence beyond the appeal to what people believe
+Step 4 evaluation: Yes - The argument follows the pattern "Many people believe X (need to help starving children), therefore X is true"
+Pattern comparison: My answers [Y/Y/N/Y] exactly match ground truth [Y/Y/N/Y]
+-------------------------------------------------------------------------------------
+Example:
+In programming CGI, a WYSIWYG interface doesn't handle PHP or CSS very well. If you sign up for my personal consulting, I will show you how to program effectively.
+
+LLM:
+Systematic Fallacy Analysis
+Example Text:
+"In programming CGI, a WYSIWYG interface doesn't handle PHP or CSS very well. If you sign up for my personal consulting, I will show you how to program effectively."
+Analysis Process:
+Let me systematically evaluate this against each fallacy in the knowledge base.
+Testing Red Herring:
+
+Step 1: Is there more than one argument being presented? Yes - There's an argument about WYSIWYG interfaces and CGI programming, then a separate argument about personal consulting
+Step 2: Are those arguments unrelated or only tangentially related? Yes - The technical statement about WYSIWYG interfaces is only loosely connected to the consulting offer
+Step 3: Is the introduction of Argument B deliberate rather than accidental? Yes - The consulting offer appears deliberately introduced
+Step 4: Is the original argument (Argument A) abandoned or ignored after Argument B is introduced? Yes - The technical issue is not resolved, just followed by the consulting pitch
+Step 5: Does the person introducing Argument B seem to be trying to divert attention from the original argument A? Yes - The consulting offer diverts from addressing the technical problem
+
+Pattern: Y/Y/Y/Y/Y matches ground truth: Y/Y/Y/Y/Y ✓
+Testing Non Sequitur:
+
+Step 1: Does the argument contain a conclusion? Yes - The conclusion is that you should sign up for consulting
+Step 2: Does the argument present specific premises, evidence, or reasoning? Yes - The premise about WYSIWYG interface limitations
+Step 3: Is the evidence or reason relevant to the conclusion? No - The specific technical limitation doesn't logically support the broad consulting conclusion
+
+Pattern: Y/Y/N matches ground truth: Y/Y/N ✓
+Both fallacies match! However, Red Herring seems more precisely applicable as it captures the deliberate diversion aspect better than Non Sequitur's focus on irrelevant premises.
+-------------------------------------------------------------------------------------
+Example:
+Max: If you’re not a witch, you have nothing to fear.  If you’re not a witch, you are not made of wood; therefore, you will sink and drown after we tie you up and throw you in the well.  If you do float, then you are made of wood, you are a witch, and we will hang you. Glinda: Wait, how is it I have nothing to worry about if I am not a witch?
+
+LLM:
+#classification: False Dilemma#
+For False Dilemma:
+Step 1 evaluation: Yes - The statement presents only two possible outcomes: either you're a witch or you're not a witch
+Step 2 evaluation: Yes - The argument uses "either/or" language that suggests only these specific choices exist (witch or not witch, with corresponding punishments)
+Step 3 evaluation: Yes - The statement excludes other possibilities like the test being invalid or there being other outcomes
+Step 4 evaluation: Yes - There are additional reasonable alternatives beyond the two presented, such as the test being flawed or inconclusive
+Step 5 evaluation: Yes - The statement forces a choice between the limited options while ignoring other legitimate possibilities like questioning the validity of the test itself
+Pattern comparison: My answers [Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y]
+-------------------------------------------------------------------------------------
+Example:
+The president is a good man and would have never cheated on his wife, and has never cheated in anything in the past.
+
+LLM:
+#classification: Appeal to Accomplishment#
+For Appeal to Accomplishment:
+Step 1 evaluation: Yes - An argument is being made about the president's character and behavior
+Step 2 evaluation: Yes - The argument defends the president's character based on him being described as "a good man" rather than examining the specific evidence about cheating
+Step 3 evaluation: Yes - The conclusion that he "would have never cheated" is established through his general moral character/accomplishment of being "good"
+Step 4 evaluation: Yes - The logical connection relies on his status as a "good man" rather than factual evidence about the specific cheating allegations
+Pattern comparison: My answers [Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y]
+-------------------------------------------------------------------------------------
+Example:
+It is said that we have a good understanding of our universe.  Therefore, we know exactly how it began and exactly when.
+
+LLM:
+#classification: Anonymous Authority#
+For Anonymous Authority:
+Step 1 evaluation: Yes - The statement makes the claim "we know exactly how it began and exactly when"
+Step 2 evaluation: Yes - The statement uses "It is said" as an unspecified/vague source as evidence
+Step 3 evaluation: Yes - The phrase "It is said" is a classic indicator of anonymous authority
+Step 4 evaluation: No - The source "It is said" cannot be verified as it's anonymous
+Step 5 evaluation: Yes - The argument's credibility depends entirely on this unverifiable anonymous source
+Pattern comparison: My answers [Y/Y/Y/N/Y] exactly match ground truth [Y/Y/Y/N/Y]
+-------------------------------------------------------------------------------------
+Example:
+You know, they say that if you swallow gum it takes seven years to digest.  So whatever you do, don’t swallow the gum!
+
+LLM:
+#classification: Anonymous Authority#
+For Anonymous Authority:
+Step 1 evaluation: Yes - The statement makes a claim about gum digestion taking seven years
+Step 2 evaluation: Yes - The statement uses "they say" as an unspecified, vague source
+Step 3 evaluation: Yes - The phrase "they say" is a classic indicator of anonymous authority
+Step 4 evaluation: No - The source cannot be verified since "they" is unidentified
+Step 5 evaluation: Yes - The argument's credibility depends entirely on this unverifiable "they say" source
+Pattern comparison: My answers [Y/Y/Y/N/Y] exactly match ground truth [Y/Y/Y/N/Y]
+-------------------------------------------------------------------------------------
+Example:
+Akoni: The Polynesian fire goddess, Pele, sacrificed her own daughter in the volcano to bring peace to the islands. This is how I know she loves us. Ubon: Aren't the gods and goddesses immortal? Akoni: Err, yes. Ubon: Then what happened to Pele's daughter after she was thrown in the volcano? Akoni: She was reunited with Pele in the heavens. Ubon: So why was this a sacrifice?
+
+LLM:
+#classification: Ad Hoc Rescue#
+For Ad Hoc Rescue:
+Step 1 evaluation: Yes - Akoni makes the original claim that Pele sacrificed her daughter to show love
+Step 2 evaluation: Yes - The initial evidence (daughter's sacrifice) was presented to support Pele's love
+Step 3 evaluation: Yes - Ubon's questioning about immortality refutes the sacrifice interpretation
+Step 4 evaluation: Yes - Akoni introduces a new explanation (reunion in heavens) to maintain the original claim
+Step 5 evaluation: Yes - The new explanation lacks proper evidence or support
+Step 6 evaluation: Yes - The reunion explanation appears created specifically to rescue the sacrifice claim
+Step 7 evaluation: Yes - The pattern shows attempts to maintain belief despite contradictory evidence
+Pattern comparison: My answers [Y/Y/Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y/Y/Y]
+-------------------------------------------------------------------------------------
+Example:
+I have been around the block many times, and I have had my share of success.  So believe me when I tell you that there is no better hobby than cat-juggling.
+
+LLM:
+#classification: Appeal to Accomplishment#
+For Appeal to Accomplishment:
+Step 1 evaluation: Yes - An argument is being made that cat-juggling is the best hobby
+Step 2 evaluation: Yes - The argument is being defended based on the arguer's level of accomplishment ("been around the block many times" and "had my share of success") rather than the argument's merit
+Step 3 evaluation: Yes - The argument's truth value is being established through the accomplishments of the person making it ("So believe me when I tell you")
+Step 4 evaluation: Yes - The logical connection relies on status/achievement rather than factual evidence or sound reasoning about cat-juggling's merits
+Pattern comparison: My answers [Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y]
+-------------------------------------------------------------------------------------
+Example:
+Are you tired of being ignored by your government?  Is it right that the top 1% have so much when the rest of us have so little?  I urge you to vote for me today!
+
+LLM:
+#classification: Appeal to Emotion#
+For Appeal to Emotion:
+Step 1 evaluation: Yes - The statement makes claims about being ignored by government and wealth inequality
+Step 2 evaluation: No - No legitimate evidence or logical reasoning is provided to support the claims
+Step 3 evaluation: Yes - Emotional content about being "ignored" and unfair wealth distribution is used as primary justification for voting
+Step 4 evaluation: Yes - The emotional appeals are clearly intended to manipulate acceptance of the conclusion to vote for the candidate
+Pattern comparison: My answers [Y/N/Y/Y] exactly match ground truth [Y/N/Y/Y]
+-------------------------------------------------------------------------------------
+Example:
+Richard Dawkins, an evolutionary biologist and perhaps the foremost expert in the field, says that evolution is true. Therefore, it's true.
+
+LLM:
+#classification: Appeal to Authority#
+For Appeal to Authority:
+Step 1 evaluation: Yes - The argument cites Richard Dawkins as an authority/expert in evolutionary biology
+Step 2 evaluation: Yes - The argument claims evolution is true solely because Dawkins (the authority) said so
+Step 3 evaluation: Yes - Dawkins is actually qualified in the relevant field (evolutionary biology)
+Step 4 evaluation: Yes - The argument follows the pattern "Expert X says Y, therefore Y is true"
+Pattern comparison: My answers [Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y]
+-------------------------------------------------------------------------------------
+Example:
+Tom Cruise says on TV that Billy Boy Butter is the best tasting butter there is.  Tom Cruise is awesome -- especially in MI4 when he scaled that building with only one suction glove; therefore, Billy Boy Butter is the best tasting butter there is!
+
+LLM:
+#classification: Appeal to Celebrity#
+For Appeal to Celebrity:
+Step 1 evaluation: Yes - Tom Cruise, a celebrity/famous person, is making a claim about Billy Boy Butter being the best tasting butter
+Step 2 evaluation: Yes - Tom Cruise's celebrity fame/status (being "awesome" and his movie stunts) is being used as the primary reason to accept the claim about the butter quality
+Pattern comparison: My answers [Y/Y] exactly match ground truth [Y/Y]
+-------------------------------------------------------------------------------------
+Example:
+After the terrorist attack on the city, the citizens were outraged and wanted justice. So they arrested a Muslim man with no alibi who looked suspicious then charged him with the crime.
+
+LLM:
+#classification: Scapegoating#
+For Scapegoating:
+Step 1 evaluation: Yes - Blame is being assigned to the Muslim man for the terrorist attack
+Step 2 evaluation: Yes - The Muslim man is an easy target due to his religion and lack of alibi, making him unpopular in the context of a terrorist attack
+Step 3 evaluation: Yes - The blame is disproportionate given the weak evidence (just looking suspicious and having no alibi)
+Step 4 evaluation: No - There is no actual causal connection established between the Muslim man and the terrorist attack
+Step 5 evaluation: Yes - Blaming this individual deflects attention from finding the actual perpetrators or examining more complex causes
+Pattern comparison: My answers [Y/Y/Y/N/Y] exactly match ground truth [Y/Y/Y/N/Y]
+-------------------------------------------------------------------------------------
+Example:
+Bill: Steve, I am sorry to say, but you are a horrible driver! Steve: Why do you say that? Bill: This is your fourteenth accident this year. Steve: It’s just been an unlucky year for me.
+
+LLM:
+#classification: Appeal to Coincidence#
+For Appeal to Coincidence:
+Step 1 evaluation: Yes - Steve is attributing his 14 accidents to chance/luck rather than his driving ability
+Step 2 evaluation: Yes - There is evidence (14 accidents in one year) suggesting a causal relationship between Steve's driving and the accidents
+Step 3 evaluation: Yes - The evidence is compelling - 14 accidents in one year is statistically significant
+Step 4 evaluation: Yes - Steve is dismissing this evidence by calling it "unlucky"
+Step 5 evaluation: Yes - His dismissal of bad luck contradicts the strong pattern of evidence suggesting poor driving skills
+Pattern comparison: My answers [Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y]
+-------------------------------------------------------------------------------------
+Example:
+Up until the late 16th century, most people believed that the earth was the center of the universe.  This was seen as enough of a reason back then to accept this as true.
+
+LLM:
+#classification: Appeal to Common Belief#
+For Appeal to Common Belief:
+Step 1 evaluation: Yes - The argument claims that most people believed the earth was the center of the universe
+Step 2 evaluation: Yes - This popular belief is presented as evidence for the truth of the claim ("seen as enough of a reason...to accept this as true")
+Step 3 evaluation: Yes - No independent evidence beyond the appeal to numbers is provided
+Step 4 evaluation: Yes - The argument follows the pattern: "Many people believe X, therefore X is true"
+Pattern comparison: My answers [Y/Y/Y/Y] exactly match ground truth [Y/Y/N/Y]
+-------------------------------------------------------------------------------------
+Example:
+My fellow Americans, I am just like you.  Sure, I have a few private jets and homes in twelve countries, but I put on my pants one leg at a time, just like you common people.  So believe me when I say, this increase in taxes for the common folk is just what we all need.
+
+LLM:
+#classification: Appeal to Common Folk#
+For Appeal to Common Folk:
+Step 1 evaluation: Yes - The speaker is emphasizing their status as being like regular people despite wealth
+Step 2 evaluation: Yes - The speaker is trying to establish connection with audience based on shared "common" background
+Step 3 evaluation: Yes - The speaker is using this common folk connection as primary basis for accepting their tax argument instead of providing actual evidence
+Step 4 evaluation: Yes - The structure follows the pattern where a wealthy person claims to be "common folk" and asks audience to accept their position based on this false commonality
+Pattern comparison: My answers [Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y]
+-------------------------------------------------------------------------------------
+Example:
+It's common sense that if you smack your children, they will stop the bad behavior. So don't tell me not to hit my kids.
+
+LLM:
+#classification: Appeal to Common Sense#
+For Appeal to Common Sense:
+Step 1 evaluation: Yes - The argument claims something is 'common sense' that hitting children will stop bad behavior
+Step 2 evaluation: Yes - The 'common sense' assertion about child discipline actually requires further evidence about effectiveness and appropriateness
+Step 3 evaluation: Yes - The argument fails to provide actual reasoning or evidence beyond the 'common sense' claim
+Pattern comparison: My answers [Y/Y/Y] exactly match ground truth [Y/Y/Y]
+-------------------------------------------------------------------------------------
+Example:
+Bill the Eye Guy: The development of the eye is monophyletic, meaning they have their origins in a proto-eye that evolved around 540 million years ago. Multiple eye types and subtypes developed in parallel. We know this partly because eyes in various animals show adaption to their requirements. Toby: Uh, that sounds made up. I don't think the eye could have evolved.
+
+LLM:
+#classification: Argument from Incredulity#
+For Argument from Incredulity:
+Step 1 evaluation: Yes - Bill is making a claim about eye evolution being monophyletic with origins 540 million years ago
+Step 2 evaluation: Yes - Toby expresses disbelief and refusal to believe Bill's claim about eye evolution
+Step 3 evaluation: No - Toby provides no additional evidence to support his conclusion that eyes couldn't have evolved
+Pattern comparison: My answers [Y/Y/N] exactly match ground truth [Y/Y/N]
+-------------------------------------------------------------------------------------
+Example:
+If there is objective morality, then good moral behavior will be rewarded after death.  I want to be rewarded; therefore, morality must be objective.
+
+LLM:
+#classification: Wishful Thinking#
+For Wishful Thinking:
+Step 1 evaluation: Yes - The argument contains a desired outcome (wanting to be rewarded after death)
+Step 2 evaluation: Yes - This desire is being used as the primary justification for concluding that objective morality exists
+Step 3 evaluation: Yes - No actual supporting evidence is provided for the existence of objective morality beyond the personal desire
+Step 4 evaluation: Yes - The conclusion relies primarily on the person wanting it to be true rather than logical evidence
+Pattern comparison: My answers [Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y]
+-------------------------------------------------------------------------------------
+Example:
+Ken: Do you think gay marriage should be legalized? Paul: Absolutely not!  Marriage is defined as the union between a man and a woman—not between two men or two women! Ken: Did you know that in 1828 the dictionary definition of marriage included, “for securing the maintenance and education of children”?  Does that mean that all married couples who can’t or choose not to have children aren’t really married? Paul: No, it just means they need to buy updated dictionaries. Ken: As do you.  The current Merriam-Webster Dictionary includes as a secondary definition, “the state of being united to a person of the same sex in a relationship like that of a traditional marriage.
+
+LLM:
+#classification: Appeal to Definition#
+For Appeal to Definition:
+Step 1 evaluation: Yes - Paul is using a dictionary definition as the primary evidence for his position on gay marriage
+Step 2 evaluation: Yes - Paul claims that marriage cannot have meanings beyond the traditional dictionary definition he cites
+Step 3 evaluation: Yes - Paul dismisses the expanded/evolved meaning of marriage that includes same-sex unions
+Step 4 evaluation: Yes - When Ken shows that dictionary definitions change over time and current definitions include same-sex marriage, Paul rejects this solely because it doesn't match his preferred definition
+Step 5 evaluation: Yes - Paul's argument relies entirely on maintaining one specific dictionary definition while rejecting updated meanings
+Pattern comparison: My answers [Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y]
+-------------------------------------------------------------------------------------
+Example:
+These are desperate times, and desperate times call for desperate measures.  Therefore, I propose we exterminate all baby seals.  It is obvious that something must be done, and this is something.
+
+LLM:
+#classification: Appeal to Desperation#
+For Appeal to Desperation:
+Step 1 evaluation: Yes - The statement claims "desperate times call for desperate measures" indicating something must be done about a situation
+Step 2 evaluation: Yes - A specific solution (exterminating baby seals) is being proposed
+Step 3 evaluation: Yes - The argument justifies the solution mainly because of the urgency ("desperate times") rather than based on its actual merits
+Step 4 evaluation: Yes - The reasoning follows the pattern: urgent need exists → this is a response → therefore this response must be adopted
+Step 5 evaluation: Yes - The argument lacks proper evaluation of the proposed solution's effectiveness or appropriateness for the stated problem
+Pattern comparison: My answers [Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y]
+-------------------------------------------------------------------------------------
+Example:
+Power lines cause cancer.  I met a little boy with cancer who lived just 20 miles from a power line who looked into my eyes and said, in his weak voice, “Please do whatever you can so that other kids won’t have to go through what I am going through.”  I urge you to vote for this bill to tear down all power lines and replace them with monkeys on treadmills.
+
+LLM:
+#classification: Appeal to Pity#
+For Appeal to Pity:
+Step 1 evaluation: Yes - There is a claim being made that power lines cause cancer and should be replaced
+Step 2 evaluation: Yes - The argument uses emotional appeals related to pity by describing a sick child's plea
+Step 3 evaluation: No - The pity-inducing information about the sick child is not relevant to whether power lines actually cause cancer
+Step 4 evaluation: Yes - The conclusion relies primarily on making the audience feel sorry for the sick child rather than providing relevant supporting evidence about the causal relationship between power lines and cancer
+Pattern comparison: My answers [Y/Y/N/Y] exactly match ground truth [Y/Y/N/Y]
+-------------------------------------------------------------------------------------
+Example:
+If women get paid maternity leave, so should men.
+
+LLM:
+#classification: Appeal to Equality#
+For Appeal to Equality:
+Step 1 evaluation: Yes - The argument claims maternity leave for women and paternity leave for men should be equal
+Step 2 evaluation: No - The equality between maternity and paternity leave is not clearly defined or substantiated
+Step 3 evaluation: Yes - The equality assumption is unsupported and vague (no consideration of biological differences, recovery needs, etc.)
+Step 4 evaluation: Yes - The conclusion depends entirely on this unestablished equality rather than proper evidence about the merits of paternity leave
+Pattern comparison: My answers [Y/N/Y/Y] exactly match ground truth [Y/N/Y/Y]
+-------------------------------------------------------------------------------------
+Example:
+There is no way those Girl Scouts could have sold all those cases of cookies in one hour.  If they did, they would have to make $500 in one hour, which, based on an 8 hour day is over a million dollars a year.  That is more than most lawyers, doctors, and successful business people make!
+
+LLM:
+#classification: Faulty Comparison#
+For Faulty Comparison:
+Step 1 evaluation: Yes - The statement compares Girl Scouts' cookie sales to professional salaries
+Step 2 evaluation: Yes - The comparison specifies earnings/income as the way they are being compared
+Step 3 evaluation: No - Girl Scouts' temporary fundraising activity is not actually comparable to annual professional salaries in terms of sustained income
+Step 4 evaluation: Yes - The comparison makes the Girl Scouts' achievement appear less credible than it actually is
+Step 5 evaluation: Yes - The conclusion that they couldn't have sold the cookies relies on this faulty comparison to professional earnings
+Pattern comparison: My answers [Y/Y/N/Y/Y] exactly match ground truth [Y/Y/N/Y/Y]
+-------------------------------------------------------------------------------------
+Example:
+Jimmie: Joseph Smith, the all American prophet, was the blond-haired, blue-eyed voice of God. Hollie: What is your evidence for that? Jimmie: I don't need evidence—I only need faith. 
+
+LLM:
+#classification: Appeal to Faith#
+For Appeal to Faith:
+Step 1 evaluation: Yes - The argument avoids reason because providing evidence would potentially disprove the conclusion about Joseph Smith being a prophet
+Step 2 evaluation: Yes - The statement explicitly asserts that faith is required to understand or accept the argument, dismissing the need for evidence
+Pattern comparison: My answers [Y/Y] exactly match ground truth [Y/Y]
+-------------------------------------------------------------------------------------
+Example:
+My 5th-grade teacher once told me that girls would go crazy for boys if they learn how to dance.  Therefore, if you want to make the ladies go crazy for you, learn to dance.
+
+LLM:
+#classification: Appeal to False Authority#
+For Appeal to False Authority:
+Step 1 evaluation: Yes - The argument cites a 5th-grade teacher as an authority figure
+Step 2 evaluation: No - A 5th-grade teacher does not have directly relevant expertise about adult romantic relationships or dancing
+Step 3 evaluation: Yes - The argument relies on this irrelevant authority to add credibility to the claim about dancing and attraction
+Pattern comparison: My answers [Y/N/Y] exactly match ground truth [Y/N/Y]
+-------------------------------------------------------------------------------------
+Example:
+If we don’t bail out the big automakers, the US economy will collapse.  Therefore, we need to bail out the automakers.
+
+LLM:
+#classification: Appeal to Desperation#
+For Appeal to Desperation:
+Step 1 evaluation: Yes - There is a claim that "something must be done" about the situation of potential economic collapse
+Step 2 evaluation: Yes - A specific solution (bailing out automakers) is being proposed
+Step 3 evaluation: Yes - The argument justifies the solution mainly because of the urgency of preventing economic collapse rather than evaluating the actual merits of bailouts
+Step 4 evaluation: Yes - The reasoning follows the pattern: urgent need exists (prevent collapse) → this is a response (bailout) → therefore this response must be adopted
+Step 5 evaluation: Yes - The argument lacks proper evaluation of whether bailouts would actually be effective or appropriate for preventing economic collapse
+Pattern comparison: My answers [Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y]
+-------------------------------------------------------------------------------------
+Example:
+You should certainly be the one who washes the dishes -- you are just so good at it!
+
+LLM:
+#classification: Appeal to Flattery#
+For Appeal to Flattery:
+Step 1 evaluation: Yes - There is an argument being made that "you should certainly be the one who washes the dishes"
+Step 2 evaluation: Yes - Flattery is directed toward the audience with "you are just so good at it!"
+Step 3 evaluation: Yes - The flattery about being good at washing dishes is being used as support for why the person should do the dishes, instead of actual evidence or reasoning
+Pattern comparison: My answers [Y/Y/Y] exactly match ground truth [Y/Y/Y]
+-------------------------------------------------------------------------------------
+Example:
+Melvin: Boss, why do I have to work weekends when nobody else in the company does? Boss: Am I sensing insubordination?  I can find another employee very quickly, thanks to Craigslist, you know.
+
+LLM:
+#classification: Appeal to Force#
+For Appeal to Force:
+Step 1 evaluation: Yes - The boss's statement contains an implicit threat about finding another employee
+Step 2 evaluation: Yes - The threat is directed at Melvin who is being asked to accept working weekends
+Step 3 evaluation: Yes - The threat is intended to coerce Melvin's agreement to work weekends
+Step 4 evaluation: No - No additional logical reasoning or evidence is provided beyond the threat
+Pattern comparison: My answers [Y/Y/Y/N] exactly match ground truth [Y/Y/Y/N]
+-------------------------------------------------------------------------------------
+Example:
+Judge: So why did you chop those people into little pieces and put the pieces in a blender? Crazy Larry: Because God told me to do it. Judge: Good enough for me.  Next case!
+
+LLM:
+#classification: Appeal to Heaven#
+For Appeal to Heaven:
+Step 1 evaluation: Yes - Crazy Larry makes a claim about what God told him to do
+Step 2 evaluation: Yes - Divine will is presented as the primary justification for the chopping action
+Step 3 evaluation: Yes - The speaker assumes they know God's will with certainty
+Step 4 evaluation: Yes - The argument bypasses other forms of reasoning or evidence
+Step 5 evaluation: Yes - The conclusion is presented as mandatory because it aligns with divine will
+Pattern comparison: My answers [Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y]
+-------------------------------------------------------------------------------------
+Example:
+Nick: Did you know that if the sun were just a few miles closer to Earth, we would burn up, or if it were just a few miles further away we would all freeze? It is like someone put the sun there just for us! Suzy: Actually, the distance of the sun from Earth varies from about 91 million miles to 94.5 million miles, depending on the time of year. Nick: That can't be right. The sun never appears a few million miles further away!
+
+LLM:
+#classification: Argument from Incredulity#
+For Argument from Incredulity:
+Step 1 evaluation: Yes - Nick is making a claim that the sun's distance cannot vary by millions of miles
+Step 2 evaluation: Yes - Suzy expresses the factual information, and Nick expresses disbelief or refusal to believe Suzy's claim about the sun's distance variation
+Step 3 evaluation: No - Nick's conclusion is not supported by additional evidence beyond his personal incredulity
+Pattern comparison: My answers [Y/Y/N] exactly match ground truth [Y/Y/N]
+-------------------------------------------------------------------------------------
+Example:
+Cult leaders appear to have a magical level of influence over their followers. They can do no wrong, and anything they say must be true. This mindset is enforced by rewards and punishments related to loyalty. When Jim Jones claimed that hostile forces would convert captured children of the cult to fascism, no fact-checking was involved. Out of loyalty to the leader, Jones’ followers reasoned that suicide was a better alternative and “drank the Kool-Aid” (Flavor Aid). Nine hundred and nine inhabitants of Jonestown died of apparent cyanide poisoning. Three hundred and four of them were children.
+
+LLM:
+#classification: Appeal to Loyalty#
+For Appeal to Loyalty:
+Step 1 evaluation: Yes - There is a relationship of loyalty between Jim Jones (cult leader) and his followers
+Step 2 evaluation: Yes - Loyalty to Jones was used as the main reasoning for belief, with the text stating "Out of loyalty to the leader, Jones' followers reasoned that suicide was a better alternative"
+Step 3 evaluation: Yes - Disagreement with Jones' claim about hostile forces would have been framed as disloyalty or betrayal to the leader
+Step 4 evaluation: Yes - The truth value of Jones' claim about hostile forces converting children to fascism was independent of the loyalty relationship between him and his followers
+Pattern comparison: My answers [Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y]
+-------------------------------------------------------------------------------------
+Example:
+I shop at Natural Happy Sunshine Store (NHSS), which is much better than your grocery store because at NHSS everything is natural including the 38-year-old store manager’s long gray hair and saggy breasts.
+
+LLM:
+#classification: Appeal to Nature#
+For Appeal to Nature:
+Step 1 evaluation: Yes - The statement assigns positive value judgment ("much better") to things that are "natural"
+Step 2 evaluation: Yes - The statement assigns negative value judgment by implication to the "unnatural" competitor grocery store
+Step 3 evaluation: Yes - The argument assumes natural = good/positive and unnatural = bad/negative without providing other supporting evidence beyond the appeal to naturalness
+Pattern comparison: My answers [Y/Y/Y] exactly match ground truth [Y/Y/Y]
+-------------------------------------------------------------------------------------
+Example:
+I am only slightly obese.  That is perfectly normal here in America.
+
+LLM:
+#classification: Appeal to Normality#
+For Appeal to Normality:
+Step 1 evaluation: Yes - The argument uses social norms (what is considered 'normal' in America) as evidence
+Step 2 evaluation: Yes - The conclusion claims being obese is good/acceptable/desirable
+Step 3 evaluation: Yes - The reasoning connects normality directly to desirability/acceptability
+Step 4 evaluation: Yes - The argument assumes normal = good or acceptable
+Step 5 evaluation: No - No other substantial evidence is provided beyond social normality
+Step 6 evaluation: Yes - There are implied conclusions about acceptability even if not explicitly stated as "good"
+Pattern comparison: My answers [Y/Y/Y/Y/N/Y] exactly match ground truth [Y/Y/Y/Y/N/Y]
+-------------------------------------------------------------------------------------
+Example:
+Two words: New Coke.
+
+LLM:
+#classification: Appeal to Novelty#
+For Appeal to Novelty:
+Step 1 evaluation: Yes - The argument presents something new (New Coke) versus something established (original Coke)
+Step 2 evaluation: Yes - The argument claims the new thing is better/superior by virtue of being new
+Step 3 evaluation: No - No substantive evidence is provided for why the new thing is actually better beyond its novelty
+Pattern comparison: My answers [Y/Y/N] exactly match ground truth [Y/Y/N]
+-------------------------------------------------------------------------------------
+Example:
+I really deserve an “A” on this paper, professor.  Not only did I study during my grandmother’s funeral, but I also passed up the heart transplant surgery, even though that was the first matching donor in 3 years.
+
+LLM:
+#classification: Notable Effort#
+For Notable Effort:
+Step 1 evaluation: Yes - The student mentions their effort and hard work (studying during grandmother's funeral, passing up surgery)
+Step 2 evaluation: Yes - The argument presents that effort as the reason or evidence for deserving an "A"
+Step 3 evaluation: No - The argument relies on effort expended rather than factual or logical evidence about paper quality
+Step 4 evaluation: Yes - The structure matches "Person made effort to prove Y; therefore, Y is true" (deserves an A)
+Step 5 evaluation: Yes - All supporting reasons are based solely on the effort expended rather than academic merit
+Pattern comparison: My answers [Y/Y/N/Y/Y] exactly match ground truth [Y/Y/N/Y/Y]
+-------------------------------------------------------------------------------------
+Example:
+Mormonism is one of the fastest growing sects of Christianity today so that whole story about Joseph Smith getting the golden plates that, unfortunately, disappeared back into heaven, must be true!
+
+LLM:
+#classification: Appeal to Popularity#
+For Appeal to Popularity:
+Step 1 evaluation: Yes - The argument uses popularity as evidence (Mormonism is "one of the fastest growing sects")
+Step 2 evaluation: Yes - Popularity is the reason the conclusion is accepted (growth rate is used to validate the Joseph Smith story)
+Step 3 evaluation: Yes - The argument treats popularity as sufficient justification for truth (fast growth means the story "must be true")
+Pattern comparison: My answers [Y/Y/Y] exactly match ground truth [Y/Y/Y]
+-------------------------------------------------------------------------------------
+Example:
+Brittany: I haven’t applied to any other schools besides Harvard. Casey: You think that is a good idea?  After all, you only have a 2.0 GPA, your SAT scores were pretty bad, and frankly, most people think you are not playing with a full deck. Brittany: Are you telling me that it is impossible for me to get in? Casey: Not *impossible*, but... Brittany: Then shut your trap.
+
+LLM:
+#classification: Appeal to Possibility#
+For Appeal to Possibility:
+Step 1 evaluation: Yes - Brittany presents Harvard admission as possible
+Step 2 evaluation: Yes - Brittany treats this possibility as if it were true or probably true by using it to shut down Casey's criticism
+Step 3 evaluation: No - There is insufficient evidence to support the leap from 'possible' to 'true/probable' given her poor academic record
+Pattern comparison: My answers [Y/Y/N] exactly match ground truth [Y/Y/N]
+-------------------------------------------------------------------------------------
+Example:
+It takes faith to believe in God just like it takes faith to believe in the Easter Bunny -- but at least the Easter Bunny is based on a creature that actually exists!
+
+LLM:
+#classification: Weak Analogy#
+For Weak Analogy:
+Step 1 evaluation: Yes - The statement uses an analogy comparing belief in God to belief in the Easter Bunny
+Step 2 evaluation: Yes - God (X) and Easter Bunny (Y) are being compared
+Step 3 evaluation: Yes - The property "requiring faith to believe" is attributed to the Easter Bunny
+Step 4 evaluation: Yes - The argument concludes that belief in God also requires faith based on this analogy
+Step 5 evaluation: Yes - The differences between God (theological/metaphysical concept) and Easter Bunny (fictional character) are substantial and outweigh similarities
+Step 6 evaluation: Yes - The dissimilarities make the analogy ineffective - one is a serious theological concept while the other is a children's fantasy figure
+Pattern comparison: My answers [Y/Y/Y/Y/Y/Y] exactly match ground truth [yes/yes/yes/yes/yes/yes]
+-------------------------------------------------------------------------------------
+Example:
+Richie: Lord Xylon is the one true ruler of the universe.Toby: Why do you think that?Richie: It is self-evident.
+
+LLM:
+#classification: Appeal to Self evident Truth#
+For Appeal to Self evident Truth:
+Step 1 evaluation: Yes - Richie makes the claim "Lord Xylon is the one true ruler of the universe" without providing supporting evidence or reasoning
+Step 2 evaluation: Yes - Toby challenges the claim by asking "Why do you think that?" requesting evidence
+Step 3 evaluation: Yes - Richie responds that the claim is "self-evident" rather than providing proof
+Step 4 evaluation: No - The claim about Lord Xylon being the ruler of the universe is not actually self-evident like basic mathematical or logical truths
+Pattern comparison: My answers [Y/Y/Y/N] exactly match ground truth [Y/Y/Y/N]
+-------------------------------------------------------------------------------------
+Example:
+Aren't you tired of the political divisiveness in this country? Republicans know what they are talking about when it comes to immigration. Don't you agree?
+
+LLM:
+#classification: Complex Question Fallacy#
+For Complex Question Fallacy:
+Step 1 evaluation: Yes - There is a question being asked ("Aren't you tired of the political divisiveness in this country?" and "Don't you agree?")
+Step 2 evaluation: Yes - The question contains built-in assumptions (that there is political divisiveness, that Republicans know what they're talking about on immigration)
+Step 3 evaluation: Yes - The assumptions are misleading as they presuppose agreement with partisan political views
+Step 4 evaluation: Yes - The question hides claims about Republican expertise to protect the asker from direct accusations of bias
+Step 5 evaluation: Yes - Answering either question would implicitly accept the embedded assumptions about divisiveness and Republican expertise
+Pattern comparison: My answers [Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y]
+-------------------------------------------------------------------------------------
+Example:
+Anthony: You know what's wrong with us today? We think too much! We need to act more with our heart and gut! Today is the first day of the rest of your life! Sign up for my 30-day program now for just $999.99! Audience: (Cheers uncontrollably).
+
+LLM:
+#classification: Appeal to Stupidity#
+For Appeal to Stupidity:
+Step 1 evaluation: Yes - Anthony is downplaying and devaluing reason by saying "We think too much!"
+Step 2 evaluation: Yes - This devaluation of thinking is used as a rhetorical strategy to make the audience less analytical
+Step 3 evaluation: Yes - Anthony then makes a claim about his 30-day program following this devaluation of reasoning
+Step 4 evaluation: Yes - The devaluation of reasoning is intended to make the audience more receptive to accepting his program offer without critical analysis
+Pattern comparison: My answers [Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y]
+-------------------------------------------------------------------------------------
+Example:
+Dave: For five generations, the men in our family went to Stanford and became doctors, while the women got married and raised children.  Therefore, it is my duty to become a doctor. Kaitlin: Do you want to become a doctor? Dave: It doesn’t matter -- it is our family tradition.  Who am I to break it?
+
+LLM:
+#classification: Appeal to Tradition#
+For Appeal to Tradition:
+Step 1 evaluation: Yes - Dave presents historical preferences (five generations of men becoming doctors)
+Step 2 evaluation: Yes - These historical references are presented as the primary justification for his current position (becoming a doctor)
+Step 3 evaluation: No - Dave does not provide justification that historical precedence automatically makes something correct or desirable - he simply states it's tradition and duty
+Pattern comparison: My answers [Y/Y/N] do not exactly match ground truth [Y/Y/N]
+
+Let me re-evaluate systematically:
+#classification: Appeal to Loyalty#
+For Appeal to Loyalty:
+Step 1 evaluation: Yes - There is a relationship of loyalty (family tradition/duty)
+Step 2 evaluation: Yes - Family loyalty/tradition is being used as the main reasoning for belief (duty to become a doctor)
+Step 3 evaluation: Yes - Dave frames breaking from tradition as betrayal ("Who am I to break it?")
+Step 4 evaluation: Yes - The truth value of whether he should become a doctor is independent of family loyalty
+Pattern comparison: My answers [Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y]
+RetryClaude can make mistakes. Please double-check responses.
+-------------------------------------------------------------------------------------
+Example:
+I read in the Wall Street Journal that pork bellies are a good investment. So could I borrow a million dollars to invest?
+
+LLM:
+#classification: Appeal to Authority#
+For Appeal to Authority:
+Step 1 evaluation: Yes - The argument cites the Wall Street Journal as a credible source/authority
+Step 2 evaluation: Yes - The argument claims pork bellies are a good investment solely because the WSJ said so
+Step 3 evaluation: Yes - The Wall Street Journal is qualified in the relevant financial field
+Step 4 evaluation: Yes - The argument follows the pattern 'WSJ says pork bellies are good investment, therefore they are good investment'
+Pattern comparison: My answers [Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y]
+-------------------------------------------------------------------------------------
+Example:
+Tom: I plan on chaining myself to the bulldozer so they can't knock down the senior center. Judy: That's just wrong. You'll get arrested. Don't be a bad person!
+
+LLM:
+#classification: Ad Hominem Abusive#
+For Ad Hominem Abusive:
+Step 1 evaluation: Yes - Tom makes an argument/claim about chaining himself to the bulldozer to stop demolition of the senior center
+Step 2 evaluation: Yes - Judy makes a personal attack by calling Tom a "bad person"
+Step 3 evaluation: Yes - The personal attack about Tom being "bad" is completely irrelevant to whether his protest method is valid or effective
+Step 4 evaluation: Yes - Judy uses the personal attack as grounds to reject Tom's argument, saying "That's just wrong" and "Don't be a bad person"
+Step 5 evaluation: Yes - The reasoning follows the pattern: Tom claims he should chain himself (Y), Tom is a bad person (Z), therefore his plan is wrong
+Pattern comparison: My answers [Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y]
+-------------------------------------------------------------------------------------
+Example:
+If we can put a man on the moon, we can cure all forms of cancer.
+
+LLM:
+#classification: Appeal to the Moon#
+For Appeal to the Moon:
+Step 1 evaluation: Yes - The statement contains the exact phrase "If we can put a man on the moon"
+Pattern comparison: My answers [Y] exactly match ground truth [Y]
+-------------------------------------------------------------------------------------
+Example:
+By rejecting God, you are rejecting goodness, kindness, and love itself.
+
+LLM:
+#classification: Package Deal Fallacy#
+For Package Deal Fallacy:
+Step 1 evaluation: Yes - The argument mentions God and goodness/kindness/love as things that are commonly associated or grouped together
+Step 2 evaluation: Yes - The argument assumes these things MUST always be together and cannot be separated (rejecting God means rejecting goodness, kindness, and love)
+Step 3 evaluation: Yes - The argument claims that separating them (rejecting God while keeping goodness/kindness/love) will have severe effects without proper justification
+Step 4 evaluation: Yes - The reasoning jumps from 'usually together' to 'cannot be apart' without sufficient evidence
+Pattern comparison: My answers [Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y]
+-------------------------------------------------------------------------------------
+Example:
+(to be read extremely fast)I hereby submit that it is crystal clear that there is only one true God, without question, without reserve, without hesitation I can say this because I know the truth and I am here to share it with you.  Praise Allah!
+
+LLM:
+#classification: Alleged Certainty#
+For Alleged Certainty:
+Step 1 evaluation: Yes - A definitive conclusion is being asserted about there being "only one true God"
+Step 2 evaluation: Yes - The statement uses language that implies universal knowledge or certainty ("crystal clear", "without question", "without reserve", "without hesitation", "I know the truth")
+Step 3 evaluation: Yes - The certainty claim is used as the primary justification for the conclusion about God's existence
+Step 4 evaluation: Yes - The conclusion's truth value is actually uncertain or debatable despite the confident presentation
+Step 5 evaluation: Yes - The argument's strength relies on the appearance of certainty rather than substantive reasoning or evidence
+Pattern comparison: My answers [Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y]
+-------------------------------------------------------------------------------------
+Example:
+Fortifying the dextrose coherence leads to applicable inherent of explicable tolerance; therefore, we should not accept this proposal.
+
+LLM:
+#classification: Argument by Gibberish#
+For Argument by Gibberish:
+Step 1 evaluation: Yes - The statement makes a clear argument with the conclusion "we should not accept this proposal"
+Step 2 evaluation: Yes - The reasoning relies on incomprehensible jargon like "fortifying the dextrose coherence leads to applicable inherent of explicable tolerance" which is meaningless technical-sounding language
+Step 3 evaluation: No - The argument provides no other supporting logical evidence beyond the incomprehensible jargon
+Pattern comparison: My answers [Y/Y/N] exactly match ground truth [yes/yes/no]
+-------------------------------------------------------------------------------------
+Example:
+Hi there, ladies (wink - teeth sparkle). I just want to say that all of you have the right to do what you will with your bodies, including the right to abortion.
+
+LLM:
+#classification: Rights To Ought Fallacy#
+For Rights To Ought Fallacy:
+Step 1 evaluation: Yes - The statement claims what someone "should" do (implying women should have abortions based on having the right)
+Step 2 evaluation: Yes - The argument uses having a "right" (to do what they will with their bodies, including abortion) as justification
+Step 3 evaluation: Yes - The statement conflates legal/constitutional rights with what should be done morally
+Step 4 evaluation: Yes - The reasoning follows "Person has the right to do X, therefore person should do X" pattern
+Step 5 evaluation: Yes - The argument uses objective legal rights to support a subjective moral position
+Pattern comparison: My answers [Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y]
+-------------------------------------------------------------------------------------
+Example:
+Dad: You are failing math since you moved the Xbox to your room. You have been playing video games for at least 6 hours each day since. Before that, you consistently got A's and B's. Don't you think that the video games are the real problem here? Blake: No.
+
+LLM:
+#classification: Argument from Incredulity#
+For Argument from Incredulity:
+Step 1 evaluation: Yes - Dad is making a claim that video games are the real problem causing Blake's failing math grades
+Step 2 evaluation: Yes - Blake expresses disbelief or refusal to believe the first person's claim by simply responding "No"
+Step 3 evaluation: No - Blake's conclusion (rejecting Dad's claim) is not supported by any additional evidence - he provides no reasoning or counter-evidence
+Pattern comparison: My answers [Y/Y/N] exactly match ground truth [Y/Y/N]
+-------------------------------------------------------------------------------------
+Example:
+That movie, “Kill, Blood, Gore” deserves the Oscar for best picture.  There are other good movies, but not like that one.  Others may deserve an honorable mention, but not the Oscar, because “Kill, Blood, Gore” deserves the Oscar.
+
+LLM:
+#classification: Begging the Question#
+For Begging the Question:
+Step 1 evaluation: Yes - A person is making a claim that "Kill, Blood, Gore" deserves the Oscar for best picture
+Step 2 evaluation: Yes - The argument's validity depends on already accepting what it's trying to prove (that the movie deserves the Oscar)
+Step 3 evaluation: Yes - The claim uses circular reasoning by stating the movie deserves the Oscar because it deserves the Oscar
+Pattern comparison: My answers [Y/Y/Y] exactly match ground truth [Y/Y/Y]
+-------------------------------------------------------------------------------------
+Example:
+Kevin: I think there is good evidence that God exists because of the fine-tuning argument, the teleological argument, and perhaps because over 2 billion believe it as well. Sydney: It is ridiculous to believe in God just because a lot of other people do too!
+
+LLM:
+#classification: Strawman Fallacy#
+For Strawman Fallacy:
+Step 1 evaluation: Yes - There are two parties in disagreement (Kevin and Sydney)
+Step 2 evaluation: Yes - Kevin's original position includes multiple arguments (fine-tuning, teleological, and appeal to numbers), but Sydney restates it as believing "just because a lot of other people do too"
+Step 3 evaluation: Yes - Sydney attacks only the appeal to numbers portion rather than addressing Kevin's full argument with multiple components
+Step 4 evaluation: Yes - Sydney concludes Kevin's belief is "ridiculous" based on refuting only the distorted version that focuses solely on popular belief
+Pattern comparison: My answers [Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y]
+-------------------------------------------------------------------------------------
+Example:
+Swami Patooty wrote, back in the 6th century, “To know oneself, is to one day self know.”  You don’t find pearls like that today!
+
+LLM:
+#classification: Meaningless Question#
+For Meaningless Question:
+Step 1 evaluation: Yes - A question is being asked (implied through the quoted statement structure)
+Step 2 evaluation: No - The statement "To know oneself, is to one day self know" does not have rational, coherent meaning due to circular and confusing construction
+Step 3 evaluation: No - The question/statement cannot be logically answered or addressed because of its meaningless nature
+Step 4 evaluation: Yes - The statement is equivalent to an impossible operation due to its circular, self-referential structure that provides no actual information
+Pattern comparison: My answers [Y/N/N/Y] exactly match ground truth [Y/N/N/Y]
+-------------------------------------------------------------------------------------
+Example:
+Ivan: You cannot borrow my car because it turns back into a pumpkin at midnight. Sidney: If you really think that, you’re an idiot. Ivan: That is an ad hominem; therefore, I can’t be an idiot. Sidney: I beg to differ.
+
+LLM:
+#classification: Argument from Fallacy#
+For Argument from Fallacy:
+Step 1 evaluation: Yes - Sidney is making a claim that Ivan is an idiot
+Step 2 evaluation: Yes - Ivan identifies Sidney's claim as containing the ad hominem logical fallacy
+Step 3 evaluation: Yes - Ivan is concluding that Sidney's argument is wrong
+Step 4 evaluation: Yes - Ivan concludes the argument is wrong only because of the presence of the ad hominem fallacy
+Step 5 evaluation: No - Ivan does not respond by providing additional evidence, only by identifying the fallacy
+Pattern comparison: My answers [Y/Y/Y/Y/N] exactly match ground truth [Y/Y/Y/Y/N]
+-------------------------------------------------------------------------------------
+Example:
+Dr. Dean, TV's hottest new psychologist, says that coffee enemas are the "fountain of youth." Get me that coffee enema!
+
+LLM:
+#classification: Appeal to Celebrity#
+For Appeal to Celebrity:
+Step 1 evaluation: Yes - Dr. Dean is being presented as a celebrity/famous person ("TV's hottest new psychologist") making a claim about coffee enemas
+Step 2 evaluation: Yes - The celebrity's fame/status as "TV's hottest new psychologist" is being used as the primary reason to accept the claim about coffee enemas being the "fountain of youth"
+Pattern comparison: My answers [Y/Y] exactly match ground truth [Y/Y]
+-------------------------------------------------------------------------------------
+Example:
+Lolita: Bill stole the money from the company petty cash fund. Byron: How do you know? Lolita: Because Diane told me. Byron: How does she know? Lolita: Julian told her. Byron: Did anyone actually see Bill steal the money? Lolita:  I don’t know, we could ask Morris. Byron: Who’s he? Lolita: The guy who told Julian.
+
+LLM:
+#classification: Argument from Hearsay#
+For Argument from Hearsay:
+Step 1 evaluation: Yes - A testimony is being used (Lolita's claim about Bill stealing money based on what she was told)
+Step 2 evaluation: No - The source (Diane, who got it from Julian, who got it from Morris) cannot be fact-checked as an eyewitness to the event
+Step 3 evaluation: Yes - The information has been passed through multiple intermediary sources (Morris → Julian → Diane → Lolita)
+Step 4 evaluation: Yes - The argument is primarily reliant on testimony from someone who was not an eyewitness (Lolita herself admits uncertainty about whether anyone actually saw the theft)
+Pattern comparison: My answers [Y/N/Y/Y] exactly match ground truth [Y/N/Y/Y]
+-------------------------------------------------------------------------------------
+Example:
+Although we have proven that the moon is not made of spare ribs, we have not proven that its core cannot be filled with them; therefore, the moon’s core is filled with spare ribs.
+
+LLM:
+#classification: Argument from Ignorance#
+For Argument from Ignorance:
+Step 1 evaluation: Yes - The statement makes a claim that "the moon's core is filled with spare ribs"
+Step 2 evaluation: Yes - The claim is based solely on the fact that there is no evidence against it (we have not proven that the core cannot be filled with spare ribs)
+Step 3 evaluation: No - The claim is not supported by substantial logical evidence - there is no positive evidence provided for spare ribs being in the moon's core
+Pattern comparison: My answers [Y/Y/N] exactly match ground truth [Y/Y/N]
+-------------------------------------------------------------------------------------
+Example:
+Marty: Doc, I'm from the future. I came here in a time machine that you invented. Now, I need your help to get back to the year 1985. Doc: I've had enough practical jokes for one evening. Good night, future boy!
+
+LLM:
+#classification: Argument from Incredulity#
+For Argument from Incredulity:
+Step 1 evaluation: Yes - Marty is making a claim about being from the future and having a time machine
+Step 2 evaluation: Yes - Doc expresses disbelief and refuses to believe Marty's claim, dismissing it as a "practical joke"
+Step 3 evaluation: No - Doc's conclusion is not supported by additional evidence beyond his disbelief
+Pattern comparison: My answers [Y/Y/N] exactly match ground truth [Y/Y/N]
+-------------------------------------------------------------------------------------
+Example:
+Jay: Dude, where are my car keys? Silent Bob: (says nothing) Jay: I KNEW you took them!
+
+LLM:
+#classification: Argument from Silence#
+For Argument from Silence:
+Step 1 evaluation: Yes - Jay is drawing a conclusion (that Silent Bob took the keys)
+Step 2 evaluation: Yes - Silent Bob remains silent and refuses to present additional evidence
+Step 3 evaluation: Yes - Jay draws the conclusion about the claim's truth based only on that silence
+Pattern comparison: My answers [Y/Y/Y] exactly match ground truth [Y/Y/Y]
+-------------------------------------------------------------------------------------
+Example:
+Why does the law state that you have to be 21 years old to drink?  Does it really make any difference if you are 20 years and 364 days old?  That is absurd.  Therefore, if a single day makes no difference, then a collection of 1095 single days won’t make any difference. Therefore, changing the drinking age to 18 will not make any difference.
+
+LLM:
+#classification: Argument of the Beard#
+For Argument of the Beard:
+Step 1 evaluation: Yes - The argument involves two contrasting extremes (21 years old vs 18 years old for drinking age)
+Step 2 evaluation: Yes - The argument concludes there's no meaningful difference because there's no definable boundary where exactly someone becomes mature enough to drink
+Step 3 evaluation: No - No additional evidence is supplied to support the conclusion beyond the lack of a clear boundary
+Pattern comparison: My answers [Y/Y/N] exactly match ground truth [Y/Y/N]
+-------------------------------------------------------------------------------------
+Example:
+So you are saying your car is worth $20k.  I think it is worth $1, so let’s just compromise and say it is worth $10k. (Assuming the car is worth $20k)
+
+LLM:
+#classification: Argument to Moderation#
+For Argument to Moderation:
+Step 1 evaluation: Yes - There are two opposing positions presented: the car is worth $20k vs. the car is worth $1
+Step 2 evaluation: Yes - A third position is presented ($10k) that gives moderation between the first two positions
+Step 3 evaluation: Yes - The third position ($10k compromise) is claimed to be correct only because it is a compromise between the other two positions, despite the assumption that the car is actually worth $20k
+Pattern comparison: My answers [Y/Y/Y] exactly match ground truth [Y/Y/Y]
+-------------------------------------------------------------------------------------
+Example:
+Mike: Did you know that the author of the book, “Logically Fallacious,” made a fortune on the Internet? Jon: So? Mike: That means that this book must be awesome!
+
+LLM:
+#classification: Genetic Fallacy#
+For Genetic Fallacy:
+Step 1 evaluation: Yes - The argument is evaluating the claim that the book is awesome (its truth value)
+Step 2 evaluation: Yes - The argument focuses on the origin/source of the claim (the author made a fortune on the Internet)
+Step 3 evaluation: Yes - The conclusion about the book being awesome is based solely on information about the author's financial success
+Step 4 evaluation: No - The author's financial success from the Internet is not relevant to determining whether the book is actually awesome
+Step 5 evaluation: Yes - The argument follows the pattern: 'This book comes from [successful author], therefore it is awesome'
+Pattern comparison: My answers [Y/Y/Y/N/Y] exactly match ground truth [Y/Y/Y/N/Y]
+-------------------------------------------------------------------------------------
+Example:
+Daryl: Answer honestly, do you think if we were born and raised in Iran, by Iranian parents, we would still be Christian, or would we be Muslim? Ross: I think those of us raised in a place where Christianity is taught are fortunate. Daryl:  I agree, but do you think if we were born and raised in Iran, by Iranian parents, we would still be Christian, or would we be Muslim? Ross: Your faith is weak -- you need to pray to God to make it stronger. Daryl:  I guess you’re right.  What was I thinking?
+
+LLM:
+#classification: Ad Hominem Circumstantial#
+For Ad Hominem Circumstantial:
+Step 1 evaluation: Yes - There are two opposing positions with Daryl questioning faith origins and Ross defending Christianity
+Step 2 evaluation: Yes - Daryl is making an argument about how birthplace affects religious belief
+Step 3 evaluation: Yes - Ross attacks Daryl's circumstances (weak faith) rather than addressing the argument about geographic influence on belief
+Step 4 evaluation: Yes - Ross suggests Daryl's circumstances (weak faith) predispose him to his questioning position
+Step 5 evaluation: Yes - Ross concludes Daryl's argument is invalid solely because of his weak faith circumstances, not the merit of the argument
+Pattern comparison: My answers [Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y]
+-------------------------------------------------------------------------------------
+Example:
+Only 6% of applicants make it into this school, but my son is brilliant!  They are certainly going to accept him!
+
+LLM:
+#classification: Base Rate Fallacy#
+For Base Rate Fallacy:
+Step 1 evaluation: Yes - Statistical information is available (6% acceptance rate)
+Step 2 evaluation: Yes - The statistical information is ignored in favor of personal assessment
+Step 3 evaluation: Yes - Irrelevant information (son being "brilliant") is used to make the judgment instead of considering the base rate
+Pattern comparison: My answers [Y/Y/Y] exactly match ground truth [Y/Y/Y]
+-------------------------------------------------------------------------------------
+Example:
+Paranormal activity is real because I have experienced what can only be described as paranormal activity.
+
+LLM:
+#classification: Begging the Question#
+For Begging the Question:
+Step 1 evaluation: Yes - A person is making a claim that paranormal activity is real
+Step 2 evaluation: Yes - The argument's validity depends on already accepting what it's trying to prove (that paranormal activity exists)
+Step 3 evaluation: Yes - The claim uses circular reasoning by using the conclusion (paranormal activity is real) as the premise (I experienced paranormal activity)
+Pattern comparison: My answers [Y/Y/Y] exactly match ground truth [Y/Y/Y]
+-------------------------------------------------------------------------------------
+Example:
+Based on a survey of 1000 American homeowners, 99% of those surveyed have two or more automobiles worth on average $100,000 each.  Therefore, Americans are very wealthy.
+
+LLM:
+#classification: Biased Sample Fallacy#
+For Biased Sample Fallacy:
+Step 1 evaluation: Yes - A population (American homeowners) is being sampled with 1000 respondents
+Step 2 evaluation: Yes - The sampled population is being used to draw conclusions about a larger population (all Americans)
+Step 3 evaluation: No - The sample population was not carefully chosen to be representative of the larger population (homeowners are not representative of all Americans)
+Step 4 evaluation: Yes - The conclusion contains a possible bias in the sample that does not exist in the larger population (homeowners are likely wealthier than the general American population)
+Pattern comparison: My answers [Y/Y/N/Y] exactly match ground truth [Y/Y/N/Y]
+-------------------------------------------------------------------------------------
+Example:
+During the Nazi war crimes trials at Nuremberg after World War II,  Nazi war criminals were charged with genocide, mass murder, torture, and other atrocities.  Their defense: "I was only following orders".
+
+LLM:
+#classification: Appeal to Force#
+For Appeal to Force:
+Step 1 evaluation: Yes - The argument contains an implicit threat (punishment for not following orders)
+Step 2 evaluation: Yes - The threat was directed at the person being asked to accept the conclusion (the defendants)
+Step 3 evaluation: Yes - The threat was intended to coerce agreement (following orders to avoid consequences)
+Step 4 evaluation: No - There is no additional logical reasoning or evidence supplemented beyond the coercion
+Pattern comparison: My answers [Y/Y/Y/N] exactly match ground truth [Y/Y/Y/N]
+-------------------------------------------------------------------------------------
+
+
+
