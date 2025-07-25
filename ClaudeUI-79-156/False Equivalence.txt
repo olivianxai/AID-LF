@@ -1,0 +1,10 @@
+#classification: False Equivalence#
+For False Equivalence:
+Step 1 evaluation: Yes - The argument compares President Petutti (who ordered a military strike) to mass murderers
+Step 2 evaluation: Yes - The comparison claims they are equivalent ("no different than")
+Step 3 evaluation: Yes - They share only the characteristic of causing civilian deaths
+Step 4 evaluation: Yes - The shared characteristic is minor compared to significant differences (military context, legal authority, intent, etc.)
+Step 5 evaluation: Yes - Important distinguishing factors like legal authority, military context, and intent are ignored
+Step 6 evaluation: Yes - The equivalence is logically invalid due to the magnitude of differences between authorized military action and criminal mass murder
+Pattern comparison: My answers [Y/Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y/Y]
+#

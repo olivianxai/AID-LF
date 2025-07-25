@@ -1,0 +1,8 @@
+#classification: Appeal to Force#
+For Appeal to Force:
+Step 1 evaluation: Yes - The argument contains a threat (the sound of a baseball bat breaking kneecaps)
+Step 2 evaluation: Yes - The threat is directed at Paulie who is being asked to accept/comply with Rocco's demand
+Step 3 evaluation: Yes - The threat is intended to coerce agreement/compliance with paying the money
+Step 4 evaluation: No - There is no additional logical reasoning or evidence provided beyond the threat
+Pattern comparison: My answers [Y/Y/Y/N] exactly match ground truth [Y/Y/Y/N]
+#

@@ -1,0 +1,10 @@
+#classification: Hasty Generalization#
+For Hasty Generalization:
+Step 1 evaluation: Yes - The father's smoking experience is being used as evidence
+Step 2 evaluation: Yes - One person's experience is an unreasonably small sample relative to the total population of smokers
+Step 3 evaluation: Yes - One individual's experience is completely unrepresentative of the broader population of smokers
+Step 4 evaluation: Yes - A broad conclusion about smoking's harmfulness is being drawn from this single case
+Step 5 evaluation: Yes - The conclusion is being applied to all people who smoke, a much larger population
+Step 6 evaluation: Yes - The generalization ignores extensive statistical data and larger patterns showing smoking's health risks
+Pattern comparison: My answers [Y/Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y/Y]
+#

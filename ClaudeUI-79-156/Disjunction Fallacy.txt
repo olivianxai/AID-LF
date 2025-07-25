@@ -1,0 +1,7 @@
+#classification: Disjunction Fallacy#
+For Disjunction Fallacy:
+Step 1 evaluation: Yes - The statement involves a disjunctive claim "Catholic than a Catholic or a Muslim" which contains the disjunction "Catholic or Muslim"
+Step 2 evaluation: Yes - Probability estimates are implied for both the combined disjunction (Catholic or Muslim) and the individual part (Catholic)
+Step 3 evaluation: Yes - The statement incorrectly determines that being "Catholic" is more probable than being "Catholic or Muslim" which is logically impossible since "Catholic" is a subset of "Catholic or Muslim"
+Pattern comparison: My answers [Y/Y/Y] exactly match ground truth [Y/Y/Y]
+#

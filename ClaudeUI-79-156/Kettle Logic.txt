@@ -1,0 +1,8 @@
+#classification: Kettle Logic#
+For Kettle Logic:
+Step 1 evaluation: Yes - There is a main point being argued (defense against accusation of damaging the kettle)
+Step 2 evaluation: Yes - Multiple supporting statements are presented (three different arguments about the kettle)
+Step 3 evaluation: Yes - The three arguments contradict each other (can't return undamaged AND already damaged AND never borrowed)
+Step 4 evaluation: Yes - These contradictory statements are presented simultaneously as defense arguments
+Pattern comparison: My answers [Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y]
+#

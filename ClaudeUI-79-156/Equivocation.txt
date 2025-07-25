@@ -1,0 +1,7 @@
+#classification: Etymological Fallacy#
+For Etymological Fallacy:
+Step 1 evaluation: Yes - The word "gay" has different modern and historical meanings being referenced
+Step 2 evaluation: Yes - Both the modern meaning (sexual orientation) and historic meaning (merry/joyful) of "gay" are referenced
+Step 3 evaluation: Yes - The historical meaning (merry/joyful) is being treated as the true meaning that should be avoided due to confusion with the modern meaning
+Pattern comparison: My answers [Y/Y/Y] exactly match ground truth [Y/Y/Y]
+#

@@ -1,0 +1,8 @@
+#classification: Incomplete Comparison#
+For Incomplete Comparison:
+Step 1 evaluation: Yes - The statement makes a comparative claim using "significantly less" which is a comparative term
+Step 2 evaluation: No - The statement does not specify what it is being compared to beyond "the leading candy bar" but fails to specify leading in what market, time period, or region
+Step 3 evaluation: No - The comparative claim cannot be fully verified because "the leading candy bar" is vague and undefined
+Step 4 evaluation: Yes - The statement presents a vague superiority claim about broccoli being healthier without proper context for what constitutes "leading"
+Pattern comparison: My answers [Y/N/N/Y] exactly match ground truth [Y/N/N/Y]
+#

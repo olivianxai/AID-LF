@@ -1,0 +1,9 @@
+#classification: Imposter Fallacy#
+For Imposter Fallacy:
+Step 1 evaluation: Yes - The statement describes members of a group (Trump supporters) whose actions damage the group's reputation (holding "White Power" signs)
+Step 2 evaluation: Yes - Garry claims these damaging members are infiltrators from another group (liberals pretending to be Trump supporters)
+Step 3 evaluation: No - No sufficient evidence is provided to support the infiltration claim
+Step 4 evaluation: No - The argument assumes that true Trump supporters would not behave in that damaging way
+Step 5 evaluation: Yes - The claim states that the alleged infiltrators are trying to make Trump supporters look bad
+Pattern comparison: My answers [Y/Y/N/N/Y] exactly match ground truth [Y/Y/N/N/Y]
+#

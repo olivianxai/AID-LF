@@ -1,0 +1,8 @@
+#classification: Circular Reasoning#
+For Circular Reasoning:
+Step 1 evaluation: Yes - There is a conclusion being argued (that electrolytes are used to make Brawndo because Brawndo has electrolytes)
+Step 2 evaluation: Yes - The premise depends on or assumes the truth of the conclusion (electrolytes are what make Brawndo, which is supported by saying Brawndo has electrolytes)
+Step 3 evaluation: Yes - There is a circular dependency where X supports Y and Y supports X (electrolytes make Brawndo because Brawndo has electrolytes)
+Step 4 evaluation: No - The reasoning is not supported by strong external evidence
+Pattern comparison: My answers [Y/Y/Y/N] exactly match ground truth [Y/Y/Y/N]
+#

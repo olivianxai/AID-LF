@@ -1,0 +1,9 @@
+#classification: Illicit Substitution of Identicals#
+For Illicit Substitution of Identicals:
+Step 1 evaluation: Yes - The argument states that two names/descriptions refer to the same entity (the lady in the pink dress is Julia Roberts)
+Step 2 evaluation: Yes - Someone (the reporter) expresses a belief about one of those names (the lady in the pink dress drives a Prius)
+Step 3 evaluation: Yes - The argument substitutes the other name inside that belief context (concluding the reporter thinks Julia Roberts drives a Prius)
+Step 4 evaluation: Yes - The argument concludes that the believer now attributes the property to the substituted name as well
+Step 5 evaluation: No - There's no indication the reporter recognizes that the two names refer to the same entity
+Pattern comparison: My answers [Y/Y/Y/Y/N] exactly match ground truth [Y/Y/Y/Y/N]
+#

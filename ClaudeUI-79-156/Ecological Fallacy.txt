@@ -1,0 +1,9 @@
+#classification: Ecological Fallacy#
+For Ecological Fallacy:
+Step 1 evaluation: Yes - A statistical claim is made about men as a group scoring better on math than women as a group
+Step 2 evaluation: Yes - Jerry, an individual man, is being discussed
+Step 3 evaluation: Yes - The argument concludes that Jerry has the same characteristic (being better at math) as the group based solely on the group's characteristic
+Step 4 evaluation: No - No substantial evidence or facts are given about Jerry's individual math abilities to support the conclusion
+
+Pattern comparison: My answers [Y/Y/Y/N] exactly match ground truth [Y/Y/Y/N]
+#

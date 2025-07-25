@@ -1,0 +1,10 @@
+#classification: Hypnotic Bait and Switch#
+For Hypnotic Bait and Switch:
+Step 1 evaluation: Yes - Multiple statements are presented in succession
+Step 2 evaluation: Yes - The initial statements about loving country and family are uncontroversially true, followed by the controversial claim about loving Eatme ice-cream
+Step 3 evaluation: Yes - This matches the pattern of uncontroversially true statements followed by a controversial claim
+Step 4 evaluation: No - The final claim about ice-cream does not logically follow from loving country and family
+Step 5 evaluation: Yes - The sequence is designed to make the audience more likely to accept the ice-cream claim because they agreed with the preceding patriotic/family statements
+Step 6 evaluation: Yes - Credibility is being transferred from the initial true statements to the final commercial claim without logical connection
+Pattern comparison: My answers [Y/Y/Y/N/Y/Y] exactly match ground truth [Y/Y/Y/N/Y/Y]
+#

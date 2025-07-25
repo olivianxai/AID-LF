@@ -1,0 +1,10 @@
+#classification: Ad Hominem Guilt by Association#
+For Ad Hominem Guilt by Association:
+Step 1 evaluation: Yes - There are two or more people/groups being discussed (Jennie, Carl, and fruitarians)
+Step 2 evaluation: Yes - A negative judgment of fruitarians already exists (Carl calls them "crazy people")
+Step 3 evaluation: Yes - Jennie is being judged negatively based on her association with fruitarians who are against slaughtering animals
+Step 4 evaluation: Yes - Carl dismisses/attacks Jennie's argument solely because of this association with fruitarians
+Step 5 evaluation: Yes - The association with fruitarians is irrelevant to the actual philosophical argument about alien slaughter
+Step 6 evaluation: Yes - The reasoning follows 'Jennie associates with fruitarians' position, fruitarians are crazy, therefore Jennie is crazy'
+Pattern comparison: My answers [Y/Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y/Y]
+#

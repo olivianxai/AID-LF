@@ -1,0 +1,9 @@
+#classification: Ad Hominem Circumstantial#
+For Ad Hominem Circumstantial:
+Step 1 evaluation: Yes - There are two opposing positions with the employer and Andy in the argument
+Step 2 evaluation: Yes - Andy is making claims about his work qualities (hard worker, attention to detail, willing to work long hours)
+Step 3 evaluation: Yes - The employer attacks Andy's circumstances/past employment record rather than addressing the validity of Andy's self-described qualities
+Step 4 evaluation: Yes - The attack suggests Andy's past employment circumstances make him predisposed to claiming positive qualities about himself
+Step 5 evaluation: Yes - The employer concludes Andy's argument about his qualities is invalid solely because of his past employment circumstances and negative feedback
+Pattern comparison: My answers [Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y]
+#

@@ -1,0 +1,9 @@
+#classification: Conflicting Conditions#
+
+For Conflicting Conditions:
+Step 1 evaluation: Yes - A claim is being made ("The only thing that is certain is uncertainty")
+Step 2 evaluation: Yes - One part claims "certainty" while another part claims "uncertainty" - these contradict each other
+Step 3 evaluation: Yes - The contradiction makes the entire claim logically impossible (if uncertainty is certain, then something is certain, contradicting the claim that only uncertainty is certain)
+
+Pattern comparison: My answers [Y/Y/Y] exactly match ground truth [Y/Y/Y]
+#

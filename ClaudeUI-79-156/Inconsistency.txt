@@ -1,0 +1,8 @@
+#classification: Inconsistency#
+For Inconsistency:
+Step 1 evaluation: Yes - The statement asserts two distinct propositions: "I never said most of the things I said" contains both a claim about not saying things and simultaneously acknowledging saying them
+Step 2 evaluation: Yes - These propositions are logically incompatible - one cannot simultaneously have "never said" things while also having "said" them
+Step 3 evaluation: Yes - Both the denial and acknowledgment of saying things are presented as true within the same statement
+Step 4 evaluation: No - This appears to be an unintentional logical contradiction rather than a deliberate rhetorical device, as it's presented as a sincere statement
+Pattern comparison: My answers [Y/Y/Y/N] exactly match ground truth [Y/Y/Y/N]
+#

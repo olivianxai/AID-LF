@@ -1,0 +1,8 @@
+#classification: Circular Reasoning#
+For Circular Reasoning:
+Step 1 evaluation: Yes - There is a conclusion being argued (the dog goes through garbage because he is a dog)
+Step 2 evaluation: Yes - The premise (he is a dog) depends on or assumes the truth of the conclusion (dogs go through garbage)
+Step 3 evaluation: Yes - There is a circular dependency where "dogs go through garbage" supports "my dog goes through garbage" and vice versa
+Step 4 evaluation: No - No strong external evidence is provided beyond the circular reasoning
+Pattern comparison: My answers [Y/Y/Y/N] exactly match ground truth [Y/Y/Y/N]
+#

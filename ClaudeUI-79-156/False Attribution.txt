@@ -1,0 +1,11 @@
+#classification: Anonymous Authority#
+
+For Anonymous Authority:
+Step 1 evaluation: Yes - The student is making a claim about facts they learned
+Step 2 evaluation: Yes - The student uses "a program I saw on TV once" as an unspecified, vague source
+Step 3 evaluation: Yes - The phrase "I don't remember the name of it though" indicates they cannot specify the source
+Step 4 evaluation: No - The source cannot be verified since they don't remember the program name
+Step 5 evaluation: Yes - The argument's credibility depends entirely on this unverifiable TV program source
+
+Pattern comparison: My answers [Y/Y/Y/N/Y] exactly match ground truth [Y/Y/Y/N/Y]
+#

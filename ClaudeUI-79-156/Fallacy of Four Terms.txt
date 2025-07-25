@@ -1,0 +1,10 @@
+#classification: Fallacy of the Undistributed Middle#
+
+For Fallacy of the Undistributed Middle:
+Step 1 evaluation: Yes - The argument is structured as a categorical syllogism with two premises ("All cats are felines" and "All dogs are canines") and one conclusion ("Therefore, all cats are canines")
+Step 2 evaluation: Yes - Both premises link different categories (cats and dogs) to different middle terms (felines and canines), and the conclusion attempts to link cats and dogs directly without a proper middle term connection
+Step 3 evaluation: No - There is no additional valid reasoning or evidence outside the premises that justifies the conclusion
+
+Pattern comparison: My answers [Y/Y/N] exactly match ground truth [Y/Y/N]
+
+#

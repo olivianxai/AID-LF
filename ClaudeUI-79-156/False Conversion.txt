@@ -1,0 +1,8 @@
+#classification: False Conversion#
+For False Conversion:
+Step 1 evaluation: Yes - The argument contains a categorical proposition using "all" (All Hollywood Squares contestants are bad actors)
+Step 2 evaluation: Yes - The conclusion switches the subject and predicate terms (bad actors become the subject, Hollywood Squares contestants become the predicate)
+Step 3 evaluation: No - The conclusion does not logically follow from the premise after the swap (just because all contestants are bad actors doesn't mean all bad actors are contestants)
+Step 4 evaluation: No - No additional valid reasoning is provided that would justify this logical swap
+Pattern comparison: My answers [Y/Y/N/N] exactly match ground truth [Y/Y/N/N]
+#

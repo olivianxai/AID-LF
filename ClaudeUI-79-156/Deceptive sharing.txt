@@ -1,0 +1,7 @@
+#classification: Deceptive Sharing#
+For Deceptive Sharing:
+Step 1 evaluation: Yes - The content involves sharing an article about a specific case of a 7-year-old dying from COVID-19, which is a specific and uncommon instance of an event
+Step 2 evaluation: Yes - The sharing is intended to misleadingly classify this rare event (healthy children dying from COVID-19) as more common than it actually is, giving people the impression it's far more frequent
+Step 3 evaluation: Yes - No explicit claim is made about the event's frequency - the article is shared "with no comment nor argument" allowing others to make inferences
+Pattern comparison: My answers [Y/Y/Y] exactly match ground truth [Y/Y/Y]
+#

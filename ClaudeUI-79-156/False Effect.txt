@@ -1,0 +1,7 @@
+#classification: Appeal to False Authority#
+For Appeal to False Authority:
+Step 1 evaluation: Yes - Mom is being cited as an authority figure making a claim about TV watching causing blindness
+Step 2 evaluation: No - Mom does not have medical or scientific expertise relevant to vision/eye health claims
+Step 3 evaluation: Yes - The argument relies on Mom's parental authority to add credibility to a medical claim outside her expertise
+Pattern comparison: My answers [Y/N/Y] exactly match ground truth [Y/N/Y]
+#

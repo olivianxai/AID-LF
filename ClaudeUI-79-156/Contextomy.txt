@@ -1,0 +1,8 @@
+#classification: Contextomy#
+For Contextomy:
+Step 1 evaluation: Yes - David mentions an external source (BrightBert News headline) to support his claim about what the president said
+Step 2 evaluation: No - The meaning out of context (president calling fat people losers) is completely different from the original context where the president was actually condemning that statement
+Step 3 evaluation: Yes - David's argument relies on this out-of-context quote as evidence that the president made a cruel statement about fat people
+
+Pattern comparison: My answers [Yes/No/Yes] exactly match ground truth [Yes/No/Yes]
+#

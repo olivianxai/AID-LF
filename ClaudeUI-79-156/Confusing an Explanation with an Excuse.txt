@@ -1,0 +1,8 @@
+#classification: Circular Reasoning#
+For Circular Reasoning:
+Step 1 evaluation: Yes - There is a conclusion being argued (that correlation doesn't prove masks work)
+Step 2 evaluation: Yes - The premise depends on assuming the truth of the conclusion (that masks aren't the cause)
+Step 3 evaluation: Yes - There is circular dependency where the rejection of causation supports itself
+Step 4 evaluation: No - No strong external evidence is provided to support the reasoning
+Pattern comparison: My answers [Y/Y/Y/N] exactly match ground truth [Y/Y/Y/N]
+#

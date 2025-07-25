@@ -1,0 +1,9 @@
+#classification: Ad Hominem Circumstantial#
+For Ad Hominem Circumstantial:
+Step 1 evaluation: Yes - There are two opposing parties (S.J. Sam and Cindy) in the argument
+Step 2 evaluation: Yes - S.J. Sam is making a claim about Asian people being systematically passed over in tech
+Step 3 evaluation: Yes - S.J. Sam attacks Cindy's circumstances (not being Asian) rather than addressing her counterargument with research
+Step 4 evaluation: Yes - The attack suggests that Cindy's non-Asian status makes her predisposed to not understand Asian struggles
+Step 5 evaluation: Yes - S.J. Sam concludes Cindy's argument is invalid solely because of her circumstances (not being Asian), telling her to "keep your mouth shut"
+Pattern comparison: My answers [Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y]
+#

@@ -1,0 +1,9 @@
+#classification: Hot Hand Fallacy#
+For Hot Hand Fallacy:
+Step 1 evaluation: Yes - The statement involves a sequence of wins in craps, which is a chance-based gambling game
+Step 2 evaluation: Yes - Carlos attributes their winning streak to being "hot" rather than acknowledging it's based on random probability
+Step 3 evaluation: Yes - Carlos predicts they should continue playing to see "how long this streak will last," predicting future outcomes based on the current streak
+Step 4 evaluation: Yes - Craps is entirely based on chance/dice rolls rather than skill
+Step 5 evaluation: Yes - Carlos ignores that each dice roll is independent and treats the streak as if past wins influence future probability
+Pattern comparison: My answers [Y/Y/Y/Y/Y] exactly match ground truth [yes/yes/yes/yes/yes]
+#

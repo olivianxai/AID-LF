@@ -1,0 +1,10 @@
+#classification: Hypothesis Contrary to Fact#
+For Hypothesis Contrary to Fact:
+Step 1 evaluation: Yes - The statement describes a hypothetical scenario about a past event (taking a CD player repair course right out of high school)
+Step 2 evaluation: Yes - The statement uses conditional reasoning with "if...then" structure about alternative past circumstances
+Step 3 evaluation: Yes - The claim about what "would have happened" (being well employed) is based on speculation rather than solid evidence
+Step 4 evaluation: Yes - The hypothetical outcome is treated as certain ("you would be doing well") rather than uncertain
+Step 5 evaluation: No - No proper support is provided for the connection between taking the course and the predicted successful employment outcome
+Step 6 evaluation: No - The statement makes a definitive claim about a counterfactual situation without adequate justification
+Pattern comparison: My answers [Y/Y/Y/Y/N/N] exactly match ground truth [Y/Y/Y/Y/N/N]
+#

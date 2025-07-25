@@ -1,0 +1,10 @@
+#classification: Hasty Generalization#
+For Hasty Generalization:
+Step 1 evaluation: Yes - Freddie's personal experiences with people being mean to him serve as his sample evidence
+Step 2 evaluation: Yes - His personal encounters represent a very small sample size relative to all people in the world
+Step 3 evaluation: Yes - His personal experiences are not representative of the broader population of all people
+Step 4 evaluation: Yes - He draws the broad conclusion that "we live in a cruel world with people who are mostly nasty"
+Step 5 evaluation: Yes - He applies his conclusion to the much larger population of all people in the world
+Step 6 evaluation: Yes - His generalization ignores the vast majority of human interactions and relationships that he hasn't experienced
+Pattern comparison: My answers [Y/Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y/Y]
+#

@@ -1,0 +1,8 @@
+#classification: Special Pleading#
+For Special Pleading:
+Step 1 evaluation: Yes - The husband applies a standard (strip clubs are inappropriate for spouses) to his wife
+Step 2 evaluation: Yes - The husband exempts himself from that same standard when confronted about his own strip club visit
+Step 3 evaluation: No - No adequate justification is provided for the exemption ("just for fun" and "that's different" are not adequate justifications)
+Step 4 evaluation: Yes - The exemption appears self-serving, allowing him to maintain the rule for his wife while excusing his own behavior
+Pattern comparison: My answers [Y/Y/N/Y] exactly match ground truth [Y/Y/N/Y]
+#

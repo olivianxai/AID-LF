@@ -1,0 +1,6 @@
+#classification: Circular Definition#
+For Circular Definition:
+Step 1 evaluation: Yes - A definition is being presented ("My car broke down because it is no longer working")
+Step 2 evaluation: Yes - The definition contains the term itself or a variant ("broke down" is defined using "no longer working" which is essentially the same concept)
+Pattern comparison: My answers [Y/Y] exactly match ground truth [Y/Y]
+#

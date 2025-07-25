@@ -1,0 +1,8 @@
+#classification: No True Scotsman#
+For No True Scotsman:
+Step 1 evaluation: Yes - Freddie makes an initial universal claim "All women are evil, manipulative, man-haters" using absolute terms
+Step 2 evaluation: Yes - Wade provides counterexamples (Freddie's mother and best friend) that refute the universal claim
+Step 3 evaluation: Yes - Freddie responds by narrowing the claim to exclude the counterexamples ("Not them, but all the others")
+Step 4 evaluation: Yes - Freddie introduces the qualifier "the ones I know" without objective criteria to distinguish which women count
+Pattern comparison: My answers [Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y]
+#

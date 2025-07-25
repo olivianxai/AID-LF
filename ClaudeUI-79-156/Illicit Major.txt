@@ -1,0 +1,7 @@
+#classification: Illicit Major#
+For Illicit Major:
+Step 1 evaluation: Yes - The argument is structured as a categorical syllogism with major premise "All hotdogs are fast food", minor premise "No hamburgers are hotdogs", and conclusion "Therefore, no hamburgers are fast food"
+Step 2 evaluation: Yes - The major term "fast food" is distributed in the conclusion (as the predicate of a negative statement "no hamburgers are fast food")
+Step 3 evaluation: No - The major term "fast food" is not distributed in the major premise "All hotdogs are fast food" (it's the predicate of an affirmative statement)
+Pattern comparison: My answers [Y/Y/N] exactly match ground truth [Y/Y/N]
+#

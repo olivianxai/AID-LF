@@ -1,0 +1,9 @@
+#classification: Ad Hominem Circumstantial#
+For Ad Hominem Circumstantial:
+Step 1 evaluation: Yes - There are two opposing parties: Martin making a claim about white people not being racists, and Charlie responding
+Step 2 evaluation: Yes - Martin is making the argument that "All white people are not racists"
+Step 3 evaluation: Yes - Charlie attacks Martin's circumstances (being white) rather than addressing the argument itself
+Step 4 evaluation: Yes - Charlie suggests Martin's race (being white) makes him predisposed to his position
+Step 5 evaluation: Yes - Charlie concludes Martin's argument is invalid solely because of his racial circumstances/bias
+Pattern comparison: My answers [Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y]
+#

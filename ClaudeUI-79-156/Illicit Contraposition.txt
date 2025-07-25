@@ -1,0 +1,12 @@
+#classification: Illicit Contraposition#
+
+For Illicit Contraposition:
+Step 1 evaluation: Yes - The statement contains categorical propositions using 'no' ("No Catholics are Jews")
+Step 2 evaluation: No - The statement does not contain categorical propositions using 'some'
+Step 3 evaluation: Yes - There are two related statements where the second claims to be derived from the first (the contraposition)
+Step 4 evaluation: Yes - The second statement switches the subject and predicate terms ("Catholics/Jews" becomes "non-Jews/non-Catholics")
+Step 5 evaluation: Yes - Both the subject and predicate terms are negated in the second statement
+Step 6 evaluation: Yes - The argument treats this transformation as logically valid (indicated by "therefore")
+
+Pattern comparison: My answers [Y/N/Y/Y/Y/Y] exactly match ground truth [Y/N/Y/Y/Y/Y]
+#

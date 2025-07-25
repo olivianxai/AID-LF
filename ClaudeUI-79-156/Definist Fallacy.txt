@@ -1,0 +1,10 @@
+#classification: Prejudicial Language#
+For Prejudicial Language:
+Step 1 evaluation: Yes - The statement makes a claim about creationism
+Step 2 evaluation: Yes - The definition uses loaded/emotive terms like "ridiculous" and compares to "flat-earthers"
+Step 3 evaluation: Yes - These terms are used to manipulate judgment rather than provide logical evidence
+Step 4 evaluation: Yes - The argument relies on the emotional impact of calling beliefs "ridiculous" to make the claim seem credible
+Step 5 evaluation: Yes - The loaded terms substitute for actual reasoning or evidence about creationism
+Step 6 evaluation: Yes - Removing "ridiculous" and the flat-earther comparison would weaken the argument's persuasive power without affecting logical validity
+Pattern comparison: My answers [Y/Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y/Y]
+#

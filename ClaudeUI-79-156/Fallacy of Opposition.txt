@@ -1,0 +1,9 @@
+#classification: Ad Hominem Abusive#
+For Ad Hominem Abusive:
+Step 1 evaluation: Yes - President Trump made a claim/argument about being proud of Special Olympics children
+Step 2 evaluation: Yes - The response calls the children "a bunch of losers" which is a personal attack
+Step 3 evaluation: Yes - Calling children "losers" is completely irrelevant to the validity of Trump's statement about being proud of them
+Step 4 evaluation: Yes - The personal attack is being used as grounds to discredit Trump's original statement
+Step 5 evaluation: Yes - The reasoning follows the pattern: Trump claims he's proud of these children, these children are losers, therefore Trump's statement is invalid/wrong
+Pattern comparison: My answers [Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y]
+#

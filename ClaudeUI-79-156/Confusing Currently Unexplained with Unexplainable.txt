@@ -1,0 +1,10 @@
+#classification: Confusing Currently Unexplained with Unexplainable#
+
+For Confusing Currently Unexplained with Unexplainable:
+Step 1 evaluation: Yes - Teri mentions something that is currently unexplained (why the stuffed animal flew off her dresser)
+Step 2 evaluation: Yes - She concludes that it will "forever remain a mystery," assuming it is unexplainable rather than just currently unexplained
+Step 3 evaluation: No - No logical explanation is given for why it would be unexplainable; she jumps from "I don't know" to "will forever remain a mystery"
+
+Pattern comparison: My answers [Y/Y/N] exactly match ground truth [Y/Y/N]
+
+#

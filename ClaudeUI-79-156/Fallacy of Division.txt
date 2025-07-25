@@ -1,0 +1,9 @@
+#classification: Fallacy of Division#
+For Fallacy of Division:
+Step 1 evaluation: Yes - The relationship between a whole entity (house) and its parts/components (doors) is being discussed
+Step 2 evaluation: Yes - A property (being half the size) is attributed to the whole house
+Step 3 evaluation: Yes - The conclusion claims the parts (doors) possess a proportionally smaller property based on the whole's property
+Step 4 evaluation: No - The property of overall house size does not necessarily transfer proportionally to door height
+Step 5 evaluation: No - There is no additional valid reasoning or evidence that justifies the conclusion about door height
+Pattern comparison: My answers [Y/Y/Y/N/N] exactly match ground truth [Y/Y/Y/N/N]
+#

@@ -1,0 +1,10 @@
+#classification: Denying a Conjunct#
+
+For Denying a Conjunct:
+Step 1 evaluation: Yes - The argument claims that both conditions (being a moron AND being an idiot) cannot be true at the same time
+Step 2 evaluation: Yes - The argument claims that one condition (being a moron) does not hold
+Step 3 evaluation: Yes - The argument concludes that the other condition (being an idiot) must be true
+Step 4 evaluation: No - The conclusion is not supported by additional evidence beyond the logical structure
+
+Pattern comparison: My answers [Y/Y/Y/N] exactly match ground truth [Y/Y/Y/N]
+#

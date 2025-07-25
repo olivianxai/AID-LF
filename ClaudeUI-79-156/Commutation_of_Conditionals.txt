@@ -1,0 +1,9 @@
+#classification: Commutation of Conditionals#
+For Commutation of Conditionals:
+Step 1 evaluation: Yes - A statement is being made about the relationship between having a PhD and being smart
+Step 2 evaluation: Yes - The statement contains a conditional relationship "If I have a PhD, then I am smart" (if P then Q format)
+Step 3 evaluation: Yes - The antecedent (having a PhD) and consequent (being smart) have been switched in the conclusion
+Step 4 evaluation: Yes - The switched antecedent-consequent "if I am smart, then I have a PhD" is assumed to be true
+Step 5 evaluation: No - The switched antecedent-consequent (if Q then P) pair is not logically correct - the original conditional does not logically justify its converse
+Pattern comparison: My answers [Y/Y/Y/Y/N] exactly match ground truth [Y/Y/Y/Y/N]
+#

@@ -1,0 +1,7 @@
+#classification: Conspiracy Theory#
+For Conspiracy Theory:
+Step 1 evaluation: Yes - The argument claims evidence (Noah's ark) has been hidden by a group (Russian government)
+Step 2 evaluation: Yes - The group allegedly did this to prevent verification of religious evidence
+Step 3 evaluation: No - No sufficient, reasonable evidence is given to support the claim of government cover-up
+Pattern comparison: My answers [Y/Y/N] exactly match ground truth [Y/Y/N]
+#

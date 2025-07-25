@@ -1,0 +1,8 @@
+#classification: Far Fetched Hypothesis#
+For Far Fetched Hypothesis:
+Step 1 evaluation: Yes - A hypothesis is being proposed to explain how the keys got in the coat pocket
+Step 2 evaluation: Yes - The proposed hypothesis involving unicorns, leprechauns, and fairies is bizarre and far-fetched
+Step 3 evaluation: Yes - More ordinary explanations exist (Terrence put them there accidentally, someone else put them there, etc.)
+Step 4 evaluation: Yes - These simpler explanations are ignored in favor of the fantastical unicorn story
+Pattern comparison: My answers [Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y]
+#

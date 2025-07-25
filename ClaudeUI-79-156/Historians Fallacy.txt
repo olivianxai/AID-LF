@@ -1,0 +1,11 @@
+#classification: Hypothesis Contrary to Fact#
+For Hypothesis Contrary to Fact:
+Step 1 evaluation: Yes - The statement describes a hypothetical scenario about past events (taking back roads vs main roads)
+Step 2 evaluation: Yes - The statement uses 'if...then' conditional reasoning about alternative circumstances (if you had taken main roads, then...)
+Step 3 evaluation: Yes - The claim about what 'would have happened' (not being stuck in traffic) is based on speculation rather than solid evidence
+Step 4 evaluation: Yes - The hypothetical outcome is treated as certain or factual rather than uncertain
+Step 5 evaluation: No - The argument contains no proper support for the connection between taking main roads and avoiding traffic
+Step 6 evaluation: No - The statement makes definitive claims about counterfactual situations without adequate justification
+
+Pattern comparison: My answers [Y/Y/Y/Y/N/N] exactly match ground truth [Y/Y/Y/Y/N/N]
+#

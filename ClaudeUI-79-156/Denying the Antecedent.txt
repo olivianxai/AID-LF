@@ -1,0 +1,7 @@
+#classification: Denying the Antecedent#
+For Denying the Antecedent:
+Step 1 evaluation: Yes - There is a conditional statement "If it barks, it is a dog" in the form "if P then Q"
+Step 2 evaluation: No - The antecedent P ("it barks") is stated as false ("It doesn't bark"), not confirmed as true
+Step 3 evaluation: Yes - A conclusion is made about Q ("it's not a dog") using the truth value of P (that it doesn't bark)
+Pattern comparison: My answers [Y/N/Y] exactly match ground truth [Y/N/Y]
+#

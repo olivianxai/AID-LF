@@ -1,0 +1,9 @@
+#classification: Appeal to Extremes#
+For Appeal to Extremes:
+Step 1 evaluation: Yes - Someone is responding to or characterizing an argument (about wearing helmets while playing chess)
+Step 2 evaluation: Yes - The original argument could be considered reasonable or moderate in scope (general safety precautions)
+Step 3 evaluation: Yes - The response takes the argument to an unrealistic or absurd extreme (wearing a helmet while playing chess due to falling off chair)
+Step 4 evaluation: Yes - The extreme version misrepresents the original argument's actual scope or intent (safety equipment for appropriate activities vs. chess)
+Step 5 evaluation: No - This is not a valid reductio ad absurdum which legitimately shows logical consequences
+Pattern comparison: My answers [Y/Y/Y/Y/N] exactly match ground truth [Y/Y/Y/Y/N]
+#

@@ -1,0 +1,9 @@
+#classification: Homunculus Fallacy#
+For Homunculus Fallacy:
+Step 1 evaluation: Yes - The phenomenon that needs explanation is how eyes project images to the brain
+Step 2 evaluation: Yes - Ernie offers an explanation involving "a little guy in your brain watching the movie"
+Step 3 evaluation: Yes - The explanation depends on the same phenomenon it's supposed to explain (the little guy also needs to process visual information)
+Step 4 evaluation: Yes - This creates circular explanation where vision is explained by invoking another entity that also needs vision
+Step 5 evaluation: Yes - When Bert asks about the little guy's brain, Ernie invokes another little guy, creating infinite regress
+Pattern comparison: My answers [Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y]
+#

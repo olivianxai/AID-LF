@@ -1,0 +1,9 @@
+#classification: Ad Hominem Circumstantial#
+For Ad Hominem Circumstantial:
+Step 1 evaluation: Yes - There are two opposing positions: Lisa's position that people are generally good versus the conclusion that people are not generally good
+Step 2 evaluation: Yes - Lisa is making the claim that people are generally good
+Step 3 evaluation: Yes - The response attacks Lisa's circumstances (being brainwashed as a child) rather than addressing the argument itself
+Step 4 evaluation: Yes - The attack suggests that Lisa's circumstances (brainwashing) make her predisposed to her position
+Step 5 evaluation: Yes - The conclusion that people are not generally good is drawn solely because of Lisa's circumstances (brainwashing), not based on evidence about people's nature
+Pattern comparison: My answers [Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y]
+#

@@ -1,0 +1,9 @@
+#classification: Complex Question Fallacy#
+For Complex Question Fallacy:
+Step 1 evaluation: Yes - A question is being asked about frequency of wife beating
+Step 2 evaluation: Yes - The question contains the built-in assumption that the person beats their wife
+Step 3 evaluation: Yes - This assumption is misleading as it presupposes domestic violence occurs
+Step 4 evaluation: Yes - The question hides the claim that wife beating occurs to protect the asker from making a direct accusation
+Step 5 evaluation: Yes - Answering the question would implicitly accept the embedded assumption that wife beating takes place
+Pattern comparison: My answers [Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y]
+#

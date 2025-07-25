@@ -1,0 +1,8 @@
+#classification: Incomplete Comparison#
+For Incomplete Comparison:
+Step 1 evaluation: Yes - The statement makes a comparative claim using "40% less fat"
+Step 2 evaluation: No - The statement does not specify what it is being compared to in the main claim (the asterisk reference is separate)
+Step 3 evaluation: No - The comparative claim cannot be verified using only the main information provided
+Step 4 evaluation: Yes - The statement presents a vague superiority claim without clear context in the primary messaging
+Pattern comparison: My answers [Y/N/N/Y] exactly match ground truth [Y/N/N/Y]
+#

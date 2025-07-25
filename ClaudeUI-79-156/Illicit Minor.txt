@@ -1,0 +1,9 @@
+#classification: Fallacy of the Undistributed Middle#
+
+For Fallacy of the Undistributed Middle:
+Step 1 evaluation: Yes - The argument is structured as a categorical syllogism with two premises ("All Catholics are Christian" and "All Christians are Jesus lovers") and one conclusion ("Therefore, all Jesus lovers are Catholic")
+Step 2 evaluation: Yes - Both premises link different categories (Catholics and Jesus lovers) to the same middle term (Christians), and the conclusion directly links Catholics and Jesus lovers
+Step 3 evaluation: No - There is no additional valid reasoning or evidence outside the premises that justifies the conclusion
+
+Pattern comparison: My answers [Y/Y/N] exactly match ground truth [Y/Y/N]
+#

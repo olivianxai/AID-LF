@@ -1,0 +1,10 @@
+#classification: Gish Gallop#
+For Gish Gallop:
+Step 1 evaluation: Yes - The example describes presenting many distinct arguments or claims rapidly during debates
+Step 2 evaluation: Yes - The arguments are presented rapidly as described by "Gallops along, spewing out nonsense with every paragraph"
+Step 3 evaluation: No - The arguments are described as "nonsense" indicating they lack proper support, evidence, or logical strength
+Step 4 evaluation: No - The evolutionist "has to shut up" indicating insufficient time to address each argument individually
+Step 5 evaluation: Yes - It's a formal debate format that prevents interruption or immediate rebuttal
+Step 6 evaluation: Yes - The sheer volume of arguments is being used as a substitute for quality reasoning as indicated by the description of the debate strategy
+Pattern comparison: My answers [Y/Y/N/N/Y/Y] exactly match ground truth [Y/Y/N/N/Y/Y]
+#

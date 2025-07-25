@@ -1,0 +1,8 @@
+#classification: Fake Precision#
+For Fake Precision:
+Step 1 evaluation: Yes - The statement contains statistical claims about the fossil's age (120,000,003 years old)
+Step 2 evaluation: No - The numerical value is presented with unrealistic precision given the context of adding 3 years to a 120 million year estimate
+Step 3 evaluation: Yes - The statistics mislead the audience due to false sense of accuracy, making it seem like the age is known to the exact year
+Step 4 evaluation: Yes - The misleading statistical presentation benefits the tour guide by making them appear more knowledgeable and authoritative
+Pattern comparison: My answers [Y/N/Y/Y] exactly match ground truth [Y/N/Y/Y]
+#
