@@ -1,16 +1,3 @@
-Example:
-It is said that we have a good understanding of our universe.  Therefore, we know exactly how it began and exactly when.
-
-LLM:
-#classification: Hasty Generalization#
-For Hasty Generalization:
-Step 1 evaluation: Yes - There is a sample being used as evidence (our current understanding of the universe)
-Step 2 evaluation: Yes - The sample size is unreasonably small relative to the total scope of universal knowledge
-Step 3 evaluation: Yes - Our current understanding is unrepresentative of complete universal knowledge
-Step 4 evaluation: Yes - A broad conclusion is being drawn about knowing "exactly how it began and exactly when"
-Step 5 evaluation: Yes - The conclusion is being applied to the much larger domain of complete universal origins
-Step 6 evaluation: Yes - The generalization ignores the vast gaps in our knowledge and the limits of current scientific understanding
-Pattern comparison: My answers [Y/Y/Y/Y/Y/Y] exactly match ground truth [Y/Y/Y/Y/Y/Y]
 -------------------------------------------------------------------------------------
 Example:
 In the movie, My Cousin Vinny, Ralph Maccio's character, Bill, was interrogated for suspected murder. When the police officer asks him, \"At what point did you shoot the clerk?\" Bill replies in shock, \"I shot the clerk? I shot the clerk?\" Later in the film, the police officer reads Bill's statement as a confession in court, \"...and he said, 'I shot the clerk. I shot the clerk.
