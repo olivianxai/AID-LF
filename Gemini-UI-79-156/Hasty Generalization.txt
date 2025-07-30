@@ -1,0 +1,10 @@
+\#classification: No True Scotsman#
+
+For No True Scotsman:
+Step 1 evaluation: Yes - A universal claim is made: "smoking really can’t be that bad for you."
+Step 2 evaluation: Yes - A counterexample is presented: the father smoked heavily and still lived to 69.
+Step 3 evaluation: Yes - The example implicitly redefines what counts as "bad for you" to exclude this counterexample.
+Step 4 evaluation: Yes - The definition of "bad for you" is implicitly narrowed without objective criteria to preserve the original claim.
+Pattern comparison: My answers \[Yes/Yes/Yes/Yes] exactly match ground truth \[Yes/Yes/Yes/Yes]
+
+#

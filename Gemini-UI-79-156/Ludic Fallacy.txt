@@ -1,0 +1,11 @@
+\#classification: Gamblers Fallacy#
+
+For Gamblers Fallacy:
+Step 1 evaluation: Yes - The scenario involves flipping a fair coin, which is a random event governed by probability.
+Step 2 evaluation: Yes - The previous 99 outcomes (all heads) are being referenced.
+Step 3 evaluation: Yes - Fat Tony argues that the 100th flip is more likely to be heads or that the coin is unfair because of the previous streak.
+Step 4 evaluation: Yes - The logic incorrectly assumes that past independent flips influence the next one, which violates the principle of independence in random events.
+
+Pattern comparison: My answers \[Yes/Yes/Yes/Yes] exactly match ground truth \[Yes/Yes/Yes/Yes]
+
+#

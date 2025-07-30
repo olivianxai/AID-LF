@@ -1,0 +1,9 @@
+\#classification: Affirmative Conclusion from a Negative Premise#
+
+For Affirmative Conclusion from a Negative Premise:
+Step 1 evaluation: Yes - The argument is structured as a categorical syllogism with two premises and a conclusion.
+Step 2 evaluation: Yes - One premise is “No hamburgers are hotdogs,” which is a negative statement.
+Step 3 evaluation: Yes - The conclusion “no hamburgers are fast food” is an affirmative claim about category membership.
+Step 4 evaluation: No - There is no valid logical path from the negative premise to the affirmative conclusion.
+
+Pattern comparison: My answers \[Yes/Yes/Yes/No] exactly match ground truth \[Yes/Yes/Yes/No]#

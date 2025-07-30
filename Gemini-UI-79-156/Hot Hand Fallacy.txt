@@ -1,0 +1,12 @@
+\#classification: Hot Hand Fallacy#
+
+For Hot Hand Fallacy:
+Step 1 evaluation: Yes - The situation involves a game of chance, "shooting craps," which is a random event.
+Step 2 evaluation: Yes - Carlos references previous successful outcomes, indicating a winning streak.
+Step 3 evaluation: Yes - Carlos implies that the past results ("we are hot") affect future probabilities ("let's see how long this streak will last").
+Step 4 evaluation: Yes - The outcome of each roll in craps is independent of previous outcomes.
+Step 5 evaluation: Yes - The logic assumes dependence between independent events, ignoring the independence of each roll.
+
+Pattern comparison: My answers \[Yes/Yes/Yes/Yes/Yes] exactly match ground truth \[Yes/Yes/Yes/Yes/Yes]
+
+#

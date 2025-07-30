@@ -1,0 +1,12 @@
+\#classification: Ad Hominem Circumstantial#
+
+For Ad Hominem Circumstantial:
+Step 1 evaluation: Yes - Martin and Charlie are clearly in a debate, taking opposing stances on whether all white people are racists.
+Step 2 evaluation: Yes - Martin makes a claim ("All white people are not racists").
+Step 3 evaluation: Yes - Charlie does not refute the claim directly, but instead attacks Martin’s motivation by pointing to his race.
+Step 4 evaluation: Yes - Charlie implies Martin believes what he does because he is white, suggesting bias.
+Step 5 evaluation: Yes - Charlie’s rebuttal is based solely on Martin’s racial identity, not on the merits of the argument.
+
+Pattern comparison: My answers \[Yes/Yes/Yes/Yes/Yes] exactly match ground truth \[Yes/Yes/Yes/Yes/Yes]
+
+#

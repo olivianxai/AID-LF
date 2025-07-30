@@ -1,0 +1,10 @@
+\#classification: Causal Reductionism#
+
+For Causal Reductionism:
+Step 1 evaluation: Yes - Hank is making a claim about why he drove off the road.
+Step 2 evaluation: Yes - There are multiple plausible causes: texting, driving drunk, and the squirrel.
+Step 3 evaluation: Yes - Hank attributes the entire outcome solely to the squirrel, ignoring the other obvious contributing causes.
+
+Pattern comparison: My answers \[Yes/Yes/Yes] exactly match ground truth \[Yes/Yes/Yes]
+
+#

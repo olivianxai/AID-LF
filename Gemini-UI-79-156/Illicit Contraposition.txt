@@ -1,0 +1,13 @@
+\#classification: Illicit Contraposition#
+
+For Illicit Contraposition:
+Step 1 evaluation: Yes – The argument is structured as a categorical syllogism.
+Step 2 evaluation: Yes – The statement "No Catholics are Jews" uses a categorical proposition with "no".
+Step 3 evaluation: Yes – The conclusion "no non-Jews are non-Catholics" switches the subject and predicate of the original statement.
+Step 4 evaluation: Yes – The conclusion negates both terms (non-Jews, non-Catholics).
+Step 5 evaluation: Yes – The transformation assumes the contraposition is valid.
+Step 6 evaluation: Yes – The argument treats the contraposed form as logically valid, which is incorrect for E-statements ("No S are P").
+
+Pattern comparison: My answers \[Yes/Yes/Yes/Yes/Yes/Yes] exactly match ground truth \[Yes/Yes/Yes/Yes/Yes/Yes]
+
+#

@@ -1,0 +1,9 @@
+\#classification: Appeal to Force#
+
+For Appeal to Force:
+Step 1 evaluation: Yes - Rocco issues a clear threat (“Read my lips: do you have my money or not?” followed by the sound of a bat breaking kneecaps), which qualifies as a threat.
+Step 2 evaluation: Yes - The threat is directed at Paulie, the person being asked to accept the conclusion (that he owes money and must repay it).
+Step 3 evaluation: Yes - The threat (violence) is used to coerce agreement or compliance, not through logic or persuasion.
+Step 4 evaluation: No - There is no additional logical reasoning or evidence presented; only the threat supports the demand.
+
+Pattern comparison: My answers \[Yes/Yes/Yes/No] exactly match ground truth \[Yes/Yes/Yes/No]#

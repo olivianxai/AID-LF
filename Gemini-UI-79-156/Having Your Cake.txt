@@ -1,0 +1,12 @@
+\#classification: Having Your Cake#
+
+For Having Your Cake:
+Step 1 evaluation: Yes - The congressman presents multiple conflicting positions (supports clean water, appreciates factory jobs) without committing to either.
+Step 2 evaluation: No - The congressman does not provide a definitive stance on the issue; he avoids choosing between the clean water and the factory.
+Step 3 evaluation: Yes - The structure allows him to avoid taking responsibility or criticism by staying vague and noncommittal.
+Step 4 evaluation: Yes - Because he affirms both sides, he appears agreeable to all, regardless of outcome.
+Step 5 evaluation: Yes - The ambiguity seems intentional to evade taking a controversial stand.
+
+Pattern comparison: My answers \[Yes/No/Yes/Yes/Yes] exactly match ground truth \[Yes/No/Yes/Yes/Yes]
+
+#

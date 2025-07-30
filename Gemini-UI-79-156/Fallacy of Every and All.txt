@@ -1,0 +1,10 @@
+\#classification: Fallacy of Composition#
+
+For Fallacy of Composition:
+Step 1 evaluation: Yes - The statement refers to “someone” being part of “everyone,” implying a part-whole relationship.
+Step 2 evaluation: Yes - The “someone” is a component of the group “everyone.”
+Step 3 evaluation: Yes - The argument concludes that the entire group (“everyone”) owes something to the part (“me”).
+Step 4 evaluation: No - It does not follow that what is true of the group as a whole (do something nice for someone) applies individually to each person doing something nice to the speaker.
+Step 5 evaluation: No - There is no additional evidence or reasoning justifying this leap from general to specific.
+
+Pattern comparison: My answers \[Yes/Yes/Yes/No/No] exactly match ground truth \[Yes/Yes/Yes/No/No]#

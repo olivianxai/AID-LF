@@ -1,0 +1,12 @@
+\#classification: Ad Hominem Abusive#
+
+For Ad Hominem Abusive:
+Step 1 evaluation: Yes - There is an argument made that it is irrational to panic over a virus with relatively low death toll compared to average global daily deaths.
+Step 2 evaluation: Yes - The speaker calls the opponent a "moron" for rejecting facts, which is a personal attack.
+Step 3 evaluation: Yes - The attack is on the person's intelligence, not the argument's content.
+Step 4 evaluation: Yes - The insult is used as grounds to dismiss the opponent’s concern about the virus.
+Step 5 evaluation: Yes - The reasoning follows: "You claim X, you’re a moron, therefore X is false."
+
+Pattern comparison: My answers \[Yes/Yes/Yes/Yes/Yes] exactly match ground truth \[Yes/Yes/Yes/Yes/Yes]
+
+#

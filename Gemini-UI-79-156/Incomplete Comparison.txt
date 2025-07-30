@@ -1,0 +1,11 @@
+\#classification: Accent Fallacy#
+
+For Accent Fallacy:
+Step 1 evaluation: Yes - The original claim is that the product "contains 40% less fat."
+Step 2 evaluation: Yes - There is emphasis on "40% less fat" in large print, contrasted with a qualifier in much smaller print.
+Step 3 evaluation: Yes - The statement is reinterpreted by the reader as a broad claim about healthiness, when in fact it is relative to another candy bar.
+Step 4 evaluation: Yes - The shift in emphasis from the footnote to the large print changes the perceived meaning and implication of the statement.
+
+Pattern comparison: My answers \[Yes/Yes/Yes/Yes] exactly match ground truth \[Yes/Yes/Yes/Yes]
+
+#

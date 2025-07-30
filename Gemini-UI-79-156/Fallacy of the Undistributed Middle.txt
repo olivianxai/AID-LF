@@ -1,0 +1,10 @@
+\#classification: Fallacy of the Undistributed Middle#
+
+For Fallacy of the Undistributed Middle:
+Step 1 evaluation: Yes - This is a categorical syllogism with two premises and a conclusion.
+Step 2 evaluation: Yes - Both premises link different categories (lions and cats) to a shared middle term (animals).
+Step 3 evaluation: No - There is no valid additional reasoning that justifies the leap from both being animals to lions being cats.
+
+Pattern comparison: My answers \[Yes/Yes/No] exactly match ground truth \[Yes/Yes/No]
+
+#

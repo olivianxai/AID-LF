@@ -1,0 +1,11 @@
+\#classification: Ecological Fallacy#
+
+For Ecological Fallacy:
+Step 1 evaluation: Yes – The statement makes a claim about group differences: men score better on math than women.
+Step 2 evaluation: Yes – An individual (Jerry) from the group is being discussed.
+Step 3 evaluation: Yes – The argument concludes that Jerry is better at math than Sylvia based solely on group-level performance.
+Step 4 evaluation: No – No specific evidence about Jerry or Sylvia’s individual math ability is given beyond group averages.
+
+Pattern comparison: My answers \[Yes/Yes/Yes/No] exactly match ground truth \[Yes/Yes/Yes/No]
+
+#

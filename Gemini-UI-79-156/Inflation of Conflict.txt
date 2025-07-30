@@ -1,0 +1,7 @@
+\#classification: Argument to Moderation#
+
+For Argument to Moderation:
+Step 1 evaluation: Yes - There are two opposing positions presented: mom wants 2 hours of study, dad wants half an hour.
+Step 2 evaluation: Yes - A third position is adopted: study for zero hours.
+Step 3 evaluation: Yes - The conclusion to skip studying is accepted solely because it lies between the extremes of the other two.
+Pattern comparison: My answers \[Yes/Yes/Yes] exactly match ground truth \[Yes/Yes/Yes]#

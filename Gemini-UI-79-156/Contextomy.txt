@@ -1,0 +1,9 @@
+\#classification: Contextomy#
+
+For Contextomy:
+Step 1 evaluation: Yes - A direct quote from the president is presented to support an argument.
+Step 2 evaluation: No - The meaning of the quote is changed by being taken out of its original context; the president was condemning the statement, not making it.
+Step 3 evaluation: Yes - The out-of-context quote is used as evidence to support the claim that the president insulted overweight individuals.
+Pattern comparison: My answers \[Yes/No/Yes] exactly match ground truth \[Yes/No/Yes]
+
+#

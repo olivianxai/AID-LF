@@ -1,0 +1,10 @@
+\#classification: Questionable Cause#
+
+For Questionable Cause:
+Step 1 evaluation: Yes – There is a claim that mask-wearing causes reduced transmission.
+Step 2 evaluation: Yes – The only evidence provided is the observed association between mask-wearing and lower transmission.
+Step 3 evaluation: Yes – Tikki challenges the inference that masks *cause* the lower spread solely based on correlation.
+
+Pattern comparison: My answers \[Yes/Yes/Yes] exactly match ground truth \[Yes/Yes/Yes]
+
+#

@@ -1,0 +1,12 @@
+\#classification: Fallacy of Composition#
+
+For Fallacy of Composition:
+Step 1 evaluation: Yes - The argument discusses a part-to-whole relationship, claiming each brick weighs less than a pound.
+Step 2 evaluation: Yes - It attributes a property (light weight) to the part/component (each brick).
+Step 3 evaluation: Yes - The conclusion claims the whole (the building) also weighs less than a pound.
+Step 4 evaluation: No - The property (light weight) of a brick does not necessarily transfer to the whole building.
+Step 5 evaluation: No - There is no additional valid reasoning or evidence that justifies the conclusion.
+
+Pattern comparison: My answers \[Yes/Yes/Yes/No/No] exactly match ground truth \[Yes/Yes/Yes/No/No]
+
+#

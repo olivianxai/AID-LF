@@ -1,0 +1,11 @@
+\#classification: Broken Window Fallacy#
+
+For Broken Window Fallacy:
+Step 1 evaluation: Yes - The "disaster" is Andy’s terrible record with privacy and customer relations.
+Step 2 evaluation: Yes - The argument treats his poor qualities as benefits for the social media team.
+Step 3 evaluation: Yes - The focus is on how these flaws fit the team's unconventional goals, ignoring the broader consequences.
+Step 4 evaluation: Yes - The argument implies Andy’s harmful traits are actually beneficial in this role.
+
+Pattern comparison: My answers \[Yes/Yes/Yes/Yes] exactly match ground truth \[Yes/Yes/Yes/Yes]
+
+#

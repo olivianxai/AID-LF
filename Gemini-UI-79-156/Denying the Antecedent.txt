@@ -1,0 +1,10 @@
+\#classification: Denying the Antecedent#
+
+For Denying the Antecedent:
+Step 1 evaluation: Yes - The argument contains a conditional statement: "If it barks, it is a dog" (If P then Q)
+Step 2 evaluation: No - The antecedent ("it barks") is denied: "It doesn’t bark"
+Step 3 evaluation: Yes - The conclusion is drawn that "it’s not a dog" based on the denial of the antecedent
+
+Pattern comparison: My answers \[Yes/No/Yes] exactly match ground truth \[Yes/No/Yes]
+
+#

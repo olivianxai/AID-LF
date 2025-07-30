@@ -1,0 +1,11 @@
+\#classification: Ad Hominem Abusive#
+
+For Ad Hominem Abusive:
+Step 1 evaluation: Yes – The statement references President Trump making a claim about being proud of the Special Olympics children.
+Step 2 evaluation: Yes – A personal attack is directed at the children, calling them "a bunch of losers."
+Step 3 evaluation: Yes – The personal attack is entirely irrelevant to the original praise or claim.
+Step 4 evaluation: Yes – The insult is used to undermine or discredit the original sentiment.
+Step 5 evaluation: Yes – The structure matches: "President Trump claims Y, group has trait Z (losers), therefore Y is dismissed."
+Pattern comparison: My answers \[Yes/Yes/Yes/Yes/Yes] exactly match ground truth \[Yes/Yes/Yes/Yes/Yes]
+
+#

@@ -1,0 +1,9 @@
+\#classification: Galileo Fallacy#
+
+For Galileo Fallacy:
+Step 1 evaluation: Yes - Lindi and Jonah are presenting a claim about Elvis being alive on another planet.
+Step 2 evaluation: Yes - Their belief is being questioned and perceived as odd or opposed.
+Step 3 evaluation: Yes - They imply their belief is credible because Galileo was also doubted.
+Step 4 evaluation: Yes - The argument appeals to persecution (being doubted) as evidence of truth rather than presenting supporting evidence.
+
+Pattern comparison: My answers \[Yes/Yes/Yes/Yes] exactly match ground truth \[Yes/Yes/Yes/Yes]#
