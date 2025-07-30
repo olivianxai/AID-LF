@@ -1,0 +1,11 @@
+\#classification: Fake Precision#
+
+For Fake Precision:
+Step 1 evaluation: Yes - The tour guide makes a claim involving a precise numerical value (120,000,003 years).
+Step 2 evaluation: No - The exactness of “120,000,003” is implausible given the tools (radiometric dating) and the context (round number from 3 years ago).
+Step 3 evaluation: Yes - The specificity of “3” added to 120,000,000 misleads by implying unjustified precision.
+Step 4 evaluation: Yes - The misleading specificity (120,000,003) gives the impression of scientific rigor and strengthens the claim falsely.
+
+Pattern comparison: My answers \[Yes/No/Yes/Yes] exactly match ground truth \[Yes/No/Yes/Yes]
+
+#

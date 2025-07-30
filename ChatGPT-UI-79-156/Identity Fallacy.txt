@@ -1,0 +1,13 @@
+\#classification: Identity Fallacy#
+
+For Identity Fallacy:
+Step 1 evaluation: Yes - S.J. Sam is making a claim about Asian people being discriminated against in tech.
+Step 2 evaluation: Yes - Cindy responds with a counterclaim backed by research, which Sam then rejects.
+Step 3 evaluation: Yes - Sam rejects Cindy’s counterclaim.
+Step 4 evaluation: Yes - Sam’s dismissal is based on Cindy’s identity (not being Asian).
+Step 5 evaluation: Yes - Sam dismisses Cindy’s argument without addressing its content or evidence.
+Step 6 evaluation: Yes - The argument’s validity is being tied to the arguer’s identity, which is irrelevant.
+
+Pattern comparison: My answers \[Yes/Yes/Yes/Yes/Yes/Yes] exactly match ground truth \[Yes/Yes/Yes/Yes/Yes/Yes]
+
+#

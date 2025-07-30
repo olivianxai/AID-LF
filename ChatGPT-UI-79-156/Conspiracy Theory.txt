@@ -1,0 +1,10 @@
+\#classification: Conspiracy Theory#
+
+For Conspiracy Theory:
+Step 1 evaluation: Yes - The claim alleges that the Russian government is hiding evidence of Noah’s Ark.
+Step 2 evaluation: Yes - The motive given is that the government allegedly hates religion and is suppressing verification.
+Step 3 evaluation: No - There is no concrete or reasonable evidence provided to support this alleged conspiracy.
+
+Pattern comparison: My answers \[Yes/Yes/No] exactly match ground truth \[Yes/Yes/No]
+
+#

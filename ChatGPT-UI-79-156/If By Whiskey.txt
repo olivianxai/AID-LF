@@ -1,0 +1,13 @@
+\#classification: If By Whiskey#
+
+For If By Whiskey:
+Step 1 evaluation: Yes - The speaker is responding to the question "How do you feel about whiskey?" which allows for two possible interpretations: whiskey as evil or whiskey as good.
+Step 2 evaluation: Yes - The speaker explicitly uses the conditional structure "If when you say whiskey you mean X… then I’m against it. But if when you say whiskey you mean Y… then I’m for it."
+Step 3 evaluation: Yes - The speaker describes whiskey as “the devil’s brew, the poison scourge…” in the negative interpretation, using highly charged language.
+Step 4 evaluation: Yes - In the positive interpretation, the speaker uses equally charged language like “the oil of conversation,” “Christmas cheer,” “philosophic wine.”
+Step 5 evaluation: Yes - The speaker presents both sides as if agreeing with both, thus appearing to support both interpretations at once.
+Step 6 evaluation: Yes - The final declaration “This is my stand. I will not retreat from it. I will not compromise.” avoids taking a single clear stance and instead reinforces the ambiguity.
+
+Pattern comparison: My answers \[Yes/Yes/Yes/Yes/Yes/Yes] exactly match ground truth \[Yes/Yes/Yes/Yes/Yes/Yes]
+
+#

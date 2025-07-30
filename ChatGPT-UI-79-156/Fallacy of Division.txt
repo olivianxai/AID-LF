@@ -1,0 +1,12 @@
+\#classification: Fallacy of Division#
+
+For Fallacy of Division:
+Step 1 evaluation: Yes - The statement draws a conclusion about the components (the doors) based on a property of the whole (the house is small).
+Step 2 evaluation: Yes - The house is described as "half the size" of others, attributing a characteristic to the whole.
+Step 3 evaluation: Yes - The conclusion that the doors must be 3.5 feet high applies that whole-property to the parts.
+Step 4 evaluation: No - The size of a house does not necessarily dictate the specific size of its doors; the property of the whole does not logically transfer.
+Step 5 evaluation: No - There is no additional reasoning or evidence to justify the conclusion about the door height.
+
+Pattern comparison: My answers \[Yes/Yes/Yes/No/No] exactly match ground truth \[Yes/Yes/Yes/No/No]
+
+#

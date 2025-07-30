@@ -1,0 +1,12 @@
+\#classification: Just Because Fallacy#
+
+For Just Because Fallacy:
+Step 1 evaluation: Yes - The mother is making a claim that David cannot sleep over.
+Step 2 evaluation: Yes - Trebor is asking for reasons or justification, which is reasonably expected.
+Step 3 evaluation: Yes - The mother refuses to provide any reasons beyond "Because I said so."
+Step 4 evaluation: Yes - The mother implies her authority is sufficient reason, presenting herself as the ultimate authority.
+Step 5 evaluation: Yes - No actual reasoning or evidence is offered beyond the mother's insistence.
+
+Pattern comparison: My answers \[Yes/Yes/Yes/Yes/Yes] exactly match ground truth \[Yes/Yes/Yes/Yes/Yes]
+
+#

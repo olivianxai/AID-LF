@@ -1,0 +1,9 @@
+\#classification: Affirmative Conclusion from a Negative Premise#
+
+For Affirmative Conclusion from a Negative Premise:
+Step 1 evaluation: Yes - The argument is structured as a categorical syllogism.
+Step 2 evaluation: Yes - The first premise ("I am not both a moron and an idiot") is a negative statement.
+Step 3 evaluation: Yes - The conclusion ("Therefore, I am an idiot") is an affirmative statement.
+Step 4 evaluation: No - There is no valid logical path from the negative premise to the affirmative conclusion.
+
+Pattern comparison: My answers \[Yes/Yes/Yes/No] exactly match ground truth \[Yes/Yes/Yes/No]#

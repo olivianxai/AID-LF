@@ -1,0 +1,11 @@
+\#classification: Argument from Hearsay#
+
+For Argument from Hearsay:
+Step 1 evaluation: Yes - The speaker is using a testimony ("a program I saw on TV once") as support for their claim.
+Step 2 evaluation: No - The speaker cannot verify the source or whether the testimony came from someone who was an eyewitness.
+Step 3 evaluation: Yes - The information is explicitly said to be secondhand and vague ("don’t remember the name of it though").
+Step 4 evaluation: Yes - The argument depends entirely on the testimony of an unspecified, unverifiable source who was likely not an eyewitness.
+
+Pattern comparison: My answers \[Yes/No/Yes/Yes] exactly match ground truth \[Yes/No/Yes/Yes]
+
+#

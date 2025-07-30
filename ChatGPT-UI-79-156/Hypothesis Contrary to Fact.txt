@@ -1,0 +1,12 @@
+\#classification: Hypothesis Contrary to Fact#
+
+For Hypothesis Contrary to Fact:
+Step 1 evaluation: Yes - The statement describes a hypothetical scenario: "If you took that course..."
+Step 2 evaluation: Yes - The sentence uses "if...then" structure regarding alternative past events.
+Step 3 evaluation: Yes - The outcome ("you would be doing well and gainfully employed") is speculative.
+Step 4 evaluation: Yes - The hypothetical is presented as certain ("you *would* be doing well"), not as uncertain.
+Step 5 evaluation: No - There is no actual evidence connecting the course to guaranteed employment.
+Step 6 evaluation: No - The statement makes a definitive claim about the counterfactual scenario without justification.
+Pattern comparison: My answers \[Yes/Yes/Yes/Yes/No/No] exactly match ground truth \[Yes/Yes/Yes/Yes/No/No]
+
+#

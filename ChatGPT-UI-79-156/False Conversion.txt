@@ -1,0 +1,11 @@
+\#classification: Fallacy of Conversion#
+
+For Fallacy of Conversion:
+Step 1 evaluation: Yes - The argument involves a categorical statement: "All Hollywood Squares contestants are bad actors."
+Step 2 evaluation: Yes - The conclusion switches the subject and predicate to "All bad actors are Hollywood Squares contestants."
+Step 3 evaluation: No - The conclusion does not logically follow from the original statement after the swap.
+Step 4 evaluation: No - No additional reasoning is provided to justify this reversal.
+
+Pattern comparison: My answers \[Yes/Yes/No/No] exactly match ground truth \[Yes/Yes/No/No]
+
+#

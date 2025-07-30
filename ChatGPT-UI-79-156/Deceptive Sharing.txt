@@ -1,0 +1,10 @@
+\#classification: Deceptive Sharing#
+
+For Deceptive Sharing:
+Step 1 evaluation: Yes - The content being shared is a specific, rare instance: the death of a 7-year-old child from COVID-19 with no underlying health conditions.
+Step 2 evaluation: Yes - The post implies this rare case is representative, giving the impression that healthy children dying from COVID-19 is more common than it actually is.
+Step 3 evaluation: Yes - No explicit claim is made; the article is shared without commentary or argument, leaving interpretation to the audience.
+
+Pattern comparison: My answers \[Yes/Yes/Yes] exactly match ground truth \[Yes/Yes/Yes]
+
+#

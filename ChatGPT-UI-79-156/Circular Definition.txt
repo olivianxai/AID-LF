@@ -1,0 +1,7 @@
+\#classification: Circular Definition#
+
+For Circular Definition:
+Step 1 evaluation: Yes - The statement presents a definition.
+Step 2 evaluation: Yes - The definition includes a circular reference to the term being defined.
+
+Pattern comparison: My answers \[Yes/Yes] exactly match ground truth \[Yes/Yes]#

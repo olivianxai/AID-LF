@@ -1,0 +1,10 @@
+\#classification: Ad Hominem Abusive#
+
+For Ad Hominem Abusive:
+Step 1 evaluation: Yes - Jonny's mom makes a claim ("Watching TV that close will make you go blind").
+Step 2 evaluation: Yes - Jonny calls her claim "B.S." and refuses to engage with the content.
+Step 3 evaluation: Yes - His response dismisses the claim by suggesting it's unworthy or foolish, a form of personal attack.
+Step 4 evaluation: Yes - The claim is rejected based on tone and insult rather than addressing its validity.
+Step 5 evaluation: Yes - Follows the pattern: Person X claims Y, X is dismissed (with an insult), therefore Y is false.
+
+Pattern comparison: My answers \[Yes/Yes/Yes/Yes/Yes] exactly match ground truth \[Yes/Yes/Yes/Yes/Yes]#

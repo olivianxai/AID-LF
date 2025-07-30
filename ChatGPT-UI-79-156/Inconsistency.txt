@@ -1,0 +1,11 @@
+\#classification: Accent Fallacy#
+
+For Accent Fallacy:
+Step 1 evaluation: Yes - The original claim is a quotation from Yogi Berra: "I never said most of the things I said."
+Step 2 evaluation: Yes - The quotation contains ambiguity depending on how it's read or emphasized.
+Step 3 evaluation: Yes - The reinterpretation emphasizes different parts of the sentence, such as "never" or "most" or "things," leading to different meanings.
+Step 4 evaluation: Yes - The shift in emphasis drastically changes the meaning (e.g., denial vs. partial admission vs. commentary on attribution).
+
+Pattern comparison: My answers \[Yes/Yes/Yes/Yes] exactly match ground truth \[Yes/Yes/Yes/Yes]
+
+#

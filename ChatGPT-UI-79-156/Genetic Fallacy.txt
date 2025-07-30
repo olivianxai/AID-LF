@@ -1,0 +1,12 @@
+\#classification: Genetic Fallacy#
+
+For Genetic Fallacy:
+Step 1 evaluation: Yes - The argument evaluates the truth of a claim (that people are generally good).
+Step 2 evaluation: Yes - The argument focuses on the origin of the belief (Lisa being brainwashed as a child).
+Step 3 evaluation: Yes - The conclusion that people are not generally good is based solely on the origin of Lisa’s belief.
+Step 4 evaluation: No - The origin of Lisa’s belief is not actually relevant to whether people are generally good.
+Step 5 evaluation: Yes - The reasoning follows: “Lisa believes X due to brainwashing, therefore X is false.”
+
+Pattern comparison: My answers \[Yes/Yes/Yes/No/Yes] exactly match ground truth \[Yes/Yes/Yes/No/Yes]
+
+#

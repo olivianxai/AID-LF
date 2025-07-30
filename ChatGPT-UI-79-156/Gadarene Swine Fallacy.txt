@@ -1,0 +1,13 @@
+\#classification: Appeal to Normality
+
+For Appeal to Normality:
+Step 1 evaluation: Yes – The question implies that "falling in line like the other girls" is the socially normal or expected behavior.
+Step 2 evaluation: Yes – The conclusion suggests the daughter's behavior is undesirable because it deviates from what the other girls are doing.
+Step 3 evaluation: Yes – The reasoning connects the concept of being "normal" directly with what is good or expected.
+Step 4 evaluation: Yes – The implication is that deviation from the norm is inherently bad.
+Step 5 evaluation: No – No substantial evidence is provided; the judgment is based purely on deviation from the norm.
+Step 6 evaluation: Yes – The phrase suggests implied moral or social judgment about the daughter's behavior.
+
+Pattern comparison: My answers \[Yes/Yes/Yes/Yes/No/Yes] exactly match ground truth \[Yes/Yes/Yes/Yes/No/Yes]
+
+#

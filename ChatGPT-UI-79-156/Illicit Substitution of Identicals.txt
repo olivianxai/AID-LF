@@ -1,0 +1,10 @@
+\#classification: Illicit Substitution of Identicals#
+
+For Illicit Substitution of Identicals:
+Step 1 evaluation: Yes - The statement identifies that "the lady in the pink dress" is "Julia Roberts," establishing X is Y.
+Step 2 evaluation: Yes - The reporter believes the lady in the pink dress drives a Prius, attributing property Z to Y.
+Step 3 evaluation: Yes - The name "Julia Roberts" (X) is substituted into the belief context.
+Step 4 evaluation: Yes - The reporter concludes Julia Roberts drives a Prius, attributing Z to X based on the substitution.
+Step 5 evaluation: No - The reporter is unaware that the lady in the pink dress and Julia Roberts are the same person; the substitution is unintended.
+
+Pattern comparison: My answers \[Yes/Yes/Yes/Yes/No] exactly match ground truth \[Yes/Yes/Yes/Yes/No]#

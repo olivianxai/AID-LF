@@ -1,0 +1,6 @@
+\#classification: Anthropomorphism#
+
+For Anthropomorphism:
+Step 1 evaluation: Yes - The example attributes a complex intentional behavior (“goes through our garbage”) to the dog, explaining it by saying “because he is a dog,” which implies the dog has human-like reasoning or intention behind the act.
+
+Pattern comparison: My answers \[yes] exactly match ground truth \[yes]#

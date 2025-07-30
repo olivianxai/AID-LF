@@ -1,0 +1,10 @@
+\#classification: Slippery Slope#
+
+For Slippery Slope:
+Step 1 evaluation: Yes - The argument suggests a chain reaction (getting excited → falling → cracking head) resulting from a minor initial act (not wearing a helmet during chess).
+Step 2 evaluation: Yes - The chain is presented as likely or inevitable, even though the initial act (playing chess without a helmet) is not plausibly linked to such extreme outcomes.
+Step 3 evaluation: Yes - The conclusion (wearing a helmet) is based entirely on this exaggerated chain without independent justification.
+
+Pattern comparison: My answers \[Yes/Yes/Yes] exactly match ground truth \[Yes/Yes/Yes]
+
+#

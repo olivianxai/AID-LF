@@ -1,0 +1,11 @@
+\#classification: Gamblers Fallacy#
+
+For Gamblers Fallacy:
+Step 1 evaluation: Yes - The situation clearly involves pure random chance (coin flips).
+Step 2 evaluation: Yes - Previous outcomes (five heads) are explicitly referenced.
+Step 3 evaluation: Yes - The argument claims the next flip will “probably be tails” based on past flips.
+Step 4 evaluation: Yes - It assumes dependence between independent random events (coin flips are independent).
+
+Pattern comparison: My answers \[Yes/Yes/Yes/Yes] exactly match ground truth \[Yes/Yes/Yes/Yes]
+
+#

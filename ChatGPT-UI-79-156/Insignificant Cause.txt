@@ -1,0 +1,9 @@
+\#classification: Confusing an Explanation with an Excuse#
+
+For Confusing an Explanation with an Excuse:
+Step 1 evaluation: Yes - The statement contains a claim (Billy committed murder) and an explanation is provided (he was spanked as a child).
+Step 2 evaluation: Yes - The explanation attempts to clarify a possible cause (spanking) for the behavior (murder).
+Step 3 evaluation: No - No relevant supporting evidence is offered to substantiate that the explanation (spanking) directly accounts for the murder.
+Step 4 evaluation: Yes - The explanation is framed in a way that seems to justify or excuse the behavior rather than merely explain it.
+
+Pattern comparison: My answers \[Yes/Yes/No/Yes] exactly match ground truth \[Yes/Yes/No/Yes]#

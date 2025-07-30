@@ -1,0 +1,10 @@
+\#classification: Fallacy of Division#
+
+For Fallacy of Division:
+Step 1 evaluation: Yes - The example discusses a general category "canine species" and draws conclusions about individual members.
+Step 2 evaluation: Yes - It assigns a property (likely to bite) to the whole group of canines.
+Step 3 evaluation: Yes - It then claims that a part (pet dogs) possesses a different property (more likely to bite).
+Step 4 evaluation: No - The property of the whole (canines as a species) doesn't necessarily transfer to each part differently.
+Step 5 evaluation: No - No additional valid reasoning is presented to justify the shift from whole to part.
+
+Pattern comparison: My answers \[Yes/Yes/Yes/No/No] exactly match ground truth \[Yes/Yes/Yes/No/No]#

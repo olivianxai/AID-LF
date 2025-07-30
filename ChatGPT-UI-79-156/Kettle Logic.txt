@@ -1,0 +1,11 @@
+\#classification: Kettle Logic#
+
+For Kettle Logic:
+Step 1 evaluation: Yes - The man is defending himself against an accusation (that he returned a damaged kettle).
+Step 2 evaluation: Yes - He offers multiple defenses: he didn’t damage it, it was already damaged, and he never borrowed it.
+Step 3 evaluation: Yes - The defenses contradict one another logically (he cannot both have returned it and never borrowed it).
+Step 4 evaluation: Yes - These contradictory defenses are presented simultaneously.
+
+Pattern comparison: My answers \[Yes/Yes/Yes/Yes] exactly match ground truth \[Yes/Yes/Yes/Yes]
+
+#

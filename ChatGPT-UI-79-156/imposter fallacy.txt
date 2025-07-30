@@ -1,0 +1,12 @@
+\#classification: Imposter Fallacy#
+
+For Imposter Fallacy:
+Step 1 evaluation: Yes - Frieda claims Trump supporters were holding "White Power" signs, implying they represent the group.
+Step 2 evaluation: Yes - Garry responds by claiming these individuals were actually liberals pretending to be Trump supporters.
+Step 3 evaluation: No - Garry provides no evidence for the infiltration claim.
+Step 4 evaluation: No - Garry's argument hinges on the idea that true Trump supporters wouldn't do this, without justification.
+Step 5 evaluation: Yes - Garry suggests liberals are infiltrating to make Trump supporters look bad.
+
+Pattern comparison: My answers \[Yes/Yes/No/No/Yes] exactly match ground truth \[Yes/Yes/No/No/Yes]
+
+#

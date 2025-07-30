@@ -1,0 +1,12 @@
+\#classification: Complex Question Fallacy#
+
+For Complex Question Fallacy:
+Step 1 evaluation: Yes - The question "How many times per day do you beat your wife?" is being asked.
+Step 2 evaluation: Yes - The question contains the built-in assumption that the person being asked does beat their wife.
+Step 3 evaluation: Yes - The assumption is misleading because it presumes guilt without evidence or clarification.
+Step 4 evaluation: Yes - The phrasing of the question protects the asker from direct accusation by embedding the presupposition.
+Step 5 evaluation: Yes - Any direct answer would imply acceptance of the embedded assumption (that beating occurs).
+
+Pattern comparison: My answers \[Yes/Yes/Yes/Yes/Yes] exactly match ground truth \[Yes/Yes/Yes/Yes/Yes]
+
+#
