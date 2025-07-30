@@ -1,0 +1,9 @@
+\#classification: Inconsistency#
+
+For Inconsistency:
+Step 1 evaluation: Yes - the statement asserts two distinct propositions (certainty and uncertainty)
+Step 2 evaluation: Yes - certainty and uncertainty are logically incompatible and cannot both be true
+Step 3 evaluation: Yes - both propositions are presented as valid truths in the statement
+Step 4 evaluation: No - the inconsistency is not presented as an intentional rhetorical effect
+
+Pattern comparison: My answers \[yes/yes/yes/no] exactly match ground truth \[yes/yes/yes/no]

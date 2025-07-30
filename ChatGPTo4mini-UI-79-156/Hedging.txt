@@ -1,0 +1,11 @@
+\#classification: Hasty Generalization#
+
+For Hasty Generalization:
+Step 1 evaluation: Yes – A sample (“the women I know”) is used as evidence.
+Step 2 evaluation: Yes – The sample size (around a hundred women) is unreasonably small relative to all women.
+Step 3 evaluation: Yes – The sample is unrepresentative of the broader population of women.
+Step 4 evaluation: Yes – A broad conclusion (“all women are evil…”) is drawn from this sample.
+Step 5 evaluation: Yes – The conclusion is applied to a much larger population (“all the others”).
+Step 6 evaluation: Yes – Relevant statistical data or larger patterns are ignored.
+
+Pattern comparison: My answers \[yes/yes/yes/yes/yes/yes] exactly match ground\_truth \[yes/yes/yes/yes/yes/yes]

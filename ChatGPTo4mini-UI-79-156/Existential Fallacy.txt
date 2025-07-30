@@ -1,0 +1,9 @@
+\#classification: Existential Fallacy#
+
+For Existential Fallacy:
+Step 1 evaluation: Yes - the argument is a categorical syllogism with two premises and one conclusion.
+Step 2 evaluation: Yes - both premises use universal qualifiers (“All babysitters…,” “All babysitter club members…”).
+Step 3 evaluation: Yes - the conclusion uses an existential qualifier (“some babysitter club members…”).
+Step 4 evaluation: Yes - it assumes that because all X are Y, some X must exist.
+
+Pattern comparison: My answers \[yes, yes, yes, yes] exactly match ground truth \[yes, yes, yes, yes]

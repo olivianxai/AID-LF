@@ -1,0 +1,10 @@
+\#classification: False Dilemma#
+
+For False Dilemma:
+Step 1 evaluation: Yes – The statement presents only two options (Catholic or Muslim).
+Step 2 evaluation: Yes – It uses “or” language by comparing Catholic versus Muslim.
+Step 3 evaluation: Yes – Other religious or nonreligious identities are excluded.
+Step 4 evaluation: Yes – Many other viable affiliations exist beyond those two.
+Step 5 evaluation: Yes – It forces a choice between the limited options while ignoring other legitimate possibilities.
+
+Pattern comparison: My answers \[Yes/Yes/Yes/Yes/Yes] exactly match ground truth \[yes/yes/yes/yes/yes]

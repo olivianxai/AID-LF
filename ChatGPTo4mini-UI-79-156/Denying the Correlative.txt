@@ -1,0 +1,7 @@
+\#classification: Argument from Ignorance#
+
+For Argument from Ignorance:
+Step 1 evaluation: Yes - Rocco claims Paulie does not have the money.
+Step 2 evaluation: Yes - He infers Paulie doesn’t have it solely because there’s no evidence he does.
+Step 3 evaluation: No - There’s no substantial evidence to support that inference.
+Pattern comparison: My answers \[Yes/Yes/No] exactly match ground truth \[Yes/Yes/No]

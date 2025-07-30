@@ -1,0 +1,10 @@
+\#classification: Ad Hominem Abusive#
+
+For Ad Hominem Abusive:
+Step 1 evaluation: Yes – Mom asserts that watching TV too close causes blindness.
+Step 2 evaluation: Yes – Johnny responds by calling Mom’s assertion “B.S.” (a personal attack).
+Step 3 evaluation: Yes – The insult is irrelevant to whether the claim about TV and blindness is valid.
+Step 4 evaluation: Yes – Johnny uses the insult to dismiss Mom’s claim rather than addressing its merits.
+Step 5 evaluation: Yes – He rejects the claim solely because he devalues Mom’s credibility.
+
+Pattern comparison: My answers yes/yes/yes/yes/yes exactly match ground truth yes/yes/yes/yes/yes

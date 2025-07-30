@@ -1,0 +1,9 @@
+\#classification: Hot Hand Fallacy#
+
+For Hot Hand Fallacy:
+Step 1 evaluation: Yes – the conversation involves a sequence of wins in a chance‐based game.
+Step 2 evaluation: Yes – Carlos attributes the streak to being “hot” rather than randomness.
+Step 3 evaluation: Yes – he predicts future outcomes based on the current streak.
+Step 4 evaluation: Yes – shooting craps is a game of pure chance, not skill.
+Step 5 evaluation: Yes – he ignores the independence of each roll.
+Pattern comparison: My answers \[yes, yes, yes, yes, yes] exactly match ground truth \[yes, yes, yes, yes, yes]

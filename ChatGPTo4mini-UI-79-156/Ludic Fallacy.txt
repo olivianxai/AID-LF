@@ -1,0 +1,9 @@
+\#classification: Gamblers Fallacy#
+
+For Gamblers Fallacy:
+Step 1 evaluation: Yes - the situation involves flipping a fair coin, a pure random independent event.
+Step 2 evaluation: Yes - the argument references the previous 99 heads outcomes.
+Step 3 evaluation: Yes - Fat Tony claims that the past sequence influences the probability of the next flip.
+Step 4 evaluation: Yes - this incorrectly assumes dependence between independent random events.
+
+Pattern comparison: My answers \[Y/Y/Y/Y] exactly match ground truth \[Y/Y/Y/Y]

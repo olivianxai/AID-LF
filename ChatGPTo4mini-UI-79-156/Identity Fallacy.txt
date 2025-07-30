@@ -1,0 +1,9 @@
+\#classification: Identity Fallacy#
+
+For Identity Fallacy:
+Step 1 evaluation: Yes – the scenario involves two parties: S.J. Sam makes a claim, then Cindy responds&#x20;
+Step 2 evaluation: Yes – Cindy presents research evidence, then S.J. Sam dismisses her argument
+Step 3 evaluation: Yes – S.J. Sam rejects Cindy’s point solely because she is not Asian
+Step 4 evaluation: Yes – the dismissal ignores Cindy’s cited research and the merits of her argument
+Step 5 evaluation: Yes – the validity of the argument about bias is independent of the speaker’s identity
+Step 6 evaluation: Yes – whether employers favor Asian workers does not depend on Cindy’s ethnicity

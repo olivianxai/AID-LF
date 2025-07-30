@@ -1,0 +1,9 @@
+\#classification: False Dilemma#
+
+For False Dilemma:
+Step 1 evaluation: Yes – the statement presents only two possible choices.
+Step 2 evaluation: Yes – it uses “either / or” phrasing.
+Step 3 evaluation: Yes – it excludes any other options.
+Step 4 evaluation: Yes – other reasonable positions exist beyond those two.
+Step 5 evaluation: Yes – it forces a binary choice while ignoring other possibilities.
+Pattern comparison: My answers \[yes/yes/yes/yes/yes] exactly match ground truth \[yes/yes/yes/yes/yes]

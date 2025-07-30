@@ -1,0 +1,9 @@
+\#classification: Galileo Fallacy#
+
+For Galileo Fallacy:
+Step 1 evaluation: Yes - There is a claim that Elvis is still alive and living on another planet.
+Step 2 evaluation: Yes - Their claim is mocked as odd and opposed by the majority.
+Step 3 evaluation: Yes - They argue that because Galileo was once called nuts, their persecution implies truth.
+Step 4 evaluation: Yes - The reasoning rests solely on the analogy to Galileo’s persecution, not on evidence for Elvis’s survival.
+
+Pattern comparison: My answers \[Yes/Yes/Yes/Yes] exactly match ground truth \[Yes/Yes/Yes/Yes]

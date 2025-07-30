@@ -1,0 +1,8 @@
+\#classification: Contextomy#
+
+For Contextomy:
+Step 1 evaluation: Yes – An external source (BrightBert News) is quoted as support.
+Step 2 evaluation: No – The headline’s paraphrase shifts the meaning from the original fuller statement.
+Step 3 evaluation: Yes – The argument relies on the out-of-context headline to portray the president as calling “fat people” losers.
+
+Pattern comparison: My answers \[yes/no/yes] exactly match ground truth \[yes/no/yes]

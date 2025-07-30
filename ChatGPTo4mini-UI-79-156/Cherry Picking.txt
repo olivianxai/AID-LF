@@ -1,0 +1,8 @@
+\#classification: Non Sequitur#
+
+For Non Sequitur:
+Step 1 evaluation: Yes – There is a clear conclusion to hire Andy based on the preceding dialogue.
+Step 2 evaluation: Yes – The employer cites his resume statements and previous employer’s testimony as premises.
+Step 3 evaluation: No – The negative testimony about changing things unnecessarily and poor customer relations is irrelevant to justifying his hiring.
+
+Pattern comparison: My answers \[Yes/Yes/No] exactly match ground truth \[yes/yes/no]

@@ -1,0 +1,10 @@
+\#classification: Survivorship Fallacy#
+
+For Survivorship Fallacy:
+Step 1 evaluation: Yes – the argument draws a conclusion based on the single example of the father surviving despite heavy smoking.
+Step 2 evaluation: Yes – it implicitly contrasts the surviving father with those who didn’t “survive” long enough to be cited.
+Step 3 evaluation: Yes – only the survivor’s case is considered, excluding those who suffered smoking-related deaths.
+Step 4 evaluation: Yes – it ignores the experiences of smokers who died earlier from smoking-related causes.
+Step 5 evaluation: Yes – it generalizes from this lone survivor’s experience to conclude smoking “can’t be that bad.”
+
+Pattern comparison: My answers \[yes, yes, yes, yes, yes] exactly match ground truth \[yes, yes, yes, yes, yes]

@@ -1,0 +1,11 @@
+\#classification: Hypothesis Contrary to Fact#
+
+For Hypothesis Contrary to Fact:
+Step 1 evaluation: Yes – The statement describes a hypothetical scenario about a past decision to take back roads.
+Step 2 evaluation: Yes – It uses an “if…then” conditional reasoning about alternative circumstances (“If you had taken the main roads…”).
+Step 3 evaluation: Yes – It speculates what would have happened (not being stuck in traffic) based on that alternate choice.
+Step 4 evaluation: Yes – The hypothetical outcome is treated as certain rather than possible.
+Step 5 evaluation: No – There is no proper evidence supporting the causal link between taking main roads and avoiding the traffic accident.
+Step 6 evaluation: No – No adequate justification is provided for the definitive claim about the counterfactual situation.
+
+Pattern comparison: My answers \[Yes/Yes/Yes/Yes/No/No] exactly match ground truth \[Yes/Yes/Yes/Yes/No/No]

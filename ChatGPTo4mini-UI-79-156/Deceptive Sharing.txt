@@ -1,0 +1,8 @@
+\#classification: Deceptive Sharing#
+
+For Deceptive Sharing:
+Step 1 evaluation: Yes – the content presents the specific, uncommon instance of a 7-year-old dying from COVID-19.
+Step 2 evaluation: Yes – sharing this anecdote without context misleads people into believing such events are common.
+Step 3 evaluation: Yes – there is no explicit claim about the event’s frequency; the misleading impression is implied.
+
+Pattern comparison: My answers \[Yes/Yes/Yes] exactly match ground truth \[yes/yes/yes]

@@ -1,0 +1,8 @@
+\#classification: Affirming the Consequent#
+
+For Affirming the Consequent:
+Step 1 evaluation: Yes - the argument begins with a conditional “If I have a PhD (P), then I am smart (Q).”
+Step 2 evaluation: Yes - the argument asserts the consequent “I am smart (Q)” as true.
+Step 3 evaluation: Yes - it infers the antecedent “I have a PhD (P)” from the truth of the consequent.
+
+Pattern comparison: My answers \[yes/yes/yes] exactly match ground truth \[yes/yes/yes]

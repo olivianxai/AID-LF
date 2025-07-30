@@ -1,0 +1,9 @@
+\#classification: Complex Question Fallacy#
+
+For Complex Question Fallacy:
+Step 1 evaluation: Yes – there is a direct question being asked.
+Step 2 evaluation: Yes – the question contains the built-in assumption that the respondent beats their wife.
+Step 3 evaluation: Yes – that assumption is misleading, presuming guilt without evidence.
+Step 4 evaluation: Yes – the question hides the claim (“you beat your wife”) to avoid a direct accusation.
+Step 5 evaluation: Yes – any answer implicitly accepts the embedded assumption.
+Pattern comparison: My answers \[Yes/Yes/Yes/Yes/Yes] exactly match ground truth \[yes/yes/yes/yes/yes]

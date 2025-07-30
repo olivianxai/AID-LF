@@ -1,0 +1,6 @@
+\#classification: Ad Hominem#
+
+For Ad Hominem:
+Step 1 evaluation: Yes - Charlie attacks Martin’s identity rather than addressing his claim.
+Step 2 evaluation: Yes - The attack hinges on an irrelevant personal trait (being white).
+Pattern comparison: My answers \[Yes, Yes] exactly match ground truth \[Yes, Yes]#

@@ -1,0 +1,8 @@
+\#classification: Denying the Antecedent#
+
+For Denying the Antecedent:
+Step 1 evaluation: Yes – The argument begins with a conditional “If it barks, then it is a dog.”
+Step 2 evaluation: No – The antecedent (“it barks”) is not confirmed as true; it is explicitly negated.
+Step 3 evaluation: Yes – The conclusion (“therefore it’s not a dog”) is drawn by using the falsehood of the antecedent to deny the consequent.
+
+Pattern comparison: My answers \[yes/no/yes] exactly match ground truth \[yes/no/yes]

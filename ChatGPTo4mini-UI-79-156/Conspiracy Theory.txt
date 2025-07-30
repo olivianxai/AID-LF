@@ -1,0 +1,8 @@
+\#classification: Conspiracy Theory#
+
+For Conspiracy Theory:
+Step 1 evaluation: Yes – the claim asserts that the Russian government has found Noah’s ark but is hiding it.
+Step 2 evaluation: Yes – it alleges they’re covering it up to prevent verification.
+Step 3 evaluation: No – no sufficient or reasonable evidence is provided to support the cover-up claim.
+
+Pattern comparison: My answers \[Yes/Yes/No] exactly match ground truth \[yes/yes/no]

@@ -1,0 +1,11 @@
+\#classification: Prejudicial Language#
+
+For Prejudicial Language:
+Step 1 evaluation: Yes – the statement “Those kids are a bunch of losers” asserts a claim about the children.
+Step 2 evaluation: Yes – it uses the loaded, emotive term “losers.”
+Step 3 evaluation: Yes – the insult is used to sway judgment rather than provide evidence.
+Step 4 evaluation: Yes – the argument rests on emotional impact instead of logical support.
+Step 5 evaluation: Yes – the emotive insult substitutes for any substantive reasoning.
+Step 6 evaluation: Yes – removing the term “losers” would strip the statement of its persuasive force without changing its logic.
+
+Pattern comparison: My answers \[Yes, Yes, Yes, Yes, Yes, Yes] exactly match ground\_truth \[yes, yes, yes, yes, yes, yes]

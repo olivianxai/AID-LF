@@ -1,0 +1,8 @@
+\#classification: Causal Reductionism#
+
+For Causal Reductionism:
+Step 1 evaluation: Yes – a claim is made attributing the dog’s garbage-digging behavior solely to “being a dog.”
+Step 2 evaluation: Yes – there are multiple potential causes (hunger, training, curiosity) that are ignored.
+Step 3 evaluation: Yes – the outcome is attributed to a single cause without addressing other relevant factors.
+
+Pattern comparison: My answers \[yes/yes/yes] exactly match ground truth \[yes/yes/yes]

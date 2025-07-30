@@ -1,0 +1,10 @@
+\#classification: Quantifier Shift Fallacy#
+
+For Quantifier Shift Fallacy:
+Step 1 evaluation: Yes - statement contains both universal (“everyone”) and existential (“someone”) quantifiers
+Step 2 evaluation: Yes - original asserts “Every person X should do something nice for some person Y”
+Step 3 evaluation: Yes - conclusion asserts “There exists Y (me) such that every person X should do something nice for Y”
+Step 4 evaluation: Yes - the order of quantifiers is swapped from ∀x∃y to ∃y∀x
+Step 5 evaluation: Yes - this reversal changes the logical meaning of the original statement
+Step 6 evaluation: Yes - the inference is invalid due to improper quantifier shift
+Pattern comparison: My answers \[yes,yes,yes,yes,yes,yes] exactly match ground truth \[yes,yes,yes,yes,yes,yes]

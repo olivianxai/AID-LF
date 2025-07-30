@@ -1,0 +1,9 @@
+\#classification: Distinction Without a Difference#
+
+For Distinction Without a Difference:
+Step 1 evaluation: Yes – the claim distinguishes “someone’s pet dog” (A) from “any member of the canine species” (B) as if they were different categories.
+Step 2 evaluation: Yes – the only basis for distinction is linguistic: pet dogs are treated as separate from the broader canine category.
+Step 3 evaluation: Yes – in practice, pet dogs are members of the canine species, so A and B are the same category.
+Step 4 evaluation: Yes – the conclusion (“more likely to be bitten by someone’s pet dog than by any canine”) relies entirely on that invalid distinction.
+
+Pattern comparison: My answers \[yes/yes/yes/yes] exactly match ground truth \[yes/yes/yes/yes]

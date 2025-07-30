@@ -1,0 +1,8 @@
+\#classification: Fallacy of the Undistributed Middle#
+
+For Fallacy of the Undistributed Middle:
+Step 1 evaluation: Yes - The argument is a categorical syllogism with two premises and one conclusion.
+Step 2 evaluation: Yes - Both premises link different categories (“lions” and “cats”) to the same middle term (“animals”) without distributing it.
+Step 3 evaluation: No - There is no additional valid reasoning or external evidence justifying the conclusion.
+
+Pattern comparison: My answers \[yes, yes, no] exactly match ground truth \[yes, yes, no]

@@ -1,0 +1,9 @@
+\#classification: Inconsistency#
+
+For Inconsistency:
+Step 1 evaluation: Yes – Sergio first asserts he “would never even consider” dancing lessons, then later expresses willingness under a condition.
+Step 2 evaluation: Yes – the two propositions (“never consider” vs. “willing to learn”) conflict logically.
+Step 3 evaluation: Yes – both conflicting propositions are presented as true statements.
+Step 4 evaluation: No – the inconsistency appears unintentional rather than a deliberate rhetorical choice.
+
+Pattern comparison: My answers \[Yes/Yes/Yes/No] exactly match ground truth \[Yes/Yes/Yes/No]

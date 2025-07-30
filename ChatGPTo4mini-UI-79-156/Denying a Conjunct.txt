@@ -1,0 +1,9 @@
+\#classification: Denying a Conjunct#
+
+For Denying a Conjunct:
+Step 1 evaluation: Yes – The argument asserts “I am not both a moron and an idiot,” denying that both conjuncts can be true.
+Step 2 evaluation: Yes – It further asserts “I am not a moron,” denying one conjunct.
+Step 3 evaluation: Yes – It concludes “Therefore, I am an idiot,” affirming the other conjunct based solely on the first two premises.
+Step 4 evaluation: No – There is no additional evidence supporting the conclusion beyond the premises.
+
+Pattern comparison: My answers \[Yes/Yes/Yes/No] exactly match ground truth \[Yes/Yes/Yes/No]&#x20;

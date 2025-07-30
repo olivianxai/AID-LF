@@ -1,0 +1,12 @@
+\#classification: Imposter Fallacy#
+
+For Imposter Fallacy:
+Step 1 evaluation: Yes - the example describes Trump supporters holding “White Power” signs that damage the group’s reputation.
+Step 2 evaluation: Yes - Garry asserts these individuals are actually liberals infiltrating the rally.
+Step 3 evaluation: No - Garry provides no evidence to support the infiltration claim.
+Step 4 evaluation: No - he does not assume genuine Trump supporters would display those signs.
+Step 5 evaluation: Yes - the argument states liberals intended to defame Trump supporters.
+
+Pattern comparison: My answers \[Y, Y, N, N, Y] exactly match ground truth \[Y, Y, N, N, Y]
+
+#

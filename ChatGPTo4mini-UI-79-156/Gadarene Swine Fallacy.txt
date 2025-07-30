@@ -1,0 +1,10 @@
+\#classification: Complex Question Fallacy#
+
+For Complex Question Fallacy:
+Step 1 evaluation: Yes – The example is phrased as a question.
+Step 2 evaluation: Yes – It contains a built-in assumption that the daughter isn’t “like the other girls.”
+Step 3 evaluation: Yes – That assumption is misleading, implying fault without justification.
+Step 4 evaluation: Yes – The question hides the claim of misbehavior to avoid direct accusation.
+Step 5 evaluation: Yes – Any answer would implicitly accept the embedded assumption.
+
+Pattern comparison: My answers \[yes, yes, yes, yes, yes] exactly match ground truth \[yes, yes, yes, yes, yes]

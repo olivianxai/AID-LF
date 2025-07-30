@@ -1,0 +1,10 @@
+\#classification: Ad Hominem Abusive#
+
+For Ad Hominem Abusive:
+Step 1 evaluation: Yes – Both parents make claims about how long the user should study.
+Step 2 evaluation: Yes – The statement attacks the parents’ knowledge (“Neither one of them knows what they are talking about”).
+Step 3 evaluation: Yes – The personal attack on their knowledge is irrelevant to whether their study advice is valid.
+Step 4 evaluation: Yes – Their perceived ignorance is used to reject their advice outright.
+Step 5 evaluation: Yes – It follows “Parent claims Y; Parent has negative trait Z (ignorance); therefore Y is false.”
+
+Pattern comparison: My answers \[yes/yes/yes/yes/yes] exactly match ground truth \[yes/yes/yes/yes/yes]

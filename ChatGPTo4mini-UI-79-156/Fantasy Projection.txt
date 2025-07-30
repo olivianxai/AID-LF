@@ -1,0 +1,10 @@
+\#classification: Ad Hominem Abusive#
+
+For Ad Hominem Abusive:
+Step 1 evaluation: Yes – Freddie asserts “we live in a cruel world… people who are mostly nasty.”
+Step 2 evaluation: Yes – He says “If you don’t see that, something is wrong with you,” attacking the listener.
+Step 3 evaluation: Yes – The personal attack on dissenters is irrelevant to whether the world is cruel.
+Step 4 evaluation: Yes – The attack is used to discredit anyone who disagrees with his claim.
+Step 5 evaluation: Yes – Follows the pattern: “Person X claims Y; Person X (or listener) has negative trait Z; therefore Y stands unchallenged by argument.”
+
+Pattern comparison: My answers \[yes/yes/yes/yes/yes] exactly match ground truth \[yes/yes/yes/yes/yes]

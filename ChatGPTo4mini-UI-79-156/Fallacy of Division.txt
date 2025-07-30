@@ -1,0 +1,12 @@
+\#classification: Fallacy of Division#
+
+For Fallacy of Division:
+Step 1 evaluation: Yes – the argument discusses the relationship between the whole (house) and its parts (doors).
+Step 2 evaluation: Yes – it attributes a property of the whole (smaller house size) to the parts.
+Step 3 evaluation: Yes – it concludes the doors possess the same reduced size property.
+Step 4 evaluation: No – the size of the house does not necessarily transfer to the doors.
+Step 5 evaluation: No – there is no additional valid reasoning or evidence justifying this transfer.
+
+Pattern comparison: My answers \[Y,Y,Y,N,N] exactly match ground\_truth \[Y,Y,Y,N,N]
+
+#

@@ -1,0 +1,8 @@
+\#classification: Definist Fallacy#
+
+For Definist Fallacy:
+Step 1 evaluation: Yes - The speaker presents a new definition of “creationism.”
+Step 2 evaluation: Yes - The standard, neutral definition is replaced because it would undermine the disparaging argument.
+Step 3 evaluation: Yes - The novel, pejorative definition serves the speaker’s goal of dismissing creationism.
+Step 4 evaluation: Yes - The redefinition is used to discredit creationism without engaging its actual claims.
+Pattern comparison: My answers \[yes, yes, yes, yes] exactly match ground\_truth \[yes, yes, yes, yes]

@@ -1,0 +1,9 @@
+\#classification: Anonymous Authority#
+
+For Anonymous Authority:
+Step 1 evaluation: Yes – the speaker presents facts as claims from a TV program.
+Step 2 evaluation: Yes – the evidence is an unspecified or vague source (“a program I saw on TV once”).
+Step 3 evaluation: Yes – uses an indicator phrase akin to “I heard” by referencing seeing it on TV.
+Step 4 evaluation: No – the source cannot be verified since the program name is unknown.
+Step 5 evaluation: Yes – the argument’s credibility depends on this unverifiable source.
+Pattern comparison: My answers \[Yes/Yes/Yes/No/Yes] exactly match ground truth \[Yes/Yes/Yes/No/Yes]

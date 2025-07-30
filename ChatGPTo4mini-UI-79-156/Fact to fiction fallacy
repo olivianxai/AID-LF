@@ -1,0 +1,10 @@
+\#classification: Ad Hominem Abusive#
+
+For Ad Hominem Abusive:
+Step 1 evaluation: Yes – the statement asserts “it is crazy to panic about a virus,” presenting a claim to reject panic.
+Step 2 evaluation: Yes – the speaker calls the target a “moron.”
+Step 3 evaluation: Yes – the personal insult is irrelevant to whether panic is reasonable.
+Step 4 evaluation: Yes – the insult is used to discredit the target’s argument about panic.
+Step 5 evaluation: Yes – the form “Person X is a moron, therefore their claim is false” is followed.
+
+Pattern comparison: My answers \[yes/yes/yes/yes/yes] exactly match ground truth \[yes/yes/yes/yes/yes]

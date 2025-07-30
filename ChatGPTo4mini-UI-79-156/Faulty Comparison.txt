@@ -1,0 +1,9 @@
+\#classification: Incomplete Comparison#
+
+For Incomplete Comparison:
+Step 1 evaluation: Yes – the statement uses “less fat” as a comparative claim.
+Step 2 evaluation: No – it fails to specify the exact context or unit (e.g., serving size) for the comparison.
+Step 3 evaluation: No – you cannot verify the claim with only the information given.
+Step 4 evaluation: Yes – it presents a vague superiority claim without sufficient context.
+
+Pattern comparison: My answers \[yes, no, no, yes] exactly match ground truth \[yes, no, no, yes]

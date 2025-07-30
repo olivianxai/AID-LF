@@ -1,0 +1,10 @@
+\#classification: Ad Hominem Abusive#
+
+For Ad Hominem Abusive:
+Step 1 evaluation: Yes - Fruitarians make a claim about diet and ethics.
+Step 2 evaluation: Yes - The response calls them “crazy people.”
+Step 3 evaluation: Yes - The attack on their sanity is irrelevant to their dietary argument.
+Step 4 evaluation: Yes - The personal attack is used to discredit their position.
+Step 5 evaluation: Yes - It follows the pattern “They are crazy, therefore their view is wrong.”
+
+Pattern comparison: My answers \[yes/yes/yes/yes/yes] exactly match ground truth \[yes/yes/yes/yes/yes]

@@ -1,0 +1,10 @@
+\#classification: Anonymous Authority#
+
+For Anonymous Authority:
+Step 1 evaluation: Yes - the guide makes a claim about the fossil’s age
+Step 2 evaluation: Yes - the guide cites unspecified “experts” as the source
+Step 3 evaluation: Yes - uses indicator phrasing (“experts… told me”)
+Step 4 evaluation: No - the experts cannot be independently verified
+Step 5 evaluation: Yes - the argument’s credibility rests solely on this unverifiable source
+
+Pattern comparison: My answers \[yes/yes/yes/no/yes] exactly match ground\_truth \[yes/yes/yes/no/yes]

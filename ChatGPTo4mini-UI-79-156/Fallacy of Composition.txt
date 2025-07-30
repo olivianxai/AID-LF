@@ -1,0 +1,11 @@
+\#classification: Fallacy of Composition#
+
+For Fallacy of Composition:
+Step 1 evaluation: Yes - There is a part-to-whole relationship between individual bricks and the building
+Step 2 evaluation: Yes - A weight property (“weighs less than a pound”) is attributed to each brick
+Step 3 evaluation: Yes - The conclusion asserts the whole building has the same weight property
+Step 4 evaluation: No - The property of individual bricks’ weight does not necessarily transfer to the entire building
+Step 5 evaluation: No - No additional valid reasoning or evidence is provided to justify the conclusion
+Pattern comparison: My answers \[yes, yes, yes, no, no] exactly match ground truth \[yes, yes, yes, no, no]
+
+#

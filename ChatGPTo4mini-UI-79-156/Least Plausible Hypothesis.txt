@@ -1,0 +1,9 @@
+\#classification: Appeal to Pity#
+
+For Appeal to Pity:
+Step 1 evaluation: Yes – a claim is made that she didn’t intentionally stand me up but was prevented by circumstances.
+Step 2 evaluation: Yes – the argument invokes pity by describing her father’s heart attack to support the claim.
+Step 3 evaluation: No – the pity-inducing information is not actually evidence of why she forgot her phone or failed to show up in a logical sense.
+Step 4 evaluation: Yes – the conclusion relies primarily on eliciting sympathy rather than on substantive proof.
+
+Pattern comparison: My answers \[yes/yes/no/yes] exactly match ground truth \[yes/yes/no/yes]

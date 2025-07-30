@@ -1,0 +1,9 @@
+\#classification: Exclusive Premises#
+
+For Exclusive Premises:
+Step 1 evaluation: Yes - The argument is structured as a categorical syllogism with two premises and one conclusion.
+Step 2 evaluation: Yes - Both premises are negative statements (“No kangaroos are MMA fighters” and “Some MMA fighters are not Mormons”).
+Step 3 evaluation: Yes - The first premise uses the format “No X are Y.”
+Step 4 evaluation: Yes - The second premise uses the format “Some Y are not Z.”
+Step 5 evaluation: Yes - The conclusion “Some Mormons are not kangaroos” relates the first term (kangaroos) and the third term (Mormons).
+Pattern comparison: My answers \[yes, yes, yes, yes, yes] exactly match ground truth \[yes, yes, yes, yes, yes]

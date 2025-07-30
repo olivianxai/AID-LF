@@ -1,0 +1,8 @@
+\#classification: Ad Hominem Tu quoque#
+
+For Ad Hominem Tu quoque:
+Step 1 evaluation: Yes – There are two parties: the husband makes a claim and the wife responds.
+Step 2 evaluation: Yes – The wife points out an inconsistency between the husband’s argument and his past actions.
+Step 3 evaluation: Yes – The wife’s conclusion rejects the husband’s argument solely based on his inconsistency.
+
+Pattern comparison: My answers \[Yes/Yes/Yes] exactly match ground truth \[yes/yes/yes]

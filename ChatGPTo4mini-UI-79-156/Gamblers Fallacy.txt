@@ -1,0 +1,9 @@
+\#classification: Gamblers Fallacy#
+
+For Gamblers Fallacy:
+Step 1 evaluation: Yes – the example involves coin flips, which are pure random independent events.
+Step 2 evaluation: Yes – it references the previous five heads.
+Step 3 evaluation: Yes – it claims that past outcomes influence the next flip’s probability.
+Step 4 evaluation: Yes – it wrongly assumes dependence between independent random events.
+
+Pattern comparison: My answers \[yes, yes, yes, yes] exactly match ground\_truth \[yes, yes, yes, yes]

@@ -1,0 +1,7 @@
+\#classification: Fallacy of the Undistributed Middle#
+
+For Fallacy of the Undistributed Middle:
+Step 1 evaluation: Yes – It is a categorical syllogism with two premises (“All hotdogs are fast food” and “No hamburgers are hotdogs”) and one conclusion.
+Step 2 evaluation: Yes – Both premises link different categories (hamburgers and fast food) to the same middle term (hotdogs), and the conclusion directly links hamburgers and fast food.
+Step 3 evaluation: No – There is no additional valid reasoning or evidence outside the premises to justify the conclusion.
+Pattern comparison: My answers \[Yes/Yes/No] exactly match ground truth \[Yes/Yes/No]

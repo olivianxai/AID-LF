@@ -1,0 +1,11 @@
+\#classification: Inconsistency#
+
+For Inconsistency:
+Step 1 evaluation: Yes - the statement asserts both “I never said most of the things” and “I said those things,” presenting two distinct propositions.
+Step 2 evaluation: Yes - denying having said something and simultaneously affirming having said it are logically incompatible.
+Step 3 evaluation: Yes - both the denial and affirmation are presented as true assertions by the speaker.
+Step 4 evaluation: No - the inconsistency appears unintentional or humorous rather than a deliberate rhetorical device.
+
+Pattern comparison: My answers \[yes/yes/yes/no] exactly match ground truth \[yes/yes/yes/no]
+
+#

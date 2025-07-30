@@ -1,0 +1,9 @@
+\#classification: Affirmative Conclusion from a Negative Premise#
+
+For Affirmative Conclusion from a Negative Premise:
+Step 1 evaluation: Yes – the argument is structured as a categorical syllogism involving classes of Catholics and Jews.
+Step 2 evaluation: Yes – the premise “No Catholics are Jews” is a negative statement.
+Step 3 evaluation: Yes – the conclusion “No non-Jews are non-Catholics” is affirmative (equivalent to “All non-Jews are Catholics”).
+Step 4 evaluation: No – you cannot validly derive an affirmative conclusion from only a negative premise.
+
+Pattern comparison: My answers \[Yes/Yes/Yes/No] exactly match ground truth \[Yes/Yes/Yes/No]

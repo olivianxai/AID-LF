@@ -1,0 +1,8 @@
+\#classification: Begging the Question#
+
+For Begging the Question:
+Step 1 evaluation: Yes – there is a claim that “My car broke down because it is no longer working.”
+Step 2 evaluation: Yes – the argument’s validity depends on already accepting what it’s trying to prove (that the car no longer works).
+Step 3 evaluation: Yes – the claim uses circular reasoning, as the premise and conclusion restate the same fact.
+
+Pattern comparison: My answers \[Yes/Yes/Yes] exactly match ground truth \[yes/yes/yes]

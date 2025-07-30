@@ -1,0 +1,12 @@
+\#classification: Illicit Substitution of Identicals#
+
+For Illicit Substitution of Identicals:
+Step 1 evaluation: Yes - the argument states that the lady in the pink dress is Julia Roberts.
+Step 2 evaluation: Yes - the reporter thinks the lady in the pink dress drives a Prius.
+Step 3 evaluation: Yes - the argument substitutes Julia Roberts into the reporter’s belief context.
+Step 4 evaluation: Yes - it concludes the reporter attributes driving a Prius to Julia Roberts.
+Step 5 evaluation: No - the reporter does not recognize that the lady in the pink dress and Julia Roberts are the same person.
+
+Pattern comparison: My answers \[yes/yes/yes/yes/no] exactly match ground truth \[yes/yes/yes/yes/no]
+
+#

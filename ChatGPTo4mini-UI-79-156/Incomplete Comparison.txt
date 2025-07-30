@@ -1,0 +1,8 @@
+\#classification: Conspiracy Theory#
+
+For Conspiracy Theory:
+Step 1 evaluation: Yes – Garry’s response claims that the signs were faked by liberals rather than genuine Trump supporters.
+Step 2 evaluation: Yes – He asserts they did this specifically to make Trump supporters look bad, thereby hiding the true origin of the signs.
+Step 3 evaluation: No – He provides no credible evidence to support the claim of a deliberate ruse by liberals.
+
+Pattern comparison: My answers \[Yes/Yes/No] exactly match ground\_truth \[yes/yes/no]

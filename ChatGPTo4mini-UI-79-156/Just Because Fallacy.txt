@@ -1,0 +1,10 @@
+\#classification: Just Because Fallacy#
+
+For Just Because Fallacy:
+Step 1 evaluation: Yes - Mom asserts David cannot sleep over without providing reasoning.
+Step 2 evaluation: Yes - Trebor asks “Why not?”, requesting justification.
+Step 3 evaluation: Yes - Mom refuses to give reasons, responding only “Because.”
+Step 4 evaluation: Yes - Mom appeals to her own authority with “Because I said so.”
+Step 5 evaluation: Yes - No substantive reasoning or evidence is offered for the denial.
+
+Pattern comparison: My answers \[yes, yes, yes, yes, yes] exactly match ground\_truth \[yes, yes, yes, yes, yes]

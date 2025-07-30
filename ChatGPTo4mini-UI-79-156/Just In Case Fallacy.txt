@@ -1,0 +1,8 @@
+\#classification: Appeal to Possibility#
+
+For Appeal to Possibility:
+Step 1 evaluation: Yes – the argument presents the possibility of getting excited, falling off your chair, and cracking your head open.
+Step 2 evaluation: Yes – it treats that mere possibility as though it were likely enough to justify wearing a helmet.
+Step 3 evaluation: No – it offers no substantial evidence to support the leap from “possible” to “probable.”
+
+Pattern comparison: My answers \[Yes/Yes/No] exactly match ground truth \[yes/yes/no]

@@ -1,0 +1,9 @@
+\#classification: False Conversion#
+
+For False Conversion:
+Step 1 evaluation: Yes – the premise “All Hollywood Squares contestants are bad actors” is a categorical proposition using “all.”
+Step 2 evaluation: Yes – the conclusion “All bad actors are Hollywood Squares contestants” switches the subject and predicate of the premise.
+Step 3 evaluation: No – the conclusion does not logically follow from the premise after swapping terms.
+Step 4 evaluation: No – there is no additional valid reasoning provided to justify the term swap.
+
+Pattern comparison: My answers \[yes/yes/no/no] exactly match ground truth \[yes/yes/no/no]

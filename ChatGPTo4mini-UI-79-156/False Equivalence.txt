@@ -1,0 +1,12 @@
+\#classification: Ad Hominem Abusive#
+
+For Ad Hominem Abusive:
+Step 1 evaluation: Yes - President Petutti ordered the military strike, so he made a claim/action Y.
+Step 2 evaluation: Yes - The statement attacks him as “no different than any other mass murderer” and says he belongs in prison.
+Step 3 evaluation: Yes - The personal attack on his character is irrelevant to whether the strike itself was justified.
+Step 4 evaluation: Yes - The attack on his character is used to dismiss and discredit his actions rather than address the strike’s merits.
+Step 5 evaluation: Yes - It follows the pattern: “Petutti claims/does Y; Petutti is a mass murderer (negative trait); therefore Y is false/should be punished.”
+
+Pattern comparison: My answers \[yes, yes, yes, yes, yes] exactly match ground truth \[yes, yes, yes, yes, yes]
+
+#

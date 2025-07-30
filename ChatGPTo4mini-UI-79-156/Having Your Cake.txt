@@ -1,0 +1,10 @@
+\#classification: Having Your Cake#
+
+For Having Your Cake:
+Step 1 evaluation: Yes – the speaker simultaneously endorses both “clean water” and “new factory jobs,” presenting two conflicting positions.
+Step 2 evaluation: No – there is no clear, definitive stance; the response avoids choosing either clean water or the factory.
+Step 3 evaluation: Yes – the structure lets the speaker retreat to either position (“I can appreciate…” both ways) without acknowledging a conflict.
+Step 4 evaluation: Yes – the speaker appears “right” whether prioritizing water or jobs, since both are affirmed.
+Step 5 evaluation: Yes – the ambiguity seems intentional to avoid committing to one side.
+
+Pattern comparison: My answers \[yes, no, yes, yes, yes] exactly match ground truth \[yes, no, yes, yes, yes]

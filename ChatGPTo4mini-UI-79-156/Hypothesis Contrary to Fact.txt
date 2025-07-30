@@ -1,0 +1,11 @@
+\#classification: Hypothesis Contrary to Fact#
+
+For Hypothesis Contrary to Fact:
+Step 1 evaluation: Yes – the statement describes a hypothetical scenario about a past event.
+Step 2 evaluation: Yes – it uses an “if…then” conditional reasoning about an alternative circumstance.
+Step 3 evaluation: Yes – it speculates on what “would have happened” without solid evidence.
+Step 4 evaluation: Yes – the hypothetical outcome is presented as a certain, factual result.
+Step 5 evaluation: No – there is no proper support connecting taking the course to current success.
+Step 6 evaluation: No – the claim makes a definitive assertion about the counterfactual without adequate justification.
+
+Pattern comparison: My answers \[yes/yes/yes/yes/no/no] exactly match ground truth \[yes/yes/yes/yes/no/no]

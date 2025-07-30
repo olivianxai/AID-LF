@@ -1,0 +1,8 @@
+\#classification: Appeal to Intuition#
+
+For Appeal to Intuition:
+Step 1 evaluation: Yes – The argument relies primarily on the speaker’s intuition or gut feeling about his aura.
+Step 2 evaluation: No – The speaker provides no logical reasons or evidence, only an intuitive sense.
+Step 3 evaluation: Yes – The conclusion (not liking him) is based solely on that intuitive feeling.
+
+Pattern comparison: My answers \[Yes/No/Yes] exactly match ground\_truth \[Yes/No/Yes]

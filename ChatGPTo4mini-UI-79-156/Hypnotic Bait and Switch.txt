@@ -1,0 +1,9 @@
+\#classification: Appeal to Emotion#
+
+For Appeal to Emotion:
+Step 1 evaluation: Yes – the ad makes the claim that “you would love Eatme ice-cream.”
+Step 2 evaluation: No – there is no legitimate evidence or logical reasoning provided to support why you’d love the ice-cream.
+Step 3 evaluation: Yes – it uses emotional content (love of country and family) as the primary justification.
+Step 4 evaluation: Yes – the emotional appeal is intended to manipulate acceptance of the conclusion.
+
+Pattern comparison: My answers \[Yes, No, Yes, Yes] exactly match ground\_truth \[yes, no, yes, yes]
