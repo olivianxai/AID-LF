@@ -2,7 +2,6 @@
  "Claude": {
   "hasty generalization": 29,
   "complex question fallacy": 16,
-  "reasoning": 15,
   "non sequitur": 14,
   "circular reasoning": 14,
   "argument from incredulity": 14,
@@ -707,4 +706,5 @@
   "style over substance": 0,
   "suppressed correlative": 0
  }
+
 }
