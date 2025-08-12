@@ -1,6 +1,6 @@
 stepwise_gpt_dict = {
     "Accent Fallacy":1,
-    "Accent Fallacy":1,
+    "Accident Fallacy":1,
     "Ad Fidentia":1,
     "Ad Hoc Rescue":1,
     "Ad Hominem Abusive":1,
@@ -32,7 +32,7 @@ stepwise_gpt_dict = {
     "Appeal to Desperation":1,
     "Appeal to Emotion":0,
     "Appeal to Equality":1,
-    "Appeal to Extremes fallacy":0,
+    "Appeal to Extremes":0,
     "Appeal to Faith":1,
     "Appeal to False Authority":1,
     "Appeal to Fear":0,
